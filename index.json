@@ -46,6 +46,15 @@
       "size": 1732962,
       "added": "2026-09-15",
       "preview": "previews/sky_burj_al_arab.png"
+    },
+    {
+      "id": "sky_cloudy_sea",
+      "category": "sky",
+      "name": "Cloudy Sea",
+      "sha256": "3712a9862aa52f156c93a64de1d17d737c6e0268a114019cc49b868ea3ead5b8",
+      "size": 12678807,
+      "added": "2026-09-15",
+      "preview": "previews/sky_cloudy_sea.png"
     }
   ]
 }
