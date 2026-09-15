@@ -28,6 +28,15 @@
       "size": 14097833,
       "added": "2026-09-15",
       "preview": "previews/sky_absol.png"
+    },
+    {
+      "id": "sky_blue_desert",
+      "category": "sky",
+      "name": "Blue Desert",
+      "sha256": "3ece8740d27fa1c640d18e672832a8047abadced56cd3cd8915c90145cde4835",
+      "size": 5754903,
+      "added": "2026-09-15",
+      "preview": "previews/sky_blue_desert.png"
     }
   ]
 }
