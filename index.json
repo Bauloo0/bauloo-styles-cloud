@@ -91,6 +91,15 @@
       "size": 13184846,
       "added": "2026-09-15",
       "preview": "previews/sky_green_polar_lights.png"
+    },
+    {
+      "id": "sky_purple_mountains",
+      "category": "sky",
+      "name": "Purple Mountains",
+      "sha256": "d657f9b412a99edd151898b8e807c232fac3e886e6ded09b98d7d52a1d29d94d",
+      "size": 13914139,
+      "added": "2026-09-15",
+      "preview": "previews/sky_purple_mountains.png"
     }
   ]
 }
