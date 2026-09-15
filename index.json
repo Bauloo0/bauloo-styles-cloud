@@ -19,6 +19,15 @@
       "size": 6897538,
       "added": "2026-09-15",
       "preview": "previews/sky_tostraight_sky.png"
+    },
+    {
+      "id": "sky_absol",
+      "category": "sky",
+      "name": "Absol",
+      "sha256": "39efe417a791cd1a078045b06b3d1288073bfa1c42b06cf75878b651a1eeeedb",
+      "size": 14097833,
+      "added": "2026-09-15",
+      "preview": "previews/sky_absol.png"
     }
   ]
 }
