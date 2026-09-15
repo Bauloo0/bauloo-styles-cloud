@@ -37,6 +37,15 @@
       "size": 5754903,
       "added": "2026-09-15",
       "preview": "previews/sky_blue_desert.png"
+    },
+    {
+      "id": "sky_burj_al_arab",
+      "category": "sky",
+      "name": "Burj Al Arab",
+      "sha256": "a5ea4b97ca465450b09f6fe903caa668d552c5eb8864a8763b5c0d6a232feb45",
+      "size": 1732962,
+      "added": "2026-09-15",
+      "preview": "previews/sky_burj_al_arab.png"
     }
   ]
 }
