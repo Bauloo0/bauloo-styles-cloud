@@ -7,6 +7,7 @@ and git only lets the account with write access push. Nothing secret is stored h
     python stylescloud.py publish <pack.zip> [preview.png]
     python stylescloud.py publish-auto <pack.zip> <category> <name> [preview.png]
     python stylescloud.py remove
+    python stylescloud.py remove-auto <style id>
 
 publish-auto asks nothing and replaces a style with the same name; the upload
 page in the mod uses it.
@@ -219,11 +220,34 @@ def remove():
     say(f"Removed '{style['name']}'.")
 
 
+def remove_auto(style_id):
+    """Removes one style by id without asking - used by the mod's upload page."""
+    ensure_repo()
+    index = load_index()
+    style = next((s for s in index["styles"] if s["id"] == style_id), None)
+    if style is None:
+        raise SystemExit(f"No published style with id {style_id}")
+    for rel in (f"packs/{style['id']}.zip", style.get("preview")):
+        if rel and os.path.exists(os.path.join(REPO_DIR, rel)):
+            os.remove(os.path.join(REPO_DIR, rel))
+    index["styles"] = [s for s in index["styles"] if s["id"] != style_id]
+    save_index(index)
+    git("add", "-A")
+    git("commit", "--quiet", "-m", f"Remove {style['category']} style: {style['name']}")
+    git("push", "--quiet")
+    say(f"Removed '{style['name']}'.")
+
+
 def main():
-    if len(sys.argv) < 2 or sys.argv[1] not in {"publish", "publish-auto", "remove"}:
+    if len(sys.argv) < 2 or sys.argv[1] not in {"publish", "publish-auto", "remove", "remove-auto"}:
         raise SystemExit(__doc__)
     if sys.argv[1] == "remove":
         remove()
+        return
+    if sys.argv[1] == "remove-auto":
+        if len(sys.argv) < 3:
+            raise SystemExit(__doc__)
+        remove_auto(sys.argv[2])
         return
     if sys.argv[1] == "publish-auto":
         if len(sys.argv) < 5:
