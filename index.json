@@ -73,6 +73,15 @@
       "size": 6175622,
       "added": "2026-09-15",
       "preview": "previews/sky_darkness.png"
+    },
+    {
+      "id": "sky_fairyland",
+      "category": "sky",
+      "name": "Fairyland",
+      "sha256": "7ed82cb27529a686718bd04df38b99a56e2b5bc42c0726bb0144ae1088da4e9f",
+      "size": 13291451,
+      "added": "2026-09-15",
+      "preview": "previews/sky_fairyland.png"
     }
   ]
 }
