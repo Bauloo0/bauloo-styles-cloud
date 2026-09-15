@@ -82,6 +82,15 @@
       "size": 13291451,
       "added": "2026-09-15",
       "preview": "previews/sky_fairyland.png"
+    },
+    {
+      "id": "sky_green_polar_lights",
+      "category": "sky",
+      "name": "Green Polar Lights",
+      "sha256": "ea71c4b63d824a1eb308bf42814aeca4f7701f613ffbfff93ee0593be21520f4",
+      "size": 13184846,
+      "added": "2026-09-15",
+      "preview": "previews/sky_green_polar_lights.png"
     }
   ]
 }
