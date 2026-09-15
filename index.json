@@ -10,6 +10,15 @@
       "size": 79784463,
       "added": "2026-09-15",
       "preview": "previews/sky_theos_pack_but_better.png"
+    },
+    {
+      "id": "sky_tostraight_sky",
+      "category": "sky",
+      "name": "ToStraight Sky",
+      "sha256": "82ce11961608d7bb17bdd56d86f04609649aae46bb2a85ff0762bd0f98fec7bd",
+      "size": 6897538,
+      "added": "2026-09-15",
+      "preview": "previews/sky_tostraight_sky.png"
     }
   ]
 }
