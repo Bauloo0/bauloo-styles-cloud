@@ -55,6 +55,15 @@
       "size": 12678807,
       "added": "2026-09-15",
       "preview": "previews/sky_cloudy_sea.png"
+    },
+    {
+      "id": "sky_dark_forest",
+      "category": "sky",
+      "name": "Dark Forest",
+      "sha256": "b7c720196406629997831f631b51638586cf0cbbef8730aa9d894db861c8d066",
+      "size": 10557804,
+      "added": "2026-09-15",
+      "preview": "previews/sky_dark_forest.png"
     }
   ]
 }
