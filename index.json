@@ -64,6 +64,15 @@
       "size": 10557804,
       "added": "2026-09-15",
       "preview": "previews/sky_dark_forest.png"
+    },
+    {
+      "id": "sky_darkness",
+      "category": "sky",
+      "name": "Darkness",
+      "sha256": "6eb377bde3df7b9fef3ce21718d16d85c446d25a16d5abad5fcb44e49b3bb485",
+      "size": 6175622,
+      "added": "2026-09-15",
+      "preview": "previews/sky_darkness.png"
     }
   ]
 }
