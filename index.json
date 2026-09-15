@@ -100,6 +100,15 @@
       "size": 13914139,
       "added": "2026-09-15",
       "preview": "previews/sky_purple_mountains.png"
+    },
+    {
+      "id": "sky_red_synthwave",
+      "category": "sky",
+      "name": "Red Synthwave",
+      "sha256": "a72fbc456155ba45162148503dcd097aa5e391a94249a550445d8e04ac875530",
+      "size": 8603651,
+      "added": "2026-09-15",
+      "preview": "previews/sky_red_synthwave.png"
     }
   ]
 }
