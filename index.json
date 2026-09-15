@@ -1,5 +1,14 @@
 {
   "version": 1,
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
-  "styles": []
+  "styles": [
+    {
+      "id": "sky_theos_pack_but_better",
+      "category": "sky",
+      "name": "Theos Pack But Better",
+      "sha256": "e6dbb87676b85f1a5cf2971a22a4365887c136dcbb00a489080db1cd8e4b1f5c",
+      "size": 79784463,
+      "added": "2026-09-15"
+    }
+  ]
 }
