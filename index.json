@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "anchor_tostraight_anchor",
+      "category": "anchor",
+      "name": "ToStraight Anchor",
+      "sha256": "16bf06613c3609008592e7a5298e66b3c794bbec0e733877e4643bad5bd1b778",
+      "size": 35721,
+      "added": "2026-09-18",
+      "preview": "previews/anchor_tostraight_anchor.png"
+    },
+    {
       "id": "sky_theos_pack_but_better",
       "category": "sky",
       "name": "Theos Pack But Better",
