@@ -12,6 +12,15 @@
       "preview": "previews/anchor_tostraight_anchor.png"
     },
     {
+      "id": "anchor_k1rbe_x_gpzr_vanilla_enhanced",
+      "category": "anchor",
+      "name": "K1RBE x Gpzr Vanilla Enhanced",
+      "sha256": "5d22fbab62260b2b452286c76c0dfb95c7fd5a51abb58ef85bb4cdefc539524d",
+      "size": 7506,
+      "added": "2026-09-18",
+      "preview": "previews/anchor_k1rbe_x_gpzr_vanilla_enhanced.png"
+    },
+    {
       "id": "sky_theos_pack_but_better",
       "category": "sky",
       "name": "Theos Pack But Better",
