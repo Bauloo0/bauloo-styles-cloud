@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "fire_lowfire_white",
+      "category": "fire",
+      "name": "LowFire white",
+      "sha256": "1a0a735ec049b38c8d94c0ea809cc6c8e9abc398ed8191aa52286e80771a07b7",
+      "size": 1320,
+      "added": "2026-09-19",
+      "preview": "previews/fire_lowfire_white.png"
+    },
+    {
       "id": "anchor_tostraight_anchor",
       "category": "anchor",
       "name": "ToStraight Anchor",
