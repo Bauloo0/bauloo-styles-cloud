@@ -12,6 +12,16 @@
       "preview": "previews/fire_lowfire_white.png"
     },
     {
+      "id": "sky_evantiisky_private",
+      "category": "sky",
+      "name": "EvantiiSky (private)",
+      "sha256": "bd270da9383a919d6e1aa321bddc86ed33a6895aed49fc8b131959b236e66fb4",
+      "size": 8286584,
+      "added": "2026-09-19",
+      "by": "claire",
+      "preview": "previews/sky_evantiisky_private.png"
+    },
+    {
       "id": "anchor_tostraight_anchor",
       "category": "anchor",
       "name": "ToStraight Anchor",
