@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "crystal_daquavious_crystals",
+      "category": "crystal",
+      "name": "Daquavious crystals",
+      "sha256": "1907759f06295b792f08f3bbed78cc701c9686966534e74dd01804fbfa7817e9",
+      "size": 3638,
+      "added": "2026-09-20",
+      "preview": "previews/crystal_daquavious_crystals.png"
+    },
+    {
       "id": "fire_lowfire_white",
       "category": "fire",
       "name": "LowFire white",
