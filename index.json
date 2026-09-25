@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "anchor_kesie_priv_remake",
+      "category": "anchor",
+      "name": "Kesie Priv Remake",
+      "sha256": "8efcfaf0ed32af0acac3e85d2e0fb1afd5b036d539d83275694651624675fe66",
+      "size": 5664,
+      "added": "2026-09-25",
+      "preview": "previews/anchor_kesie_priv_remake.png"
+    },
+    {
       "id": "crystal_daquavious_crystal",
       "category": "crystal",
       "name": "Daquavious crystal",
