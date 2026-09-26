@@ -21,6 +21,15 @@
       "preview": "previews/crystal_kesu_main.png"
     },
     {
+      "id": "crystal_blueberry_light",
+      "category": "crystal",
+      "name": "BlueBerry Light",
+      "sha256": "045b04b65ba887a430116e9c9015d0a0a9bd4e6d2a14bc197ba46aa380723790",
+      "size": 5969,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_blueberry_light.png"
+    },
+    {
       "id": "anchor_kesie_priv_remake",
       "category": "anchor",
       "name": "Kesie Priv Remake",
