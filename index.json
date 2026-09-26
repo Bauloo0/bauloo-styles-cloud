@@ -12,6 +12,15 @@
       "preview": "previews/sky_steven_universe_recolour.png"
     },
     {
+      "id": "crystal_kesu_main",
+      "category": "crystal",
+      "name": "Kesu Main",
+      "sha256": "16da02b83ada699d8a7a53c65c3fbb645e318fc1982a9d791454c47d5fb330cb",
+      "size": 4458,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_kesu_main.png"
+    },
+    {
       "id": "anchor_kesie_priv_remake",
       "category": "anchor",
       "name": "Kesie Priv Remake",
