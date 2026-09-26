@@ -30,6 +30,15 @@
       "preview": "previews/crystal_blueberry_light.png"
     },
     {
+      "id": "crystal_need_me",
+      "category": "crystal",
+      "name": "Need Me",
+      "sha256": "9efc85460a84bf77b5b91c5d71f8ecd1ce30b616cdd8d4c32e9bfec9b8820de8",
+      "size": 10694,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_need_me.png"
+    },
+    {
       "id": "anchor_kesie_priv_remake",
       "category": "anchor",
       "name": "Kesie Priv Remake",
