@@ -48,6 +48,15 @@
       "preview": "previews/sky_steven_universe_recolour.png"
     },
     {
+      "id": "crystal_gallery_walk",
+      "category": "crystal",
+      "name": "Gallery Walk",
+      "sha256": "57cdea0e00fcace735ddb77efd3632c79bd63e034ad4afd0452ca655b995ee38",
+      "size": 3632,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_gallery_walk.png"
+    },
+    {
       "id": "anchor_kesie_priv_remake",
       "category": "anchor",
       "name": "Kesie Priv Remake",
