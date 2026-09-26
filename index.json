@@ -39,6 +39,15 @@
       "preview": "previews/crystal_need_me.png"
     },
     {
+      "id": "crystal_digs_simple",
+      "category": "crystal",
+      "name": "Digs Simple",
+      "sha256": "8ac1ad6def90fc3c3c8f4a11a9c266a929d61b9964a130829d2fac867a6b8382",
+      "size": 1469,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_digs_simple.png"
+    },
+    {
       "id": "anchor_kesie_priv_remake",
       "category": "anchor",
       "name": "Kesie Priv Remake",
