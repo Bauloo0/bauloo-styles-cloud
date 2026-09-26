@@ -66,6 +66,15 @@
       "preview": "previews/crystal_dpallagongus.png"
     },
     {
+      "id": "crystal_pink_dlvaunta",
+      "category": "crystal",
+      "name": "Pink Dlvaunta",
+      "sha256": "c26ea66f1b6189db3f6e8d7ff5776ad4d04f3eee79b09d3b68b2b4df149da5b7",
+      "size": 4914,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_pink_dlvaunta.png"
+    },
+    {
       "id": "anchor_kesie_priv_remake",
       "category": "anchor",
       "name": "Kesie Priv Remake",
