@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "sky_steven_universe_recolour",
+      "category": "sky",
+      "name": "Steven Universe recolour",
+      "sha256": "766e318c0a3b93b8abce43464b73a35208eb61996ec8333bfd7b93a9bbf16608",
+      "size": 13237695,
+      "added": "2026-09-26",
+      "preview": "previews/sky_steven_universe_recolour.png"
+    },
+    {
       "id": "anchor_kesie_priv_remake",
       "category": "anchor",
       "name": "Kesie Priv Remake",
