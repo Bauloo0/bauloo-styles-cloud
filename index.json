@@ -57,6 +57,15 @@
       "preview": "previews/crystal_gallery_walk.png"
     },
     {
+      "id": "crystal_dpallagongus",
+      "category": "crystal",
+      "name": "Dpallagongus",
+      "sha256": "af47961d0ee6ddfb2ec0730aad1a33aa1eb394935ca6346fe14db278dff8c818",
+      "size": 3473,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_dpallagongus.png"
+    },
+    {
       "id": "anchor_kesie_priv_remake",
       "category": "anchor",
       "name": "Kesie Priv Remake",
