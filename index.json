@@ -33,6 +33,15 @@
       "preview": "previews/fire_pcrit_default.png"
     },
     {
+      "id": "sky_bthe6legend327_16x_6revamp",
+      "category": "sky",
+      "name": "bThe6Legend327 16x 6REVAMP",
+      "sha256": "28c7355e8a2d9e6046565a78dc79b19e5357879a42ea01a7d89eedeb18b3bfa6",
+      "size": 9497322,
+      "added": "2026-09-27",
+      "preview": "previews/sky_bthe6legend327_16x_6revamp.png"
+    },
+    {
       "id": "crystal_kesu_main",
       "category": "crystal",
       "name": "Kesu Main",
