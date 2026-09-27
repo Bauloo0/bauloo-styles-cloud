@@ -13,6 +13,16 @@
       "preview": "previews/anchor_gallery_walk_remake.png"
     },
     {
+      "id": "crystal_pcrit_default",
+      "category": "crystal",
+      "name": "pCrit default",
+      "sha256": "6db60c13ece0bcd68b26c4f0e130dcc81d63aedf222b6cb10c954a293ae4ea56",
+      "size": 5076,
+      "added": "2026-09-27",
+      "by": "samy",
+      "preview": "previews/crystal_pcrit_default.png"
+    },
+    {
       "id": "crystal_kesu_main",
       "category": "crystal",
       "name": "Kesu Main",
