@@ -3,6 +3,16 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "anchor_gallery_walk_remake",
+      "category": "anchor",
+      "name": "Gallery Walk Remake",
+      "sha256": "a7d7696f2d7f070888004cadf57fbaaefa4366f57b8639c23ff168c0c171fc01",
+      "size": 23528,
+      "added": "2026-09-27",
+      "by": "samy",
+      "preview": "previews/anchor_gallery_walk_remake.png"
+    },
+    {
       "id": "crystal_kesu_main",
       "category": "crystal",
       "name": "Kesu Main",
