@@ -23,6 +23,16 @@
       "preview": "previews/crystal_pcrit_default.png"
     },
     {
+      "id": "fire_pcrit_default",
+      "category": "fire",
+      "name": "pCrit default",
+      "sha256": "d49c1f7f0e85be36a3043f3a4804da6baa7d9a51250001e096b11948bb167aaa",
+      "size": 1525,
+      "added": "2026-09-27",
+      "by": "samy",
+      "preview": "previews/fire_pcrit_default.png"
+    },
+    {
       "id": "crystal_kesu_main",
       "category": "crystal",
       "name": "Kesu Main",
