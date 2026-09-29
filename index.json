@@ -66,6 +66,15 @@
       "preview": "previews/obsidian_dylan.png"
     },
     {
+      "id": "obsidian_aqua_plus",
+      "category": "obsidian",
+      "name": "Aqua Plus",
+      "sha256": "13a577fcb1b40c6c4475fa3d80be14337f5be25f5c2ce19a6b599eb373f3e98b",
+      "size": 4434,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_aqua_plus.png"
+    },
+    {
       "id": "anchor_gallery_walk_remake",
       "category": "anchor",
       "name": "Gallery Walk Remake",
