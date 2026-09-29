@@ -84,6 +84,15 @@
       "preview": "previews/obsidian_flat.png"
     },
     {
+      "id": "obsidian_awerial",
+      "category": "obsidian",
+      "name": "Awerial",
+      "sha256": "d7d73f5f388121076142a7e3c77a3d36ee7fbbc58481fab56eb13ca6a54e56c0",
+      "size": 4072,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_awerial.png"
+    },
+    {
       "id": "anchor_gallery_walk_remake",
       "category": "anchor",
       "name": "Gallery Walk Remake",
