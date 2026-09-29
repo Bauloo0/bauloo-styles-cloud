@@ -29,7 +29,7 @@ REPO_DIR = (os.environ.get("BAULOO_CLOUD_DIR")
             or (_PARENT if os.path.isdir(os.path.join(_PARENT, ".git")) else None)
             or os.path.join(os.path.expanduser("~"), "bauloo-styles-cloud"))
 MAX_PACK = 95 * 1024 * 1024
-CATEGORIES = ["crystal", "anchor", "armor", "fire", "sky"]
+CATEGORIES = ["crystal", "anchor", "armor", "fire", "sky", "obsidian", "sword", "pickaxe"]
 
 
 def say(text=""):
@@ -94,6 +94,12 @@ def guess_category(names):
         return "armor"
     if "block/fire_0" in joined or "block/fire_1" in joined:
         return "fire"
+    if "/obsidian.png" in joined:
+        return "obsidian"
+    if "_sword.png" in joined:
+        return "sword"
+    if "_pickaxe.png" in joined:
+        return "pickaxe"
     return ""
 
 
