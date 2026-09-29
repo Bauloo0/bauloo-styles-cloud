@@ -93,6 +93,15 @@
       "preview": "previews/obsidian_awerial.png"
     },
     {
+      "id": "obsidian_bauloo",
+      "category": "obsidian",
+      "name": "Bauloo",
+      "sha256": "a3074571ba55a7cfc27a40af6362c458a5a9f152642aafa2be81fc492e3f2527",
+      "size": 4545,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_bauloo.png"
+    },
+    {
       "id": "anchor_gallery_walk_remake",
       "category": "anchor",
       "name": "Gallery Walk Remake",
