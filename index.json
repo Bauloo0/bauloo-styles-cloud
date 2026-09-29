@@ -12,6 +12,15 @@
       "preview": "previews/obsidian_faith_kataxur.png"
     },
     {
+      "id": "obsidian_blossom",
+      "category": "obsidian",
+      "name": "Blossom",
+      "sha256": "0fad9f82a22e4f878dd59c610f75f9be9389fba68bb4a158c4684caebc3abc7f",
+      "size": 1164,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_blossom.png"
+    },
+    {
       "id": "anchor_gallery_walk_remake",
       "category": "anchor",
       "name": "Gallery Walk Remake",
