@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "obsidian_faith_kataxur",
+      "category": "obsidian",
+      "name": "Faith Kataxur",
+      "sha256": "a7c8002b68ac9f860a561da634b2b77cd9e6b283cdf8585d52d6ec53d2c1460c",
+      "size": 2043,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_faith_kataxur.png"
+    },
+    {
       "id": "anchor_gallery_walk_remake",
       "category": "anchor",
       "name": "Gallery Walk Remake",
