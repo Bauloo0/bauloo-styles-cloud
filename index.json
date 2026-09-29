@@ -75,6 +75,15 @@
       "preview": "previews/obsidian_aqua_plus.png"
     },
     {
+      "id": "obsidian_flat",
+      "category": "obsidian",
+      "name": "Flat",
+      "sha256": "4ce08dab314057cddeb65e84dac978d41d2d09eccbd635d652ec0f14acf9435e",
+      "size": 2087,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_flat.png"
+    },
+    {
       "id": "anchor_gallery_walk_remake",
       "category": "anchor",
       "name": "Gallery Walk Remake",
