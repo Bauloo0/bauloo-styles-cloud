@@ -30,6 +30,15 @@
       "preview": "previews/obsidian_kesu_default.png"
     },
     {
+      "id": "obsidian_kesu_main",
+      "category": "obsidian",
+      "name": "Kesu Main",
+      "sha256": "97ef367b40fbffb2f2322a429caeb567c48f63e4580ee6a6d57ba0cb91f34344",
+      "size": 1076,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_kesu_main.png"
+    },
+    {
       "id": "anchor_gallery_walk_remake",
       "category": "anchor",
       "name": "Gallery Walk Remake",
