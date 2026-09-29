@@ -57,6 +57,15 @@
       "preview": "previews/obsidian_midnight.png"
     },
     {
+      "id": "obsidian_dylan",
+      "category": "obsidian",
+      "name": "Dylan",
+      "sha256": "84c080517edc8e854cfa70aa466bec246d1bd6d443fa3e17575d6e2f93d82eed",
+      "size": 1491,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_dylan.png"
+    },
+    {
       "id": "anchor_gallery_walk_remake",
       "category": "anchor",
       "name": "Gallery Walk Remake",
