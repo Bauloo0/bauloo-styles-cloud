@@ -39,6 +39,15 @@
       "preview": "previews/obsidian_kesu_main.png"
     },
     {
+      "id": "obsidian_sunset",
+      "category": "obsidian",
+      "name": "Sunset",
+      "sha256": "6547742009f723221f3f9baa0347f102c1fa49662b0f50d4087045bcb28b8e6e",
+      "size": 958,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_sunset.png"
+    },
+    {
       "id": "anchor_gallery_walk_remake",
       "category": "anchor",
       "name": "Gallery Walk Remake",
