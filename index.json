@@ -48,6 +48,15 @@
       "preview": "previews/obsidian_sunset.png"
     },
     {
+      "id": "obsidian_midnight",
+      "category": "obsidian",
+      "name": "Midnight",
+      "sha256": "2dce3a37e2be7170396914c111ec2809a55f233008e9f162c394112d03f15cff",
+      "size": 744,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_midnight.png"
+    },
+    {
       "id": "anchor_gallery_walk_remake",
       "category": "anchor",
       "name": "Gallery Walk Remake",
