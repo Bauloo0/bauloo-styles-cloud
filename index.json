@@ -23,6 +23,15 @@
       "preview": "previews/armor_azell932_s_armour.png"
     },
     {
+      "id": "anchor_blue_pink_anchor",
+      "category": "anchor",
+      "name": "blue pink anchor",
+      "sha256": "ef017763b5bb164463eb495bfb3b41231921fe014ac6c3208151318aa0154c51",
+      "size": 12385,
+      "added": "2026-10-01",
+      "preview": "previews/anchor_blue_pink_anchor.png"
+    },
+    {
       "id": "obsidian_faith_kataxur",
       "category": "obsidian",
       "name": "Faith Kataxur",
