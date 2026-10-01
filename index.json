@@ -3,6 +3,16 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "anchor_azell932_s_anchor",
+      "category": "anchor",
+      "name": "azell932's anchor",
+      "sha256": "5482e6fd1d483e15fcb834c62ecda08e2c393033611644dd87a811c676ea94e1",
+      "size": 56284,
+      "added": "2026-10-01",
+      "by": "azell",
+      "preview": "previews/anchor_azell932_s_anchor.png"
+    },
+    {
       "id": "obsidian_faith_kataxur",
       "category": "obsidian",
       "name": "Faith Kataxur",
