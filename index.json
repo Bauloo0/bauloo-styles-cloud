@@ -13,6 +13,16 @@
       "preview": "previews/anchor_azell932_s_anchor.png"
     },
     {
+      "id": "armor_azell932_s_armour",
+      "category": "armor",
+      "name": "azell932's armour",
+      "sha256": "2e3e5ed1b5e8ab7b91c80b3e37ef51a2654bbbcf5c63cd89a6b21dd4e7e515a0",
+      "size": 21850,
+      "added": "2026-10-01",
+      "by": "azell",
+      "preview": "previews/armor_azell932_s_armour.png"
+    },
+    {
       "id": "obsidian_faith_kataxur",
       "category": "obsidian",
       "name": "Faith Kataxur",
