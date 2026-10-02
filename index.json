@@ -84,6 +84,15 @@
       "preview": "previews/gap_purp_edit.png"
     },
     {
+      "id": "gap_taurt",
+      "category": "gap",
+      "name": "Taurt",
+      "sha256": "a18df75a580cbb8d2fd8feaab3c6c279d0dd60e9da19356596b9c360f3ece621",
+      "size": 697,
+      "added": "2026-10-02",
+      "preview": "previews/gap_taurt.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
