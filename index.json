@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "sky_f_llexianlyy_8_lgray_f_ledit",
+      "category": "sky",
+      "name": "§f§lLexianlyy §8§lGray §f§lEdit",
+      "sha256": "16600761886b3c45141add2b0dae82001b2542693255295f26def82c42dc34b7",
+      "size": 9079904,
+      "added": "2026-10-02",
+      "preview": "previews/sky_f_llexianlyy_8_lgray_f_ledit.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
