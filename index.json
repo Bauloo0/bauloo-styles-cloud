@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "gap_aquaplus",
+      "category": "gap",
+      "name": "AquaPlus",
+      "sha256": "5a269ee44b8ad4abc6756ea774ae2836dc4a9af08f86a5ce212bd504bb4b8d00",
+      "size": 668,
+      "added": "2026-10-02",
+      "preview": "previews/gap_aquaplus.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
