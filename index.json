@@ -120,6 +120,15 @@
       "preview": "previews/pearl_dragneel.png"
     },
     {
+      "id": "pearl_faith_vanilla",
+      "category": "pearl",
+      "name": "Faith Vanilla",
+      "sha256": "10339a514c95837db783e12392e6471fad593592fbdb6d5356021257702d1477",
+      "size": 818,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_faith_vanilla.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
