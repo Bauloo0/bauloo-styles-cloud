@@ -264,6 +264,15 @@
       "preview": "previews/hotbar_faith_vanilla.png"
     },
     {
+      "id": "hotbar_kesie_blueberry",
+      "category": "hotbar",
+      "name": "Kesie BlueBerry",
+      "sha256": "fde00b3b32af7a58f7b6d080fd9728b1651efc2061b9c022c25ce07547429942",
+      "size": 4962,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_kesie_blueberry.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
