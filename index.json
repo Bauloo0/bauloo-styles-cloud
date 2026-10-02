@@ -192,6 +192,15 @@
       "preview": "previews/pearl_theos_pack.png"
     },
     {
+      "id": "pearl_tostraight",
+      "category": "pearl",
+      "name": "Tostraight",
+      "sha256": "b6a9ddab89aacb08aeda648bda2a233bb8c2b24a27bf48cff001921e5c2bc862",
+      "size": 1170,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_tostraight.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
