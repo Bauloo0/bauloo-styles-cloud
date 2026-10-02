@@ -156,6 +156,15 @@
       "preview": "previews/pearl_need_me.png"
     },
     {
+      "id": "pearl_purp_edit",
+      "category": "pearl",
+      "name": "Purp Edit",
+      "sha256": "b11fe665b0e26d32bf7ad3a8690f4cfe978ce1c8b0003699e79286d3bdc50690",
+      "size": 2484,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_purp_edit.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
