@@ -75,6 +75,15 @@
       "preview": "previews/gap_lavander.png"
     },
     {
+      "id": "gap_purp_edit",
+      "category": "gap",
+      "name": "Purp Edit",
+      "sha256": "ca8e15e1815caef93da72a82a6770c1c0bd1abebf304fbda156423274bcc2552",
+      "size": 826,
+      "added": "2026-10-02",
+      "preview": "previews/gap_purp_edit.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
