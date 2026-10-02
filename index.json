@@ -228,6 +228,15 @@
       "preview": "previews/hotbar_baby_pack.png"
     },
     {
+      "id": "hotbar_bauloo_privat",
+      "category": "hotbar",
+      "name": "Bauloo Privat",
+      "sha256": "b9577f24c4137597da7b84362069bcac323f3a593d23ee820a948da0e2d15558",
+      "size": 2902,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_bauloo_privat.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
