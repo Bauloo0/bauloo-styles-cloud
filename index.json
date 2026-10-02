@@ -66,6 +66,15 @@
       "preview": "previews/gap_killas_lightmode.png"
     },
     {
+      "id": "gap_lavander",
+      "category": "gap",
+      "name": "Lavander",
+      "sha256": "315cc5561bb3b84e1e37ca0577586af06a7ef606e9a6c999531fb17ca988be1b",
+      "size": 795,
+      "added": "2026-10-02",
+      "preview": "previews/gap_lavander.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
