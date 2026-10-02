@@ -255,6 +255,15 @@
       "preview": "previews/hotbar_dlvaunta_mashup.png"
     },
     {
+      "id": "hotbar_faith_vanilla",
+      "category": "hotbar",
+      "name": "Faith Vanilla",
+      "sha256": "0c427b306fd7bc21fce5519ae8637866a061ebba467093bfcc09375ab14a8586",
+      "size": 2316,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_faith_vanilla.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
