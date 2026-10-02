@@ -57,6 +57,15 @@
       "preview": "previews/gap_faithful_32x.png"
     },
     {
+      "id": "gap_killas_lightmode",
+      "category": "gap",
+      "name": "Killas Lightmode",
+      "sha256": "9a4da6bb184b255303997ed6f5d829fb0538233a0d69e6ef9e706490c1db11f8",
+      "size": 3212,
+      "added": "2026-10-02",
+      "preview": "previews/gap_killas_lightmode.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
