@@ -210,6 +210,15 @@
       "preview": "previews/pearl_vaunta_blue.png"
     },
     {
+      "id": "glowstone_cowarted",
+      "category": "glowstone",
+      "name": "Cowarted",
+      "sha256": "97a17a69a1bb34867e637486584839dabf7c83792b4630949428b8feccded6f7",
+      "size": 2377,
+      "added": "2026-10-02",
+      "preview": "previews/glowstone_cowarted.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
