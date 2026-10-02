@@ -111,6 +111,15 @@
       "preview": "previews/pearl_dlvaunta_mashup.png"
     },
     {
+      "id": "pearl_dragneel",
+      "category": "pearl",
+      "name": "Dragneel",
+      "sha256": "dcbaa379a48b6991cd486d03d5787c230f5f616d6b78e3e8e20a65d786bba131",
+      "size": 1561,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_dragneel.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
