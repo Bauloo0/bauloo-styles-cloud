@@ -237,6 +237,15 @@
       "preview": "previews/hotbar_bauloo_privat.png"
     },
     {
+      "id": "hotbar_blossom",
+      "category": "hotbar",
+      "name": "Blossom",
+      "sha256": "0bb1da3d350863cd80d2badfcea74e9d870a990fdd72e8bbe558142a5a28e32c",
+      "size": 2429,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_blossom.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
