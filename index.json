@@ -291,6 +291,15 @@
       "preview": "previews/hotbar_lavander.png"
     },
     {
+      "id": "hotbar_lavendercat",
+      "category": "hotbar",
+      "name": "Lavendercat",
+      "sha256": "1625b1ff8d9602e2a79cfee38253330474cf09b7de28144974a6ba3f56afdbdd",
+      "size": 2355,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_lavendercat.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
