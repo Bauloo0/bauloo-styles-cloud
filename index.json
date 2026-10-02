@@ -129,6 +129,15 @@
       "preview": "previews/pearl_faith_vanilla.png"
     },
     {
+      "id": "pearl_kesu_default_mashup",
+      "category": "pearl",
+      "name": "Kesu Default Mashup",
+      "sha256": "b1492ee8690a4b51efda07e118d384b9bd14ac5f9745eb3ed226b45f35913f58",
+      "size": 2842,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_kesu_default_mashup.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
