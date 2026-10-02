@@ -30,6 +30,15 @@
       "preview": "previews/gap_bauloo_privat.png"
     },
     {
+      "id": "gap_crey_private",
+      "category": "gap",
+      "name": "Crey Private",
+      "sha256": "5eb0395c25df8867a21c27aa8dabb01be66ff1e428d21c4dcb0455f0859bfc0d",
+      "size": 839,
+      "added": "2026-10-02",
+      "preview": "previews/gap_crey_private.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
