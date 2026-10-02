@@ -273,6 +273,15 @@
       "preview": "previews/hotbar_kesie_blueberry.png"
     },
     {
+      "id": "hotbar_kesu_default_mashup",
+      "category": "hotbar",
+      "name": "Kesu Default Mashup",
+      "sha256": "0fa65648a64ed242394c11b6c84068251e11388526e120f948028a84efbdbbce",
+      "size": 2367,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_kesu_default_mashup.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
