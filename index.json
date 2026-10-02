@@ -300,6 +300,15 @@
       "preview": "previews/hotbar_lavendercat.png"
     },
     {
+      "id": "hotbar_theos_pack",
+      "category": "hotbar",
+      "name": "Theos Pack",
+      "sha256": "7ea310edc09bc63fe9a70adb4a406a5b6959c183878b4debd648f764811a06d9",
+      "size": 2748,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_theos_pack.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
