@@ -246,6 +246,15 @@
       "preview": "previews/hotbar_blossom.png"
     },
     {
+      "id": "hotbar_dlvaunta_mashup",
+      "category": "hotbar",
+      "name": "Dlvaunta Mashup",
+      "sha256": "043da4239417a7864c66810408205eea5b41059ece576146326df2c14ffdf9e9",
+      "size": 2366,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_dlvaunta_mashup.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
