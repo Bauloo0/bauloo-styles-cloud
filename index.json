@@ -147,6 +147,15 @@
       "preview": "previews/pearl_kesu_main.png"
     },
     {
+      "id": "pearl_need_me",
+      "category": "pearl",
+      "name": "Need Me",
+      "sha256": "07f1bb87b6cb87b9139b89b8317f24fd27c5fa5603c58e3c7095f51fc602dc33",
+      "size": 1479,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_need_me.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
