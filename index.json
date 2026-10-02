@@ -93,6 +93,15 @@
       "preview": "previews/gap_taurt.png"
     },
     {
+      "id": "pearl_blossom",
+      "category": "pearl",
+      "name": "Blossom",
+      "sha256": "568296f34d374f714591b95404669fa322e27b6a88618f3f27b8dcb9c676dfb5",
+      "size": 1467,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_blossom.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
