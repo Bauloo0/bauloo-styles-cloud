@@ -165,6 +165,15 @@
       "preview": "previews/pearl_purp_edit.png"
     },
     {
+      "id": "pearl_purpslight",
+      "category": "pearl",
+      "name": "PurpsLight",
+      "sha256": "7573146af1b01febf8e0a4c30e5d0ec4e4322d08fca4285e266a20b748e01f29",
+      "size": 701,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_purpslight.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
