@@ -201,6 +201,15 @@
       "preview": "previews/pearl_tostraight.png"
     },
     {
+      "id": "pearl_vaunta_blue",
+      "category": "pearl",
+      "name": "Vaunta Blue",
+      "sha256": "bd225a9587ae7bc9828ba34b7ed42916ea9ec6df766ce7e5f04bf0af8292c43f",
+      "size": 725,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_vaunta_blue.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
