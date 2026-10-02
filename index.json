@@ -183,6 +183,15 @@
       "preview": "previews/pearl_taurt_blue.png"
     },
     {
+      "id": "pearl_theos_pack",
+      "category": "pearl",
+      "name": "Theos Pack",
+      "sha256": "e29f440990a000a73bc1b70eb7c89f6f028bcaa77d00da27e3c51d84bb0f1d13",
+      "size": 2301,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_theos_pack.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
