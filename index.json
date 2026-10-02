@@ -48,6 +48,15 @@
       "preview": "previews/gap_emily_edit.png"
     },
     {
+      "id": "gap_faithful_32x",
+      "category": "gap",
+      "name": "Faithful 32x",
+      "sha256": "d7248496b48c10066c8a5e8caf9882a365cd86a854196c275b4fb223700f9d8d",
+      "size": 1101,
+      "added": "2026-10-02",
+      "preview": "previews/gap_faithful_32x.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
