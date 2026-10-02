@@ -102,6 +102,15 @@
       "preview": "previews/pearl_blossom.png"
     },
     {
+      "id": "pearl_dlvaunta_mashup",
+      "category": "pearl",
+      "name": "Dlvaunta Mashup",
+      "sha256": "acc1dc335b85a1bf775692c167c2896f3eb6f3983ec80de711ae89fcddc40fa8",
+      "size": 2370,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_dlvaunta_mashup.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
