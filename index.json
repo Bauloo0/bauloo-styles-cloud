@@ -39,6 +39,15 @@
       "preview": "previews/gap_crey_private.png"
     },
     {
+      "id": "gap_emily_edit",
+      "category": "gap",
+      "name": "Emily Edit",
+      "sha256": "2de2fe09bf2f36691f2f3f6075330c3fc95c526cf87b262bf4c3b59d41fd99f7",
+      "size": 615,
+      "added": "2026-10-02",
+      "preview": "previews/gap_emily_edit.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
