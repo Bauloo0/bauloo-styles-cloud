@@ -282,6 +282,15 @@
       "preview": "previews/hotbar_kesu_default_mashup.png"
     },
     {
+      "id": "hotbar_lavander",
+      "category": "hotbar",
+      "name": "Lavander",
+      "sha256": "cab1a6e9b9451bf12905819d3d77afcc9d42924b6d0c793298b69b5a6adefbf9",
+      "size": 3835,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_lavander.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
