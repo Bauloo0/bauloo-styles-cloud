@@ -12,6 +12,15 @@
       "preview": "previews/gap_aquaplus.png"
     },
     {
+      "id": "gap_assets",
+      "category": "gap",
+      "name": "Assets",
+      "sha256": "80ae18ef8752f3c5a4e9936a9fc4c5ba36d02349278f1f207dc08ca3ad76e2bf",
+      "size": 812,
+      "added": "2026-10-02",
+      "preview": "previews/gap_assets.png"
+    },
+    {
       "id": "anchor_azell932_s_anchor",
       "category": "anchor",
       "name": "azell932's anchor",
