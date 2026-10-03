@@ -3,6 +3,16 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "sky_azell_purple",
+      "category": "sky",
+      "name": "azell purple",
+      "sha256": "fc973c60b417e770473c627a8d5654675354f5a01333782be3ee2f05daae7f10",
+      "size": 9141766,
+      "added": "2026-10-03",
+      "by": "azell",
+      "preview": "previews/sky_azell_purple.png"
+    },
+    {
       "id": "gap_aquaplus",
       "category": "gap",
       "name": "AquaPlus",
