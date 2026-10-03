@@ -13,6 +13,16 @@
       "preview": "previews/sky_azell_purple.png"
     },
     {
+      "id": "anchor_azell_purple",
+      "category": "anchor",
+      "name": "azell purple",
+      "sha256": "98c4574db55bac8fd55e0ec934fc67a0a6e4ac547076ce13f0ba0e2b92e6c4a9",
+      "size": 9152,
+      "added": "2026-10-03",
+      "by": "azell",
+      "preview": "previews/anchor_azell_purple.png"
+    },
+    {
       "id": "gap_aquaplus",
       "category": "gap",
       "name": "AquaPlus",
