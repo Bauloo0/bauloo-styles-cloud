@@ -23,6 +23,16 @@
       "preview": "previews/anchor_azell_purple.png"
     },
     {
+      "id": "fire_azell_purple",
+      "category": "fire",
+      "name": "azell purple",
+      "sha256": "631970a50c6f850396921475b688e4bbb758e08638e019e119015fec6367b12f",
+      "size": 4642,
+      "added": "2026-10-03",
+      "by": "azell",
+      "preview": "previews/fire_azell_purple.png"
+    },
+    {
       "id": "gap_aquaplus",
       "category": "gap",
       "name": "AquaPlus",
