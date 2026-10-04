@@ -57,6 +57,16 @@
       "preview": "previews/fire_toptiers_purp.png"
     },
     {
+      "id": "anchor_vaunta",
+      "category": "anchor",
+      "name": "Vaunta",
+      "sha256": "68d0b7f4ad64e72c02dc4f118b70d1b1cff89abe14345c11a96045e8059153d6",
+      "size": 28026,
+      "added": "2026-10-04",
+      "by": "samynull4",
+      "preview": "previews/anchor_vaunta.png"
+    },
+    {
       "id": "sky_azell_purple",
       "category": "sky",
       "name": "azell purple",
