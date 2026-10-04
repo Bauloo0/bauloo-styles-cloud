@@ -12,6 +12,15 @@
       "preview": "previews/crystal_qblastdoge.png"
     },
     {
+      "id": "anchor_qblastdoge",
+      "category": "anchor",
+      "name": "Qblastdoge",
+      "sha256": "44ed0a092bafad7f08f9f331bae01164d4fdb6f2424eb98d986324f757c330b1",
+      "size": 50614,
+      "added": "2026-10-04",
+      "preview": "previews/anchor_qblastdoge.png"
+    },
+    {
       "id": "sky_azell_purple",
       "category": "sky",
       "name": "azell purple",
