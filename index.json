@@ -21,6 +21,15 @@
       "preview": "previews/anchor_qblastdoge.png"
     },
     {
+      "id": "obsidian_qblastdoge",
+      "category": "obsidian",
+      "name": "Qblastdoge",
+      "sha256": "ad97e616077847aa243471bd7654875ced93aeb5f2353f54d319e1ebac88f40f",
+      "size": 1016,
+      "added": "2026-10-04",
+      "preview": "previews/obsidian_qblastdoge.png"
+    },
+    {
       "id": "sky_azell_purple",
       "category": "sky",
       "name": "azell purple",
