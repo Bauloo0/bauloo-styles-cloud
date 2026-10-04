@@ -39,6 +39,15 @@
       "preview": "previews/armor_hitsonly_classic.png"
     },
     {
+      "id": "sword_auraexp_blu",
+      "category": "sword",
+      "name": "Auraexp Blu",
+      "sha256": "1b98b607981e4dcc03cb6edfa7d160e34e3fbec594d0ac16700d399cc1e9119b",
+      "size": 10086,
+      "added": "2026-10-04",
+      "preview": "previews/sword_auraexp_blu.png"
+    },
+    {
       "id": "sky_azell_purple",
       "category": "sky",
       "name": "azell purple",
