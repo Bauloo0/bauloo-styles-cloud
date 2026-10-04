@@ -48,6 +48,15 @@
       "preview": "previews/sword_auraexp_blu.png"
     },
     {
+      "id": "fire_toptiers_purp",
+      "category": "fire",
+      "name": "Toptiers Purp",
+      "sha256": "c66bae0c91e9dac71a8ce1d677411de5bdbae857dea45ee6ffef293025d8ec6d",
+      "size": 909,
+      "added": "2026-10-04",
+      "preview": "previews/fire_toptiers_purp.png"
+    },
+    {
       "id": "sky_azell_purple",
       "category": "sky",
       "name": "azell purple",
