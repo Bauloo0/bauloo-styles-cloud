@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "crystal_qblastdoge",
+      "category": "crystal",
+      "name": "Qblastdoge",
+      "sha256": "939e3eedba0ac199d245e705246d82b144f3ae78c6d4523be1e25513a3f036eb",
+      "size": 12691,
+      "added": "2026-10-04",
+      "preview": "previews/crystal_qblastdoge.png"
+    },
+    {
       "id": "sky_azell_purple",
       "category": "sky",
       "name": "azell purple",
