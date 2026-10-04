@@ -30,6 +30,15 @@
       "preview": "previews/obsidian_qblastdoge.png"
     },
     {
+      "id": "armor_hitsonly_classic",
+      "category": "armor",
+      "name": "HitsOnly Classic",
+      "sha256": "963adf32aa19a2f1b4b24ab4944abee173e0d2c839f808aabe8e6e3eb16cfbb4",
+      "size": 45701,
+      "added": "2026-10-04",
+      "preview": "previews/armor_hitsonly_classic.png"
+    },
+    {
       "id": "sky_azell_purple",
       "category": "sky",
       "name": "azell purple",
