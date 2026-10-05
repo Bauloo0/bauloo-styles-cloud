@@ -183,6 +183,15 @@
       "preview": "previews/pearl_hydros.png"
     },
     {
+      "id": "sky_kesu_main",
+      "category": "sky",
+      "name": "Kesu Main",
+      "sha256": "6475cde5040ecf7202c317f2118f5bc8c525b02505965843e1390f43364f33d8",
+      "size": 10745812,
+      "added": "2026-10-05",
+      "preview": "previews/sky_kesu_main.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
