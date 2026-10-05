@@ -111,6 +111,15 @@
       "preview": "previews/obsidian_pink_distortion.png"
     },
     {
+      "id": "armor_defcon_top",
+      "category": "armor",
+      "name": "DEFCON Top",
+      "sha256": "7c63d958e4bb2e1b8dfee0f948623ec5268f8b1fc3d122dd7fb4c5514ebe1e4e",
+      "size": 7957,
+      "added": "2026-10-05",
+      "preview": "previews/armor_defcon_top.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
