@@ -174,6 +174,15 @@
       "preview": "previews/pearl_marlowww_3d.png"
     },
     {
+      "id": "pearl_hydros",
+      "category": "pearl",
+      "name": "Hydros",
+      "sha256": "d608c49cc74a4e5cd5f5b0ff598c8b8c73c1a58efff965da7e74bd729b8ada81",
+      "size": 3445,
+      "added": "2026-10-05",
+      "preview": "previews/pearl_hydros.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
