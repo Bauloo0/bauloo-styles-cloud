@@ -129,6 +129,15 @@
       "preview": "previews/armor_theos_better.png"
     },
     {
+      "id": "pickaxe_cowarted",
+      "category": "pickaxe",
+      "name": "Cowarted",
+      "sha256": "fe6ae4d1ec74f9abb1248973828d08d3ef3fb4cae1cdb9d475cb4aa33df74f9a",
+      "size": 2339,
+      "added": "2026-10-05",
+      "preview": "previews/pickaxe_cowarted.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
