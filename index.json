@@ -147,6 +147,15 @@
       "preview": "previews/pickaxe_theos_better.png"
     },
     {
+      "id": "fire_kesu_default_2",
+      "category": "fire",
+      "name": "Kesu Default 2",
+      "sha256": "12f3859e6d12593e1ddd28da34543d12012229e2aa7454e0276b160f272c9225",
+      "size": 2133,
+      "added": "2026-10-05",
+      "preview": "previews/fire_kesu_default_2.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
