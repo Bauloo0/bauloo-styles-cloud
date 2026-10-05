@@ -156,6 +156,15 @@
       "preview": "previews/fire_kesu_default_2.png"
     },
     {
+      "id": "fire_kesu_main",
+      "category": "fire",
+      "name": "Kesu Main",
+      "sha256": "4ffd11830cf390d747b2ff3f2572b57c5a82956da935dc39dbbe93eebc2707d0",
+      "size": 2215,
+      "added": "2026-10-05",
+      "preview": "previews/fire_kesu_main.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
