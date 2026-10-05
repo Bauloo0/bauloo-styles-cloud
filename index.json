@@ -192,6 +192,15 @@
       "preview": "previews/sky_kesu_main.png"
     },
     {
+      "id": "sky_defcon_top",
+      "category": "sky",
+      "name": "DEFCON Top",
+      "sha256": "82ae74fe0819a45d8f3862bd3b9c7205bfa1cafc9d57880be82bcfaa036f90fe",
+      "size": 21572582,
+      "added": "2026-10-05",
+      "preview": "previews/sky_defcon_top.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
