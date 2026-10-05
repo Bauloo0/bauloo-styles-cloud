@@ -39,6 +39,15 @@
       "preview": "previews/anchor_clear_vision_pink.png"
     },
     {
+      "id": "anchor_pink_distortion",
+      "category": "anchor",
+      "name": "Pink Distortion",
+      "sha256": "20550667c426d8df42954381c17f7c23b75f602d92b8c847d7db5ed2703c4ad9",
+      "size": 23232,
+      "added": "2026-10-05",
+      "preview": "previews/anchor_pink_distortion.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
