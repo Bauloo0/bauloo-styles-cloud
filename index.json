@@ -21,6 +21,15 @@
       "preview": "previews/crystal_clear_vision_pink.png"
     },
     {
+      "id": "anchor_crystal_overlay",
+      "category": "anchor",
+      "name": "Crystal Overlay",
+      "sha256": "6275d265640e9dbc424793566c14990dd6892a18529ac100647c66555ac22cef",
+      "size": 24169,
+      "added": "2026-10-05",
+      "preview": "previews/anchor_crystal_overlay.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
