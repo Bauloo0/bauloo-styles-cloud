@@ -66,6 +66,15 @@
       "preview": "previews/obsidian_crystal_overlay.png"
     },
     {
+      "id": "obsidian_femboy_pack",
+      "category": "obsidian",
+      "name": "Femboy Pack",
+      "sha256": "c7ab1e5c76a406eb83eb14600b8217050c72fd6314333f35bff88f6a5b5bc73f",
+      "size": 679,
+      "added": "2026-10-05",
+      "preview": "previews/obsidian_femboy_pack.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
