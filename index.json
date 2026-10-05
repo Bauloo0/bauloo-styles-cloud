@@ -165,6 +165,15 @@
       "preview": "previews/fire_kesu_main.png"
     },
     {
+      "id": "pearl_marlowww_3d",
+      "category": "pearl",
+      "name": "Marlowww 3D",
+      "sha256": "d09c77e984ca5fb2a5e4472cc53324241f1bad13ff7f58ce730a5ee1034cb1c2",
+      "size": 3591,
+      "added": "2026-10-05",
+      "preview": "previews/pearl_marlowww_3d.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
