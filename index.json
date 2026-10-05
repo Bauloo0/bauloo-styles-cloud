@@ -57,6 +57,15 @@
       "preview": "previews/anchor_marlowww_3d.png"
     },
     {
+      "id": "obsidian_crystal_overlay",
+      "category": "obsidian",
+      "name": "Crystal Overlay",
+      "sha256": "aee0951c4f3a7a534d6b3c2ff0f4ac4b40bb932e10f02c773a665865f59b4f05",
+      "size": 4111,
+      "added": "2026-10-05",
+      "preview": "previews/obsidian_crystal_overlay.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
