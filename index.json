@@ -12,6 +12,15 @@
       "preview": "previews/crystal_crystal_overlay.png"
     },
     {
+      "id": "crystal_clear_vision_pink",
+      "category": "crystal",
+      "name": "Clear Vision Pink",
+      "sha256": "1d61ce17dd64f1d0072bf669fc4ad207e007f75c2fd5a16c2a8653091e74e8af",
+      "size": 4809,
+      "added": "2026-10-05",
+      "preview": "previews/crystal_clear_vision_pink.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
