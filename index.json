@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "crystal_crystal_overlay",
+      "category": "crystal",
+      "name": "Crystal Overlay",
+      "sha256": "bf13d466101fed897e36e7e7a1e542deab5d229dabdb9f7c56543a032ddf8d6c",
+      "size": 12757,
+      "added": "2026-10-05",
+      "preview": "previews/crystal_crystal_overlay.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
