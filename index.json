@@ -138,6 +138,15 @@
       "preview": "previews/pickaxe_cowarted.png"
     },
     {
+      "id": "pickaxe_theos_better",
+      "category": "pickaxe",
+      "name": "Theos Better",
+      "sha256": "a385f54c2e9289944bf2bda036649fafce18a4bd2a44500b3d6e36d7309462ee",
+      "size": 1450,
+      "added": "2026-10-05",
+      "preview": "previews/pickaxe_theos_better.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
