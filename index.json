@@ -48,6 +48,15 @@
       "preview": "previews/anchor_pink_distortion.png"
     },
     {
+      "id": "anchor_marlowww_3d",
+      "category": "anchor",
+      "name": "Marlowww 3D",
+      "sha256": "7cd4a1612a151d4e5e15feb34eedc949fef89e73e06039590d5e10acd0982e62",
+      "size": 84988,
+      "added": "2026-10-05",
+      "preview": "previews/anchor_marlowww_3d.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
