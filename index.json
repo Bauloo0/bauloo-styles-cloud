@@ -120,6 +120,15 @@
       "preview": "previews/armor_defcon_top.png"
     },
     {
+      "id": "armor_theos_better",
+      "category": "armor",
+      "name": "Theos Better",
+      "sha256": "69d375c1d00046527ed87f74606eb2af89650f77ee6df653d6681e202e7e0f8b",
+      "size": 5181,
+      "added": "2026-10-05",
+      "preview": "previews/armor_theos_better.png"
+    },
+    {
       "id": "crystal_qblastdoge",
       "category": "crystal",
       "name": "Qblastdoge",
