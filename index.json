@@ -1060,6 +1060,23 @@
           0.34375
         ]
       }
+    },
+    {
+      "id": "mace",
+      "slot": 2,
+      "name": "Mace",
+      "icon": "minecraft:mace",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/items?/(mace\\.png)$",
+          "to": "assets/minecraft/textures/item/$1"
+        }
+      ],
+      "detect": "items?/mace\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/item/mace.png"
+      }
     }
   ]
 }
