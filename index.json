@@ -21,6 +21,15 @@
       "preview": "previews/deepslate_vaunta_blocks.png"
     },
     {
+      "id": "shield_crey_private",
+      "category": "shield",
+      "name": "Crey Private",
+      "sha256": "73c85b5d8dba6b11d02769916db7232fe6aaa3c9db7e85cc5df3cbe5a539d8fc",
+      "size": 50238,
+      "added": "2026-10-06",
+      "preview": "previews/shield_crey_private.png"
+    },
+    {
       "id": "crystal_crystal_overlay",
       "category": "crystal",
       "name": "Crystal Overlay",
