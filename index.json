@@ -84,6 +84,15 @@
       "preview": "previews/sky_memetheif_private.png"
     },
     {
+      "id": "fire_walksysoverlays",
+      "category": "fire",
+      "name": "WalksysOverlays",
+      "sha256": "92dd410c076a5af79d814d7e8d2efad81c4f42490314ae3d1b48b54403bebf0a",
+      "size": 8045,
+      "added": "2026-10-06",
+      "preview": "previews/fire_walksysoverlays.png"
+    },
+    {
       "id": "crystal_crystal_overlay",
       "category": "crystal",
       "name": "Crystal Overlay",
