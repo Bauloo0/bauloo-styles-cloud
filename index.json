@@ -1010,5 +1010,38 @@
       "added": "2026-09-15",
       "preview": "previews/sky_red_synthwave.png"
     }
+  ],
+  "categories": [
+    {
+      "id": "shield",
+      "slot": 1,
+      "name": "Shield",
+      "icon": "minecraft:shield",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/entity/(shield_base(?:_nopattern)?\\.png)$",
+          "to": "assets/minecraft/textures/entity/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/entity/shield/([a-z0-9_]+\\.png)$",
+          "to": "assets/minecraft/textures/entity/shield/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/gui/sprites/container/slot/(shield\\.png)$",
+          "to": "assets/minecraft/textures/gui/sprites/container/slot/$1"
+        }
+      ],
+      "detect": "entity/shield_base_nopattern\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/entity/shield_base_nopattern.png",
+        "crop": [
+          0.015625,
+          0.015625,
+          0.1875,
+          0.34375
+        ]
+      }
+    }
   ]
 }
