@@ -66,6 +66,15 @@
       "preview": "previews/sky_drac0q_s_sky_v2.png"
     },
     {
+      "id": "sky_spectral",
+      "category": "sky",
+      "name": "Spectral",
+      "sha256": "4b11cbc7a215bc41d09910190b7406bfac1afe916e9b74f6eb22822e7ad2877e",
+      "size": 10207257,
+      "added": "2026-10-06",
+      "preview": "previews/sky_spectral.png"
+    },
+    {
       "id": "crystal_crystal_overlay",
       "category": "crystal",
       "name": "Crystal Overlay",
