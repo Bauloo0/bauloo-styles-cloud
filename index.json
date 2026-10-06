@@ -93,6 +93,15 @@
       "preview": "previews/fire_walksysoverlays.png"
     },
     {
+      "id": "totem_sixuii_tweaks",
+      "category": "totem",
+      "name": "Sixuii Tweaks",
+      "sha256": "0331f9e5d442362bba0f4a49c1244aad31c486ec2922767be47b3c5b5a43b87a",
+      "size": 718,
+      "added": "2026-10-06",
+      "preview": "previews/totem_sixuii_tweaks.png"
+    },
+    {
       "id": "crystal_crystal_overlay",
       "category": "crystal",
       "name": "Crystal Overlay",
