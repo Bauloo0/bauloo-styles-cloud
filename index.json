@@ -75,6 +75,15 @@
       "preview": "previews/sky_spectral.png"
     },
     {
+      "id": "sky_memetheif_private",
+      "category": "sky",
+      "name": "MemeTheif private",
+      "sha256": "614368f94a26280779513a7049195d556793a6380ea81d4569160ca9782d335b",
+      "size": 20445131,
+      "added": "2026-10-06",
+      "preview": "previews/sky_memetheif_private.png"
+    },
+    {
       "id": "crystal_crystal_overlay",
       "category": "crystal",
       "name": "Crystal Overlay",
