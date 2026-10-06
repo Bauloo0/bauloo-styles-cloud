@@ -48,6 +48,15 @@
       "preview": "previews/mace_monkahhremake.png"
     },
     {
+      "id": "mace_lavander_by_upwqrd",
+      "category": "mace",
+      "name": "Lavander by Upwqrd",
+      "sha256": "a49b4351c166ee886fd7d82985656e9054ac672636fd7317dd1ea27bb12bdc3b",
+      "size": 997,
+      "added": "2026-10-06",
+      "preview": "previews/mace_lavander_by_upwqrd.png"
+    },
+    {
       "id": "crystal_crystal_overlay",
       "category": "crystal",
       "name": "Crystal Overlay",
