@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "stone_vaunta_blocks",
+      "category": "stone",
+      "name": "vaunta blocks",
+      "sha256": "9d059188ec4c226fcb68ca80a254efd8869f19d6f636fe4c22d94b580f433fb9",
+      "size": 36257,
+      "added": "2026-10-06",
+      "preview": "previews/stone_vaunta_blocks.png"
+    },
+    {
       "id": "crystal_crystal_overlay",
       "category": "crystal",
       "name": "Crystal Overlay",
