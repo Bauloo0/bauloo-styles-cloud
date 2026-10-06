@@ -30,6 +30,15 @@
       "preview": "previews/shield_crey_private.png"
     },
     {
+      "id": "shield_clear_vision_pink_1_21",
+      "category": "shield",
+      "name": "Clear Vision Pink 1.21",
+      "sha256": "8d0a8b75c64b60c936f21df676f304b63be30b8ed6bf0adf32392adb8ae3dfa8",
+      "size": 16705,
+      "added": "2026-10-06",
+      "preview": "previews/shield_clear_vision_pink_1_21.png"
+    },
+    {
       "id": "crystal_crystal_overlay",
       "category": "crystal",
       "name": "Crystal Overlay",
