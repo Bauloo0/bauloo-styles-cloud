@@ -12,6 +12,15 @@
       "preview": "previews/stone_vaunta_blocks.png"
     },
     {
+      "id": "deepslate_vaunta_blocks",
+      "category": "deepslate",
+      "name": "vaunta blocks",
+      "sha256": "0f7abbf76568783ef30a301c3b8bacce7805f69ff7b78b8e95824dfd5da0b0aa",
+      "size": 41485,
+      "added": "2026-10-06",
+      "preview": "previews/deepslate_vaunta_blocks.png"
+    },
+    {
       "id": "crystal_crystal_overlay",
       "category": "crystal",
       "name": "Crystal Overlay",
