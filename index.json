@@ -39,6 +39,15 @@
       "preview": "previews/shield_clear_vision_pink_1_21.png"
     },
     {
+      "id": "mace_monkahhremake",
+      "category": "mace",
+      "name": "monkahhremake",
+      "sha256": "5949dd2f4d437a2403e8827428332e99546b868d3600a8b53be17214309c2c95",
+      "size": 2397,
+      "added": "2026-10-06",
+      "preview": "previews/mace_monkahhremake.png"
+    },
+    {
       "id": "crystal_crystal_overlay",
       "category": "crystal",
       "name": "Crystal Overlay",
