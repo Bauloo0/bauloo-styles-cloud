@@ -264,15 +264,6 @@
       "preview": "previews/fire_kesu_main.png"
     },
     {
-      "id": "pearl_marlowww_3d",
-      "category": "pearl",
-      "name": "Marlowww 3D",
-      "sha256": "d09c77e984ca5fb2a5e4472cc53324241f1bad13ff7f58ce730a5ee1034cb1c2",
-      "size": 3591,
-      "added": "2026-10-05",
-      "preview": "previews/pearl_marlowww_3d.png"
-    },
-    {
       "id": "pearl_hydros",
       "category": "pearl",
       "name": "Hydros",
@@ -298,6 +289,15 @@
       "size": 21572582,
       "added": "2026-10-05",
       "preview": "previews/sky_defcon_top.png"
+    },
+    {
+      "id": "pearl_marlowww_3d",
+      "category": "pearl",
+      "name": "Marlowww 3D",
+      "sha256": "c3c11909d1f3c00798a8d56a9f476cf3327646e20d01d5efb35befc029a0e7ca",
+      "size": 3986,
+      "added": "2026-10-05",
+      "preview": "previews/pearl_marlowww_3d.png"
     },
     {
       "id": "crystal_qblastdoge",
