@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "anchor_zen_s_vanilla_enhanced",
+      "category": "anchor",
+      "name": "Zen's Vanilla Enhanced",
+      "sha256": "4f458aa3ae5c16189ccc50cc34f550128d8b8fb69323087f3525f19459812b34",
+      "size": 6923,
+      "added": "2026-10-07",
+      "preview": "previews/anchor_zen_s_vanilla_enhanced.png"
+    },
+    {
       "id": "stone_vaunta_blocks",
       "category": "stone",
       "name": "vaunta blocks",
