@@ -12,6 +12,15 @@
       "preview": "previews/anchor_zen_s_vanilla_enhanced.png"
     },
     {
+      "id": "mace_b_lsharpness_6_l_500k_final",
+      "category": "mace",
+      "name": "§b§lSharpness §6§l[500K]FINAL",
+      "sha256": "4e0945efd70797a5057318b4ccd85b2e7472cc60d50f83ca2df221b6a5607408",
+      "size": 2995,
+      "added": "2026-10-07",
+      "preview": "previews/mace_b_lsharpness_6_l_500k_final.png"
+    },
+    {
       "id": "stone_vaunta_blocks",
       "category": "stone",
       "name": "vaunta blocks",
