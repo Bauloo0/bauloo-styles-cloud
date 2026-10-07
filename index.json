@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "mace_phatom",
+      "category": "mace",
+      "name": "phatom",
+      "sha256": "f4831031a7c98ee9ebdcc071abcf8da4b2f4b8c10cf8e8c428b2e0801663e05e",
+      "size": 780,
+      "added": "2026-10-08",
+      "preview": "previews/mace_phatom.png"
+    },
+    {
       "id": "anchor_zen_s_vanilla_enhanced",
       "category": "anchor",
       "name": "Zen's Vanilla Enhanced",
