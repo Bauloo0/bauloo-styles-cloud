@@ -59,6 +59,15 @@
       "preview": "previews/cobweb_dlvaunta_default_mashup_ii.png"
     },
     {
+      "id": "cobweb_lavendercat",
+      "category": "cobweb",
+      "name": "lavendercat",
+      "sha256": "84493159e25e76b5e9fe8eb85e642ecd03b31d737e860584d690b968df50cd5c",
+      "size": 756,
+      "added": "2026-10-08",
+      "preview": "previews/cobweb_lavendercat.png"
+    },
+    {
       "id": "anchor_zen_s_vanilla_enhanced",
       "category": "anchor",
       "name": "Zen's Vanilla Enhanced",
