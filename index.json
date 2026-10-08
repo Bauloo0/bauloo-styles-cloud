@@ -68,6 +68,15 @@
       "preview": "previews/cobweb_lavendercat.png"
     },
     {
+      "id": "cobweb_kataxur",
+      "category": "cobweb",
+      "name": "kataxur",
+      "sha256": "ae1904dc75096ee7603629e1d40948e86be462d52eba7cd7a102f76e927e7c04",
+      "size": 708,
+      "added": "2026-10-08",
+      "preview": "previews/cobweb_kataxur.png"
+    },
+    {
       "id": "anchor_zen_s_vanilla_enhanced",
       "category": "anchor",
       "name": "Zen's Vanilla Enhanced",
