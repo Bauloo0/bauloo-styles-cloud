@@ -86,6 +86,15 @@
       "preview": "previews/cobweb_tryh4rdd_red_default.png"
     },
     {
+      "id": "cobweb_kesie_lavender_copy",
+      "category": "cobweb",
+      "name": "Kesie lavender - Copy",
+      "sha256": "c1ace6a045507f8d126fceecc539027dd939472c4b57236d6e04fa678046e8fc",
+      "size": 619,
+      "added": "2026-10-08",
+      "preview": "previews/cobweb_kesie_lavender_copy.png"
+    },
+    {
       "id": "anchor_zen_s_vanilla_enhanced",
       "category": "anchor",
       "name": "Zen's Vanilla Enhanced",
