@@ -104,6 +104,15 @@
       "preview": "previews/cobweb_orchard_x_syn_overlay.png"
     },
     {
+      "id": "cobweb_dragneel",
+      "category": "cobweb",
+      "name": "Dragneel",
+      "sha256": "652c3df69db20508d4a92c54582072f2ec49b325a3f945848e5ddfd4a1d0146a",
+      "size": 607,
+      "added": "2026-10-08",
+      "preview": "previews/cobweb_dragneel.png"
+    },
+    {
       "id": "anchor_zen_s_vanilla_enhanced",
       "category": "anchor",
       "name": "Zen's Vanilla Enhanced",
