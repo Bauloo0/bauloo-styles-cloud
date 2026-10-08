@@ -41,6 +41,15 @@
       "preview": "previews/anchor_vanillaplus_edited.png"
     },
     {
+      "id": "cobweb_faith_vanilla_kataxur",
+      "category": "cobweb",
+      "name": "Faith Vanilla kataxur",
+      "sha256": "f97d6d05f01a2e6642ab70890c223efde35946a28ff58feef41e4f81de5aec3b",
+      "size": 694,
+      "added": "2026-10-08",
+      "preview": "previews/cobweb_faith_vanilla_kataxur.png"
+    },
+    {
       "id": "anchor_zen_s_vanilla_enhanced",
       "category": "anchor",
       "name": "Zen's Vanilla Enhanced",
