@@ -50,6 +50,15 @@
       "preview": "previews/cobweb_faith_vanilla_kataxur.png"
     },
     {
+      "id": "cobweb_dlvaunta_default_mashup_ii",
+      "category": "cobweb",
+      "name": "dlvaunta default mashup II",
+      "sha256": "8aed3e7b429c6eab17e929135597c54dcdbedb46210ff7053f2d50624f86f9bd",
+      "size": 541,
+      "added": "2026-10-08",
+      "preview": "previews/cobweb_dlvaunta_default_mashup_ii.png"
+    },
+    {
       "id": "anchor_zen_s_vanilla_enhanced",
       "category": "anchor",
       "name": "Zen's Vanilla Enhanced",
