@@ -1196,6 +1196,27 @@
         "type": "item",
         "texture": "assets/minecraft/textures/item/mace.png"
       }
+    },
+    {
+      "id": "cobweb",
+      "slot": 3,
+      "name": "Cobwebs",
+      "icon": "minecraft:cobweb",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/blocks?/(cobweb\\.png)$",
+          "to": "assets/minecraft/textures/block/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/blocks/web\\.png$",
+          "to": "assets/minecraft/textures/block/cobweb.png"
+        }
+      ],
+      "detect": "blocks?/(cobweb|web)\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/block/cobweb.png"
+      }
     }
   ]
 }
