@@ -95,6 +95,15 @@
       "preview": "previews/cobweb_kesie_lavender_copy.png"
     },
     {
+      "id": "cobweb_orchard_x_syn_overlay",
+      "category": "cobweb",
+      "name": "orchard x syn overlay",
+      "sha256": "a6da6c237b4420bc0206e73571f6bca7ff054354d6d63d8e88a072982b43784d",
+      "size": 788,
+      "added": "2026-10-08",
+      "preview": "previews/cobweb_orchard_x_syn_overlay.png"
+    },
+    {
       "id": "anchor_zen_s_vanilla_enhanced",
       "category": "anchor",
       "name": "Zen's Vanilla Enhanced",
