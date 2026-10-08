@@ -12,6 +12,16 @@
       "preview": "previews/mace_phatom.png"
     },
     {
+      "id": "gap_gonasfortnite",
+      "category": "gap",
+      "name": "GonasFortnite",
+      "sha256": "6641ad5343a15026f84639590b3bb7c3e53afde89ec0a8304e65aabafa65cee4",
+      "size": 1178,
+      "added": "2026-10-08",
+      "by": "gonas3434",
+      "preview": "previews/gap_gonasfortnite.png"
+    },
+    {
       "id": "anchor_zen_s_vanilla_enhanced",
       "category": "anchor",
       "name": "Zen's Vanilla Enhanced",
