@@ -22,6 +22,16 @@
       "preview": "previews/gap_gonasfortnite.png"
     },
     {
+      "id": "crystal_gonasfortnitecrystals",
+      "category": "crystal",
+      "name": "GonasFortniteCrystals",
+      "sha256": "0305dc44d4072f7babe0ccd7dd90301fd2fed4c00b6160c6caab198dbf37a75b",
+      "size": 6380,
+      "added": "2026-10-08",
+      "by": "gonas3434",
+      "preview": "previews/crystal_gonasfortnitecrystals.png"
+    },
+    {
       "id": "anchor_zen_s_vanilla_enhanced",
       "category": "anchor",
       "name": "Zen's Vanilla Enhanced",
