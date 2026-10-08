@@ -77,6 +77,15 @@
       "preview": "previews/cobweb_kataxur.png"
     },
     {
+      "id": "cobweb_tryh4rdd_red_default",
+      "category": "cobweb",
+      "name": "TryH4rdd Red Default",
+      "sha256": "6f9023ce90592cb6b87a47af1bc89bf039353324b0dc30f467c36223aae5a8f5",
+      "size": 635,
+      "added": "2026-10-08",
+      "preview": "previews/cobweb_tryh4rdd_red_default.png"
+    },
+    {
       "id": "anchor_zen_s_vanilla_enhanced",
       "category": "anchor",
       "name": "Zen's Vanilla Enhanced",
