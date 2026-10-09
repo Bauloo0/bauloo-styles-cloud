@@ -102,6 +102,15 @@
       "preview": "previews/fire_gallerywalk.png"
     },
     {
+      "id": "fire_dragneel",
+      "category": "fire",
+      "name": "Dragneel",
+      "sha256": "a546e2e650201b5abb24008148c7f6694992f8f96dc4b9bc7b9e8b8ae5d592d8",
+      "size": 1541,
+      "added": "2026-10-09",
+      "preview": "previews/fire_dragneel.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
