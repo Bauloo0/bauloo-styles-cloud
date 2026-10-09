@@ -444,6 +444,15 @@
       "preview": "previews/axe_cakefault.png"
     },
     {
+      "id": "axe_you_s33_pink",
+      "category": "axe",
+      "name": "You S33 Pink",
+      "sha256": "e5b665b7b5f28274798781fd4dd1efe3f1baa54c6c48826d35498a3e82d62723",
+      "size": 1216,
+      "added": "2026-10-10",
+      "preview": "previews/axe_you_s33_pink.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
