@@ -1469,6 +1469,28 @@
         "type": "item",
         "texture": "assets/minecraft/textures/block/cobweb.png"
       }
+    },
+    {
+      "id": "trident",
+      "slot": 4,
+      "name": "Trident",
+      "icon": "minecraft:trident",
+      "early": true,
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/items?/(trident\\.png)$",
+          "to": "assets/minecraft/textures/item/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/entity/(trident\\.png)$",
+          "to": "assets/minecraft/textures/entity/$1"
+        }
+      ],
+      "detect": "(items?|entity)/trident\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/item/trident.png"
+      }
     }
   ]
 }
