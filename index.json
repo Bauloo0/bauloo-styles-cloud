@@ -453,6 +453,15 @@
       "preview": "previews/axe_you_s33_pink.png"
     },
     {
+      "id": "axe_snowfault",
+      "category": "axe",
+      "name": "Snowfault",
+      "sha256": "de932b00d833eafd62080aa832e4758f76926564d3f09265d62cb5a267d631fe",
+      "size": 8099,
+      "added": "2026-10-10",
+      "preview": "previews/axe_snowfault.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
