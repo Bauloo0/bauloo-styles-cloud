@@ -39,6 +39,15 @@
       "preview": "previews/axe_sunset_priv.png"
     },
     {
+      "id": "axe_vaunta_mashup_ii",
+      "category": "axe",
+      "name": "Vaunta Mashup II",
+      "sha256": "2ba5314a2caadef07ef7752849086a3dd77c96c1cde5c319d38c6b2302f95337",
+      "size": 666,
+      "added": "2026-10-10",
+      "preview": "previews/axe_vaunta_mashup_ii.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
