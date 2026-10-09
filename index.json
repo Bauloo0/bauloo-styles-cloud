@@ -75,6 +75,15 @@
       "preview": "previews/axe_midnight.png"
     },
     {
+      "id": "axe_bombies_lavender_private",
+      "category": "axe",
+      "name": "Bombies Lavender Private",
+      "sha256": "66d2ab4b62557966d37f9391a143fd7e524bad31ced9b1019b177c0034487b27",
+      "size": 2774,
+      "added": "2026-10-10",
+      "preview": "previews/axe_bombies_lavender_private.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
