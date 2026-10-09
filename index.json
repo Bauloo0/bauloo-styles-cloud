@@ -93,6 +93,15 @@
       "preview": "previews/deepslate_purple_private_edit.png"
     },
     {
+      "id": "fire_gallerywalk",
+      "category": "fire",
+      "name": "gallerywalk",
+      "sha256": "047e2990bd05ae943dc1409d14393bada01db25fda0a041627b58f1d7d0c96fa",
+      "size": 1827,
+      "added": "2026-10-09",
+      "preview": "previews/fire_gallerywalk.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
