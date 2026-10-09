@@ -255,6 +255,15 @@
       "preview": "previews/axe_cowartedpink.png"
     },
     {
+      "id": "axe_doge_private_v2_edit",
+      "category": "axe",
+      "name": "Doge Private V2 Edit",
+      "sha256": "25931b847b023b35c3465953cca81a0943ffa67bcf99421e383dfa9a853cd766",
+      "size": 3888,
+      "added": "2026-10-10",
+      "preview": "previews/axe_doge_private_v2_edit.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
