@@ -300,6 +300,15 @@
       "preview": "previews/axe_spookd_remake.png"
     },
     {
+      "id": "axe_tryh4rdd_red_default",
+      "category": "axe",
+      "name": "TryH4rdd Red Default",
+      "sha256": "109768a9c38b145f2fc487eaa6c5fbb12024df1a38cbd43e29d317b33d130b22",
+      "size": 719,
+      "added": "2026-10-10",
+      "preview": "previews/axe_tryh4rdd_red_default.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
