@@ -29,7 +29,7 @@ REPO_DIR = (os.environ.get("BAULOO_CLOUD_DIR")
             or (_PARENT if os.path.isdir(os.path.join(_PARENT, ".git")) else None)
             or os.path.join(os.path.expanduser("~"), "bauloo-styles-cloud"))
 MAX_PACK = 95 * 1024 * 1024
-CATEGORIES = ["crystal", "anchor", "armor", "fire", "sky", "obsidian", "sword", "pickaxe", "glowstone", "gap", "pearl", "hotbar", "axe", "totem", "stone", "deepslate", "snow"]
+CATEGORIES = ["crystal", "anchor", "armor", "fire", "sky", "obsidian", "sword", "pickaxe", "glowstone", "gap", "pearl", "hotbar", "axe", "totem", "stone", "deepslate", "snow", "inventory"]
 
 
 def say(text=""):
