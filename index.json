@@ -84,6 +84,15 @@
       "preview": "previews/sky_starrynightskyoverlay.png"
     },
     {
+      "id": "deepslate_purple_private_edit",
+      "category": "deepslate",
+      "name": "Purple Private Edit",
+      "sha256": "b80ee19b655e4082f58ab8e5e054eff5fe000fa65c8d78d09683a878dd021b52",
+      "size": 12017,
+      "added": "2026-10-09",
+      "preview": "previews/deepslate_purple_private_edit.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
