@@ -363,6 +363,15 @@
       "preview": "previews/axe_doge_private_v2.png"
     },
     {
+      "id": "axe_emily_edit",
+      "category": "axe",
+      "name": "Emily edit",
+      "sha256": "4c3a788fd14ec4a36bd504553ace698b20c2f04ec20b5b89bccb3390f74c4927",
+      "size": 2457,
+      "added": "2026-10-10",
+      "preview": "previews/axe_emily_edit.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
