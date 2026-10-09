@@ -318,6 +318,15 @@
       "preview": "previews/axe_v_pink.png"
     },
     {
+      "id": "axe_candycrystals_remasterd",
+      "category": "axe",
+      "name": "CandyCrystals Remasterd",
+      "sha256": "a133755f03c526030ba81b3e0a9e4b3646eac701b708b86b4337b74a03e3c327",
+      "size": 4662,
+      "added": "2026-10-10",
+      "preview": "previews/axe_candycrystals_remasterd.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
