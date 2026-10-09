@@ -12,6 +12,15 @@
       "preview": "previews/anchor_need_me.png"
     },
     {
+      "id": "gap_candycrystals_remasterd",
+      "category": "gap",
+      "name": "CandyCrystals Remasterd",
+      "sha256": "e6f02cac6688569b12dbce9327858547b9cc48e0b37a40ec3305f13a5495439c",
+      "size": 1455,
+      "added": "2026-10-09",
+      "preview": "previews/gap_candycrystals_remasterd.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
