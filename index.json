@@ -381,6 +381,15 @@
       "preview": "previews/axe_faithful_32x.png"
     },
     {
+      "id": "axe_clevantii_pack_234",
+      "category": "axe",
+      "name": "clEvantii Pack 234",
+      "sha256": "17cad21aaad8a8c9e7d6e23a20a6b07d19a06c125f6fa03b347578bc74167a0a",
+      "size": 789,
+      "added": "2026-10-10",
+      "preview": "previews/axe_clevantii_pack_234.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
