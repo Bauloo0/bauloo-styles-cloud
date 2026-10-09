@@ -156,6 +156,15 @@
       "preview": "previews/axe_zinc.png"
     },
     {
+      "id": "axe_testmaster11_blue_edit",
+      "category": "axe",
+      "name": "Testmaster11 Blue Edit",
+      "sha256": "72ff9ec94071fe8b2a09a1c94e62b72e8dbbb2c547104e410dbd1206b633309d",
+      "size": 744,
+      "added": "2026-10-10",
+      "preview": "previews/axe_testmaster11_blue_edit.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
