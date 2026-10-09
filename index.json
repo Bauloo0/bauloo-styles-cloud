@@ -408,6 +408,15 @@
       "preview": "previews/axe_kesie_blueberry.png"
     },
     {
+      "id": "axe_kesie_blueberrybutlighter",
+      "category": "axe",
+      "name": "Kesie BlueBerryButLighter",
+      "sha256": "aad46287a74e0321f5cc8430351c5b502730e00300bc840745be5aafc3096e7d",
+      "size": 1100,
+      "added": "2026-10-10",
+      "preview": "previews/axe_kesie_blueberrybutlighter.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
