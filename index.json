@@ -336,6 +336,15 @@
       "preview": "previews/axe_clear_vision_grey.png"
     },
     {
+      "id": "axe_crey_private",
+      "category": "axe",
+      "name": "Crey private",
+      "sha256": "21be33966bde59b130a7575d3c645a66487fa57630412ec128b12e427a9ee9e5",
+      "size": 15721,
+      "added": "2026-10-10",
+      "preview": "previews/axe_crey_private.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
