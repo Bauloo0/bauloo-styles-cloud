@@ -228,6 +228,15 @@
       "preview": "previews/axe_forchid.png"
     },
     {
+      "id": "axe_jasper",
+      "category": "axe",
+      "name": "JASPER",
+      "sha256": "071ae63ee2974a629d296d50b8268872f23ecc265cb44cfb048e92b90bdddac9",
+      "size": 4305,
+      "added": "2026-10-10",
+      "preview": "previews/axe_jasper.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
