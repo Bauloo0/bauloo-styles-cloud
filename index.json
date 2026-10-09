@@ -21,6 +21,15 @@
       "preview": "previews/axe_dragneel.png"
     },
     {
+      "id": "axe_kesu_main",
+      "category": "axe",
+      "name": "Kesu Main",
+      "sha256": "3d6d80dfe17d9942f5cb3b2f34f11958ed87ca08248354be6ff051cfa6be76a3",
+      "size": 691,
+      "added": "2026-10-10",
+      "preview": "previews/axe_kesu_main.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
