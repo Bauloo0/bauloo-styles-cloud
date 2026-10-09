@@ -138,6 +138,15 @@
       "preview": "previews/armor_helios_private_cupcakebox.png"
     },
     {
+      "id": "inventory_purple_private_edit",
+      "category": "inventory",
+      "name": "Purple Private Edit",
+      "sha256": "96cde1ec7327cb32592fc2e221f0e00e2f6a1a343a49af9fee2e9fba4144c790",
+      "size": 3235,
+      "added": "2026-10-09",
+      "preview": "previews/inventory_purple_private_edit.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
