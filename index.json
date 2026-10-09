@@ -282,6 +282,15 @@
       "preview": "previews/axe_purple_private_edit.png"
     },
     {
+      "id": "axe_kyfes",
+      "category": "axe",
+      "name": "Kyfes",
+      "sha256": "63653cec21c133c8f7a8e955925a7e6225f4be926526c9a38da4f7e786880b19",
+      "size": 4543,
+      "added": "2026-10-10",
+      "preview": "previews/axe_kyfes.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
