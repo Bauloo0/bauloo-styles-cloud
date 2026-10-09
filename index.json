@@ -39,6 +39,15 @@
       "preview": "previews/gap_purplfault_private.png"
     },
     {
+      "id": "pearl_bauloo_pearl",
+      "category": "pearl",
+      "name": "bauloo pearl",
+      "sha256": "fecc3314dfbdd3ea84de99793df37519fa1ea625c3517695a8a0ad1d273760e1",
+      "size": 95741,
+      "added": "2026-10-09",
+      "preview": "previews/pearl_bauloo_pearl.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
