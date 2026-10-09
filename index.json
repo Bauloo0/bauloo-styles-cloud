@@ -75,6 +75,15 @@
       "preview": "previews/pearl_candycrystals_remasterd.png"
     },
     {
+      "id": "sky_starrynightskyoverlay",
+      "category": "sky",
+      "name": "StarryNightSkyOverlay",
+      "sha256": "cfbf30e6ce29ff91ef77810941989648804f727afeb15ef841eaca3cf9686d5b",
+      "size": 6624065,
+      "added": "2026-10-09",
+      "preview": "previews/sky_starrynightskyoverlay.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
