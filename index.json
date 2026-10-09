@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "axe_blossom",
+      "category": "axe",
+      "name": "Blossom",
+      "sha256": "9d24afbff2fe128630c489391c40935af1f4a67d06b3cbaa782dcfeeed40487a",
+      "size": 3811,
+      "added": "2026-10-10",
+      "preview": "previews/axe_blossom.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
