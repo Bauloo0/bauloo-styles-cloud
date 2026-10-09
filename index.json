@@ -291,6 +291,15 @@
       "preview": "previews/axe_kyfes.png"
     },
     {
+      "id": "axe_spookd_remake",
+      "category": "axe",
+      "name": "Spookd Remake",
+      "sha256": "0895d741610921c552036c184cf12f78f538b70113ab53370e728484ac388189",
+      "size": 4644,
+      "added": "2026-10-10",
+      "preview": "previews/axe_spookd_remake.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
