@@ -210,6 +210,15 @@
       "preview": "previews/axe_steams_yellow_edit.png"
     },
     {
+      "id": "axe_purplfault_private",
+      "category": "axe",
+      "name": "purplfault private",
+      "sha256": "438975691b6fc1bef898f8687b27122c145bb52b46d208fc302f308685ba3aed",
+      "size": 654,
+      "added": "2026-10-10",
+      "preview": "previews/axe_purplfault_private.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
