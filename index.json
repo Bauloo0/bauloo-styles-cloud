@@ -156,6 +156,15 @@
       "preview": "previews/inventory_jest_priv.png"
     },
     {
+      "id": "inventory_memetheif_private",
+      "category": "inventory",
+      "name": "MemeTheif private",
+      "sha256": "992454f927cfd4f86da05a218e12265b975c511bc6f41090c94b88782aa32897",
+      "size": 57903,
+      "added": "2026-10-09",
+      "preview": "previews/inventory_memetheif_private.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
