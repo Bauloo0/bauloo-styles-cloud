@@ -561,6 +561,15 @@
       "preview": "previews/axe_taurt_blue.png"
     },
     {
+      "id": "axe_theos_pack_but_better",
+      "category": "axe",
+      "name": "theos pack but better",
+      "sha256": "d5acf39e1f17640640f35b6c4dabde0cd0254714a31a32ac745287761d909e16",
+      "size": 1067,
+      "added": "2026-10-10",
+      "preview": "previews/axe_theos_pack_but_better.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
