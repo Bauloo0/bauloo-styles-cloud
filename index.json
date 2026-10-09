@@ -129,6 +129,15 @@
       "preview": "previews/armor_monkahhremake.png"
     },
     {
+      "id": "armor_helios_private_cupcakebox",
+      "category": "armor",
+      "name": "helios private cupcakebox",
+      "sha256": "4f14b0a51e00f130a3cad7126abc809c35e42e986d7712bd5ec6d7706a7fe8d9",
+      "size": 84331,
+      "added": "2026-10-09",
+      "preview": "previews/armor_helios_private_cupcakebox.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
