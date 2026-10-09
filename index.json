@@ -399,6 +399,15 @@
       "preview": "previews/axe_hyp3r_v2.png"
     },
     {
+      "id": "axe_kesie_blueberry",
+      "category": "axe",
+      "name": "Kesie BlueBerry",
+      "sha256": "34ce2fdde37eeed7f81f4f14f13b98487b24e99e84d66893227c92e6c44809a8",
+      "size": 838,
+      "added": "2026-10-10",
+      "preview": "previews/axe_kesie_blueberry.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
