@@ -390,6 +390,15 @@
       "preview": "previews/axe_clevantii_pack_234.png"
     },
     {
+      "id": "axe_hyp3r_v2",
+      "category": "axe",
+      "name": "Hyp3r V2",
+      "sha256": "121545207436c0ab08fd58ad16f3a0d7e5a6a1ad6b8cb4cb567dd8869782f715",
+      "size": 2622,
+      "added": "2026-10-10",
+      "preview": "previews/axe_hyp3r_v2.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
