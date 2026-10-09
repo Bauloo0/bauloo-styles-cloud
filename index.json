@@ -534,6 +534,15 @@
       "preview": "previews/axe_colden_e100.png"
     },
     {
+      "id": "axe_helios_private_cupcakebox",
+      "category": "axe",
+      "name": "helios private cupcakebox",
+      "sha256": "ded0178285769dc8f923b16a288980c98d8fe6d80ff143515060a7e23698df6d",
+      "size": 11496,
+      "added": "2026-10-10",
+      "preview": "previews/axe_helios_private_cupcakebox.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
