@@ -543,6 +543,15 @@
       "preview": "previews/axe_helios_private_cupcakebox.png"
     },
     {
+      "id": "axe_orchard_x_syn_overlay",
+      "category": "axe",
+      "name": "orchard x syn overlay",
+      "sha256": "3a3f4ed4c97ec713515b544a1dfd374838bfcd5e5e687c8c165c0bf16b9d497c",
+      "size": 2506,
+      "added": "2026-10-10",
+      "preview": "previews/axe_orchard_x_syn_overlay.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
