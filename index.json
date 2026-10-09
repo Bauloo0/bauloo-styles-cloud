@@ -489,6 +489,15 @@
       "preview": "previews/axe_purpite_private.png"
     },
     {
+      "id": "axe_purpslight",
+      "category": "axe",
+      "name": "PurpsLight",
+      "sha256": "20862655d5a435901a2cbb1cd5df0fb9fc772392bbaa6206a9c33a42c8deaa49",
+      "size": 3087,
+      "added": "2026-10-10",
+      "preview": "previews/axe_purpslight.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
