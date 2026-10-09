@@ -48,6 +48,15 @@
       "preview": "previews/pearl_bauloo_pearl.png"
     },
     {
+      "id": "pearl_lavendervamp",
+      "category": "pearl",
+      "name": "LavenderVamp",
+      "sha256": "774720f5728fc625a5bca352d156caca6cc25ffdb9760e388277af42d946f86c",
+      "size": 800,
+      "added": "2026-10-09",
+      "preview": "previews/pearl_lavendervamp.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
