@@ -84,6 +84,15 @@
       "preview": "previews/axe_bombies_lavender_private.png"
     },
     {
+      "id": "axe_dylan_mashup_v22",
+      "category": "axe",
+      "name": "DYLAN Mashup v22",
+      "sha256": "9e97cf5083cb0c0fed2a244742f6ebdca508a5f84a8fc34dbc64fa433f21e056",
+      "size": 6318,
+      "added": "2026-10-10",
+      "preview": "previews/axe_dylan_mashup_v22.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
