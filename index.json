@@ -147,6 +147,15 @@
       "preview": "previews/axe_spectral.png"
     },
     {
+      "id": "axe_zinc",
+      "category": "axe",
+      "name": "Zinc",
+      "sha256": "461700af28edb43504ffcd3e43582171b8734dc81f7341dda0de26cc8e5cf438",
+      "size": 2608,
+      "added": "2026-10-10",
+      "preview": "previews/axe_zinc.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
