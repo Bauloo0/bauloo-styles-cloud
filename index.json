@@ -57,6 +57,15 @@
       "preview": "previews/axe_vaunta_blue.png"
     },
     {
+      "id": "axe_vanilla_edit_16x",
+      "category": "axe",
+      "name": "Vanilla Edit 16x",
+      "sha256": "2471834a253408f4f8fe2018b216d0b4e8d943140267291a30ab1186c3882aa5",
+      "size": 2806,
+      "added": "2026-10-10",
+      "preview": "previews/axe_vanilla_edit_16x.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
