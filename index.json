@@ -462,6 +462,15 @@
       "preview": "previews/axe_snowfault.png"
     },
     {
+      "id": "axe_capy_exe",
+      "category": "axe",
+      "name": "Capy.exe",
+      "sha256": "90ceb779fb6da762e825117338bdce4ad7f59073eed861c11b68d5f93c9b5b03",
+      "size": 27656,
+      "added": "2026-10-10",
+      "preview": "previews/axe_capy_exe.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
