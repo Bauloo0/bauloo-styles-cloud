@@ -264,6 +264,15 @@
       "preview": "previews/axe_doge_private_v2_edit.png"
     },
     {
+      "id": "axe_nebula",
+      "category": "axe",
+      "name": "Nebula",
+      "sha256": "f3887c6d162ab0e3bf3d4b7b6fedaad06d6d7e4e5c066a297da939c03a191d3d",
+      "size": 12845,
+      "added": "2026-10-10",
+      "preview": "previews/axe_nebula.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
