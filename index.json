@@ -138,6 +138,15 @@
       "preview": "previews/axe_scenery.png"
     },
     {
+      "id": "axe_spectral",
+      "category": "axe",
+      "name": "Spectral",
+      "sha256": "f29b40fc5a00c0b6903c46c59d8bb44bfd3c29151b38ec65bd0d9b2f703d280e",
+      "size": 2424,
+      "added": "2026-10-10",
+      "preview": "previews/axe_spectral.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
