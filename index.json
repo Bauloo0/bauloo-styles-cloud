@@ -57,6 +57,15 @@
       "preview": "previews/pearl_lavendervamp.png"
     },
     {
+      "id": "pearl_crystalanchor_private",
+      "category": "pearl",
+      "name": "Crystalanchor Private",
+      "sha256": "8b4e8a452b183aeb5e519e1b172bb2dd7b71b6e06dc7ee972a17a2735c3d4fa0",
+      "size": 17156,
+      "added": "2026-10-09",
+      "preview": "previews/pearl_crystalanchor_private.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
