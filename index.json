@@ -201,6 +201,15 @@
       "preview": "previews/axe_mashup.png"
     },
     {
+      "id": "axe_steams_yellow_edit",
+      "category": "axe",
+      "name": "Steams Yellow Edit",
+      "sha256": "842a96fbffe974a1014a6405604e8f66d7c32811a92bd6ef315fa0c3a04724cf",
+      "size": 722,
+      "added": "2026-10-10",
+      "preview": "previews/axe_steams_yellow_edit.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
