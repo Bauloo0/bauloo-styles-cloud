@@ -219,6 +219,15 @@
       "preview": "previews/axe_purplfault_private.png"
     },
     {
+      "id": "axe_forchid",
+      "category": "axe",
+      "name": "Forchid",
+      "sha256": "4e761f9ac7e46115c5248c102eb9f2150412b3b6676892f822918841222ef933",
+      "size": 11816,
+      "added": "2026-10-10",
+      "preview": "previews/axe_forchid.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
