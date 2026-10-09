@@ -66,6 +66,15 @@
       "preview": "previews/pearl_crystalanchor_private.png"
     },
     {
+      "id": "pearl_candycrystals_remasterd",
+      "category": "pearl",
+      "name": "CandyCrystals Remasterd",
+      "sha256": "dcf628ff6a035671ed00d1893e4079f88cc6c01b02fc7d04fda648c3b9cead88",
+      "size": 1218,
+      "added": "2026-10-09",
+      "preview": "previews/pearl_candycrystals_remasterd.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
