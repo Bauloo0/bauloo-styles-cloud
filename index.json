@@ -426,6 +426,15 @@
       "preview": "previews/axe_kesie_optimal.png"
     },
     {
+      "id": "axe_kesie_lavender",
+      "category": "axe",
+      "name": "Kesie Lavender",
+      "sha256": "357ddb2b1da0b9ef2bd8fff182c319f03ceb636c9fe5e0681487f5025ac0c29c",
+      "size": 698,
+      "added": "2026-10-10",
+      "preview": "previews/axe_kesie_lavender.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
