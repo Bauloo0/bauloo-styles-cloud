@@ -21,6 +21,15 @@
       "preview": "previews/gap_candycrystals_remasterd.png"
     },
     {
+      "id": "gap_galaxy",
+      "category": "gap",
+      "name": "galaxy",
+      "sha256": "adc7e4fd076ff49308d485faeff8e2aa49313ab7f13d7f4b5f4918e8bb835abc",
+      "size": 2619,
+      "added": "2026-10-09",
+      "preview": "previews/gap_galaxy.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
