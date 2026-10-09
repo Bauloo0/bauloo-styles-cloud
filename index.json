@@ -507,6 +507,15 @@
       "preview": "previews/axe_sixuii_tweaks.png"
     },
     {
+      "id": "axe_vanilla_enhanced",
+      "category": "axe",
+      "name": "Vanilla Enhanced",
+      "sha256": "2a1a68bcd5bc0aada3cf2a37161fac2dbb3d903409c884790d07992b25028ce8",
+      "size": 1352,
+      "added": "2026-10-10",
+      "preview": "previews/axe_vanilla_enhanced.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
