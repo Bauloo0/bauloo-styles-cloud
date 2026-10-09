@@ -552,6 +552,15 @@
       "preview": "previews/axe_orchard_x_syn_overlay.png"
     },
     {
+      "id": "axe_taurt_blue",
+      "category": "axe",
+      "name": "taurt blue",
+      "sha256": "26a853e316b336003eb34d87082e2a85d7e7949c37d3a26c793cb10be93cad58",
+      "size": 2851,
+      "added": "2026-10-10",
+      "preview": "previews/axe_taurt_blue.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
