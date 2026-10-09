@@ -129,6 +129,15 @@
       "preview": "previews/axe_pink_scence.png"
     },
     {
+      "id": "axe_scenery",
+      "category": "axe",
+      "name": "Scenery",
+      "sha256": "d2770be1d0dc6e4b252a181c61237be40cdcbdd0a2f2fe7e7e4b7c224f3ff29a",
+      "size": 2635,
+      "added": "2026-10-10",
+      "preview": "previews/axe_scenery.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
