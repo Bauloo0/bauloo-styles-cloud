@@ -498,6 +498,15 @@
       "preview": "previews/axe_purpslight.png"
     },
     {
+      "id": "axe_sixuii_tweaks",
+      "category": "axe",
+      "name": "Sixuii Tweaks",
+      "sha256": "fde13918a71acb7ed3eb248a21e40a6c7e3887c0684da9027c9f9e85ff30a392",
+      "size": 5674,
+      "added": "2026-10-10",
+      "preview": "previews/axe_sixuii_tweaks.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
