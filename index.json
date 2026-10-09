@@ -102,6 +102,15 @@
       "preview": "previews/axe_16x16_legacy_edit.png"
     },
     {
+      "id": "axe_blck",
+      "category": "axe",
+      "name": "Blck",
+      "sha256": "eb9ca21b981b5dc883ed263aae2be6dca7a89e1132f9f51c7714d23378d323fb",
+      "size": 801,
+      "added": "2026-10-10",
+      "preview": "previews/axe_blck.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
