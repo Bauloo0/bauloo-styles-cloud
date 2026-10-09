@@ -273,6 +273,15 @@
       "preview": "previews/axe_nebula.png"
     },
     {
+      "id": "axe_purple_private_edit",
+      "category": "axe",
+      "name": "Purple Private Edit",
+      "sha256": "411d462d6c32c4149e23c555128a9a52db3ca288412f5869f5a99d4fd654d549",
+      "size": 1102,
+      "added": "2026-10-10",
+      "preview": "previews/axe_purple_private_edit.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
