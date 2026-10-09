@@ -327,6 +327,15 @@
       "preview": "previews/axe_candycrystals_remasterd.png"
     },
     {
+      "id": "axe_clear_vision_grey",
+      "category": "axe",
+      "name": "Clear Vision Grey",
+      "sha256": "78af70461e0bfc2d1e339ad541fe44689476a2ec0435b6d50d3dadd049657a29",
+      "size": 2220,
+      "added": "2026-10-10",
+      "preview": "previews/axe_clear_vision_grey.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
