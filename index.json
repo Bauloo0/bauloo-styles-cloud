@@ -120,6 +120,15 @@
       "preview": "previews/axe_penguinz.png"
     },
     {
+      "id": "axe_pink_scence",
+      "category": "axe",
+      "name": "Pink Scence",
+      "sha256": "e8c70768dd279e61ba02629beba64dac494065e9c4156e528ac2f62ea0e79ef2",
+      "size": 3374,
+      "added": "2026-10-10",
+      "preview": "previews/axe_pink_scence.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
