@@ -471,6 +471,15 @@
       "preview": "previews/axe_capy_exe.png"
     },
     {
+      "id": "axe_idosids",
+      "category": "axe",
+      "name": "IdosIDs",
+      "sha256": "08e6b3fd17bb7f5d42a0a8d5db7829e7e0d8d73a1d2d9afdf1c25f0fbae9952b",
+      "size": 4535,
+      "added": "2026-10-10",
+      "preview": "previews/axe_idosids.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
