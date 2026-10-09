@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "anchor_need_me",
+      "category": "anchor",
+      "name": "need me",
+      "sha256": "dd7adba73aeda5b2536c0de87c1efb471ba3945f6d121dce131c05a66a53ea45",
+      "size": 55446,
+      "added": "2026-10-09",
+      "preview": "previews/anchor_need_me.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
