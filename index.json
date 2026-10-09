@@ -435,6 +435,15 @@
       "preview": "previews/axe_kesie_lavender.png"
     },
     {
+      "id": "axe_cakefault",
+      "category": "axe",
+      "name": "CakeFault",
+      "sha256": "7b2afe21c5e77b5978a2b5fc29bfd342f61fb02f5e8cf0a122171e51c0a8b1c1",
+      "size": 2379,
+      "added": "2026-10-10",
+      "preview": "previews/axe_cakefault.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
