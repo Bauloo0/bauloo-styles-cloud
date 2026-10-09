@@ -372,6 +372,15 @@
       "preview": "previews/axe_emily_edit.png"
     },
     {
+      "id": "axe_faithful_32x",
+      "category": "axe",
+      "name": "Faithful 32x",
+      "sha256": "87b68bfbf5a508bca0e14780da47260d1bd01ab74507caa0a7c8858cc960f556",
+      "size": 3413,
+      "added": "2026-10-10",
+      "preview": "previews/axe_faithful_32x.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
