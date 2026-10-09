@@ -354,6 +354,15 @@
       "preview": "previews/axe_digs_simple.png"
     },
     {
+      "id": "axe_doge_private_v2",
+      "category": "axe",
+      "name": "Doge Private V2",
+      "sha256": "93513f096f6bbda22cdd34972ef8eb2d7fb1adacd4e6f87f27ea8ab09140b8c6",
+      "size": 2623,
+      "added": "2026-10-10",
+      "preview": "previews/axe_doge_private_v2.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
