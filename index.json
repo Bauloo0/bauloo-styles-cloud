@@ -66,6 +66,15 @@
       "preview": "previews/axe_vanilla_edit_16x.png"
     },
     {
+      "id": "axe_midnight",
+      "category": "axe",
+      "name": "Midnight",
+      "sha256": "b9f68fb06bb682ea0ac937f9286124b0fe3a22469b1ae69961624cf278712e6f",
+      "size": 15651,
+      "added": "2026-10-10",
+      "preview": "previews/axe_midnight.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
