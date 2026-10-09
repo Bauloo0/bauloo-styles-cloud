@@ -246,6 +246,15 @@
       "preview": "previews/axe_sigma.png"
     },
     {
+      "id": "axe_cowartedpink",
+      "category": "axe",
+      "name": "CowartedPink",
+      "sha256": "aeded3c1fc2491763768422c630024fa2c90e9af3e061e475d59a8185c8a2edc",
+      "size": 843,
+      "added": "2026-10-10",
+      "preview": "previews/axe_cowartedpink.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
