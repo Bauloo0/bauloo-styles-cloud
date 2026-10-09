@@ -165,6 +165,15 @@
       "preview": "previews/inventory_memetheif_private.png"
     },
     {
+      "id": "shield_capy_exe",
+      "category": "shield",
+      "name": "Capy.exe",
+      "sha256": "00ad54352fff2405977d7419ff676dc91c433e90df060d8dd3a1c0af4fcc2105",
+      "size": 17784,
+      "added": "2026-10-09",
+      "preview": "previews/shield_capy_exe.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
