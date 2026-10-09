@@ -120,6 +120,15 @@
       "preview": "previews/armor_emily_edit.png"
     },
     {
+      "id": "armor_monkahhremake",
+      "category": "armor",
+      "name": "monkahhremake",
+      "sha256": "59f437f435dd22089d17b4ae4f68083a2dd609cd0f007b1550999c649b975ada",
+      "size": 47180,
+      "added": "2026-10-09",
+      "preview": "previews/armor_monkahhremake.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
