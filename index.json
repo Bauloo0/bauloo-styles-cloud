@@ -525,6 +525,15 @@
       "preview": "previews/axe_the6legend_revamp.png"
     },
     {
+      "id": "axe_colden_e100",
+      "category": "axe",
+      "name": "colden-e100",
+      "sha256": "603c4f0287833a2393079aed8cf48b45c1bfffb079d8fbe93054b817fd938219",
+      "size": 21661,
+      "added": "2026-10-10",
+      "preview": "previews/axe_colden_e100.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
