@@ -12,6 +12,15 @@
       "preview": "previews/axe_blossom.png"
     },
     {
+      "id": "axe_dragneel",
+      "category": "axe",
+      "name": "Dragneel",
+      "sha256": "7c7ea350e05f04e2c85f0081369cefca50eb3b12e9e55fae4b2ca98ec45f675e",
+      "size": 2561,
+      "added": "2026-10-10",
+      "preview": "previews/axe_dragneel.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
