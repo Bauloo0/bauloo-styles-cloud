@@ -147,6 +147,15 @@
       "preview": "previews/inventory_purple_private_edit.png"
     },
     {
+      "id": "inventory_jest_priv",
+      "category": "inventory",
+      "name": "jest priv",
+      "sha256": "84ab32918d3b8a7b1a12db5cfdc085951978cd3b386b7d79141a0e3109a9e9eb",
+      "size": 95675,
+      "added": "2026-10-09",
+      "preview": "previews/inventory_jest_priv.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
