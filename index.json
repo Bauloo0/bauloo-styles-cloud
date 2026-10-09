@@ -516,6 +516,15 @@
       "preview": "previews/axe_vanilla_enhanced.png"
     },
     {
+      "id": "axe_the6legend_revamp",
+      "category": "axe",
+      "name": "The6Legend Revamp",
+      "sha256": "e6b63e6f17dcbd01cb96a0d00dc701ed895f56bc23cc6c3d05d23a3ead2c3904",
+      "size": 3354,
+      "added": "2026-10-10",
+      "preview": "previews/axe_the6legend_revamp.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
