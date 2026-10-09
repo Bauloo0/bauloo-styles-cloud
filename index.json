@@ -192,6 +192,15 @@
       "preview": "previews/axe_cupcakebox_priv.png"
     },
     {
+      "id": "axe_mashup",
+      "category": "axe",
+      "name": "mashup",
+      "sha256": "d2e08ad0ed76f0dd0d5c1aa13da9ef3df8830cfb2034db28f040a74de066c1da",
+      "size": 928,
+      "added": "2026-10-10",
+      "preview": "previews/axe_mashup.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
