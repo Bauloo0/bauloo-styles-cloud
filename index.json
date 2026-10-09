@@ -93,6 +93,15 @@
       "preview": "previews/axe_dylan_mashup_v22.png"
     },
     {
+      "id": "axe_16x16_legacy_edit",
+      "category": "axe",
+      "name": "16x16 LEGACY EDIT",
+      "sha256": "9a9517c85162bba9377bee908ba6e270a4861bae57f5bc66f0f0a28116acf611",
+      "size": 2957,
+      "added": "2026-10-10",
+      "preview": "previews/axe_16x16_legacy_edit.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
