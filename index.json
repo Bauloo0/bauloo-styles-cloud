@@ -174,6 +174,15 @@
       "preview": "previews/shield_capy_exe.png"
     },
     {
+      "id": "sky_forchid",
+      "category": "sky",
+      "name": "Forchid",
+      "sha256": "d681d40a5b59ae5705f7e15f47323d5909a505f462b9632e8a4193243b2f710b",
+      "size": 17673849,
+      "added": "2026-10-09",
+      "preview": "previews/sky_forchid.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
