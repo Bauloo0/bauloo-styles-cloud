@@ -309,6 +309,15 @@
       "preview": "previews/axe_tryh4rdd_red_default.png"
     },
     {
+      "id": "axe_v_pink",
+      "category": "axe",
+      "name": "V+Pink",
+      "sha256": "0bed252c8608d2b02d5fa8bc5d2e351bd7023c48356b1ec572113fed2084f29c",
+      "size": 4598,
+      "added": "2026-10-10",
+      "preview": "previews/axe_v_pink.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
