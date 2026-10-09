@@ -30,6 +30,15 @@
       "preview": "previews/gap_galaxy.png"
     },
     {
+      "id": "gap_purplfault_private",
+      "category": "gap",
+      "name": "purplfault private",
+      "sha256": "e91740cd1e7c6257ffefc987b047971f28779baabba8159afe5169f2dd19ecf2",
+      "size": 1202,
+      "added": "2026-10-09",
+      "preview": "previews/gap_purplfault_private.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
