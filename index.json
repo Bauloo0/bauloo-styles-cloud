@@ -111,6 +111,15 @@
       "preview": "previews/fire_dragneel.png"
     },
     {
+      "id": "armor_emily_edit",
+      "category": "armor",
+      "name": "Emily edit",
+      "sha256": "c8a5dd8f1a8c050312b60054e50d4ac6d2cce8717c5f23d2924b1fd9df083987",
+      "size": 17475,
+      "added": "2026-10-09",
+      "preview": "previews/armor_emily_edit.png"
+    },
+    {
       "id": "mace_phatom",
       "category": "mace",
       "name": "phatom",
