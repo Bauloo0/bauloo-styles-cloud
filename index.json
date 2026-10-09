@@ -480,6 +480,15 @@
       "preview": "previews/axe_idosids.png"
     },
     {
+      "id": "axe_purpite_private",
+      "category": "axe",
+      "name": "Purpite Private",
+      "sha256": "643ae2f59c116b26371c846c2bd26984817f9f93324638c64230a41f3e13236f",
+      "size": 2989,
+      "added": "2026-10-10",
+      "preview": "previews/axe_purpite_private.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
