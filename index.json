@@ -570,6 +570,15 @@
       "preview": "previews/axe_theos_pack_but_better.png"
     },
     {
+      "id": "axe_lavendercat",
+      "category": "axe",
+      "name": "lavendercat",
+      "sha256": "96f118e541ac93ef5db2d64906f1f3f31ccb2b89855cf79799b8bd8ab81d866f",
+      "size": 3480,
+      "added": "2026-10-10",
+      "preview": "previews/axe_lavendercat.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
