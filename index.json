@@ -237,6 +237,15 @@
       "preview": "previews/axe_jasper.png"
     },
     {
+      "id": "axe_sigma",
+      "category": "axe",
+      "name": "sigma",
+      "sha256": "2137172df7063a198691ba9981fe5f4e9f8ef2a416486d3ab3e61d526744918f",
+      "size": 4516,
+      "added": "2026-10-10",
+      "preview": "previews/axe_sigma.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
