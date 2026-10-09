@@ -183,6 +183,15 @@
       "preview": "previews/axe_testmaster11_red_edit.png"
     },
     {
+      "id": "axe_cupcakebox_priv",
+      "category": "axe",
+      "name": "cupcakebox priv",
+      "sha256": "7160e468f06174111284683bb8d18b49e53b9caa726bbb0c6fcf3868ca9168cd",
+      "size": 1590,
+      "added": "2026-10-10",
+      "preview": "previews/axe_cupcakebox_priv.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
