@@ -30,6 +30,15 @@
       "preview": "previews/axe_kesu_main.png"
     },
     {
+      "id": "axe_sunset_priv",
+      "category": "axe",
+      "name": "Sunset Priv",
+      "sha256": "38a131784c21bc07b5f9575a3e17b9a03825456781147060a5e3b9d22d1fdce5",
+      "size": 2436,
+      "added": "2026-10-10",
+      "preview": "previews/axe_sunset_priv.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
