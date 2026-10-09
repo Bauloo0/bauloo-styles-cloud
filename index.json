@@ -345,6 +345,15 @@
       "preview": "previews/axe_crey_private.png"
     },
     {
+      "id": "axe_digs_simple",
+      "category": "axe",
+      "name": "Digs Simple",
+      "sha256": "0153be0917d6c2f4f923fe9ac7ebc25976fa1ed299e9647e338573c35702e01b",
+      "size": 3658,
+      "added": "2026-10-10",
+      "preview": "previews/axe_digs_simple.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
