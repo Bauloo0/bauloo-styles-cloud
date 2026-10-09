@@ -417,6 +417,15 @@
       "preview": "previews/axe_kesie_blueberrybutlighter.png"
     },
     {
+      "id": "axe_kesie_optimal",
+      "category": "axe",
+      "name": "Kesie Optimal",
+      "sha256": "ddab0d5a44b36115ff55e6411b2482a6487a344c1b5a29671d5b0531d5831fb4",
+      "size": 1983,
+      "added": "2026-10-10",
+      "preview": "previews/axe_kesie_optimal.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
