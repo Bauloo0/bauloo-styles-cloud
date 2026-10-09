@@ -111,6 +111,15 @@
       "preview": "previews/axe_blck.png"
     },
     {
+      "id": "axe_penguinz",
+      "category": "axe",
+      "name": "Penguinz",
+      "sha256": "e41b47ca1b742e3f0af7ebdf444467e370af107e9b6800c2a4e257a4d087c5da",
+      "size": 2451,
+      "added": "2026-10-10",
+      "preview": "previews/axe_penguinz.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
