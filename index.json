@@ -48,6 +48,15 @@
       "preview": "previews/axe_vaunta_mashup_ii.png"
     },
     {
+      "id": "axe_vaunta_blue",
+      "category": "axe",
+      "name": "vaunta blue",
+      "sha256": "d7c46dc623a0e9cde4a2b56a7533361db6d872027c30a21c077df39595c282c0",
+      "size": 666,
+      "added": "2026-10-10",
+      "preview": "previews/axe_vaunta_blue.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
