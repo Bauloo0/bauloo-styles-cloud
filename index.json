@@ -912,6 +912,15 @@
       "preview": "previews/totem_faithful_32x.png"
     },
     {
+      "id": "totem_ggravpriavte",
+      "category": "totem",
+      "name": "GGravPriavte",
+      "sha256": "8356ea6ca4de43144c07f0020af2fac307c776b08b6d23edfad2ea0b6790e97a",
+      "size": 1430,
+      "added": "2026-10-10",
+      "preview": "previews/totem_ggravpriavte.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
