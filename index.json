@@ -795,6 +795,15 @@
       "preview": "previews/totem_boykisser_special.png"
     },
     {
+      "id": "totem_kesu",
+      "category": "totem",
+      "name": "kesu+",
+      "sha256": "9f6b34c9a9fed5211c7e1b45db3646d688feb21f514b592c73614ecef65ca76c",
+      "size": 1362,
+      "added": "2026-10-10",
+      "preview": "previews/totem_kesu.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
