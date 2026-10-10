@@ -615,6 +615,15 @@
       "preview": "previews/totem_vaunta_mashup_ii.png"
     },
     {
+      "id": "totem_vaunta_blue",
+      "category": "totem",
+      "name": "vaunta blue",
+      "sha256": "5693b6f7c06889457984182d0619834e6c58bc2b1e23663c6ec1de681e3ec3a5",
+      "size": 3766,
+      "added": "2026-10-10",
+      "preview": "previews/totem_vaunta_blue.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
