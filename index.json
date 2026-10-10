@@ -687,6 +687,15 @@
       "preview": "previews/totem_qblast_purple.png"
     },
     {
+      "id": "totem_qblastdoge",
+      "category": "totem",
+      "name": "Qblastdoge",
+      "sha256": "951b74dde979a17b3b41701ed1f2860de50be7165ae0851c0d3f2e0d52010efe",
+      "size": 1751,
+      "added": "2026-10-10",
+      "preview": "previews/totem_qblastdoge.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
