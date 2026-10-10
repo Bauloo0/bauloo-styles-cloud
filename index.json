@@ -606,6 +606,15 @@
       "preview": "previews/totem_defcon_top_pack.png"
     },
     {
+      "id": "totem_doge",
+      "category": "totem",
+      "name": "Doge",
+      "sha256": "9b2afc91d2b330676c852af84ad76d39edcefd0e520ba58726dd7d0e47ea25cd",
+      "size": 2064,
+      "added": "2026-10-10",
+      "preview": "previews/totem_doge.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
