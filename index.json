@@ -624,6 +624,15 @@
       "preview": "previews/totem_faithful_32x.png"
     },
     {
+      "id": "totem_galaxy",
+      "category": "totem",
+      "name": "Galaxy",
+      "sha256": "f54a9b6b78dcfa2db5a46ef6f0970539ea29abfc83f1274cfe76e50317732cbb",
+      "size": 1631,
+      "added": "2026-10-10",
+      "preview": "previews/totem_galaxy.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
