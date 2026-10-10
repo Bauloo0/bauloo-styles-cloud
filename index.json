@@ -1002,6 +1002,15 @@
       "preview": "previews/totem_rwust_pack.png"
     },
     {
+      "id": "totem_vanilla_essence",
+      "category": "totem",
+      "name": "Vanilla Essence",
+      "sha256": "0d5c296dc6d1d336946570b33827bde275359f7a4dd1ff5220bfb413233f1bc2",
+      "size": 1602,
+      "added": "2026-10-10",
+      "preview": "previews/totem_vanilla_essence.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
