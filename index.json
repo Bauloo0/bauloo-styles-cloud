@@ -642,6 +642,15 @@
       "preview": "previews/totem_tostraight_streamer.png"
     },
     {
+      "id": "totem_blck",
+      "category": "totem",
+      "name": "Blck",
+      "sha256": "dc86b325dfc3ae97bde7d996335be0e02b1b8d87e2c30c294dc9bede50e3bdb7",
+      "size": 1592,
+      "added": "2026-10-10",
+      "preview": "previews/totem_blck.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
