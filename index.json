@@ -822,6 +822,15 @@
       "preview": "previews/totem_candycrystals_remasterd.png"
     },
     {
+      "id": "totem_lennon_priv",
+      "category": "totem",
+      "name": "lennon priv",
+      "sha256": "d290bbaa836b0673cd28eb4f911b73c74321a24885dddc86ab75146f8a58ca14",
+      "size": 1564,
+      "added": "2026-10-10",
+      "preview": "previews/totem_lennon_priv.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
