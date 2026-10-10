@@ -984,6 +984,15 @@
       "preview": "previews/totem_idosids.png"
     },
     {
+      "id": "totem_baby_mashup",
+      "category": "totem",
+      "name": "baby mashup",
+      "sha256": "7b7ad390c31169e10998925a58751382b6a69651b0a0538c156bc18eab160501",
+      "size": 4275,
+      "added": "2026-10-10",
+      "preview": "previews/totem_baby_mashup.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
