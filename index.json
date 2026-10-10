@@ -921,6 +921,15 @@
       "preview": "previews/totem_ggravpriavte.png"
     },
     {
+      "id": "totem_hyp3r_v2_converted",
+      "category": "totem",
+      "name": "Hyp3r V2 converted",
+      "sha256": "109fdf2ec108dffa3de3f3c098781f8c424a5eeb512aa224bb0ed014c6c77b03",
+      "size": 1653,
+      "added": "2026-10-10",
+      "preview": "previews/totem_hyp3r_v2_converted.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
