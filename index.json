@@ -705,6 +705,15 @@
       "preview": "previews/totem_theos_pack_but_better.png"
     },
     {
+      "id": "totem_white_totem",
+      "category": "totem",
+      "name": "White Totem",
+      "sha256": "caeb48e740173bb1b78111bd3f56e997641f02a2439929076fee6d80707e4eda",
+      "size": 778,
+      "added": "2026-10-10",
+      "preview": "previews/totem_white_totem.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
