@@ -894,6 +894,15 @@
       "preview": "previews/totem_digs_simple.png"
     },
     {
+      "id": "totem_doge_private_v2",
+      "category": "totem",
+      "name": "Doge Private V2",
+      "sha256": "84bc257e04ca897fe0a9a152579bf01f6b88f251e29bdcef8cb7430dc525e08f",
+      "size": 1434,
+      "added": "2026-10-10",
+      "preview": "previews/totem_doge_private_v2.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
