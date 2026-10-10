@@ -705,6 +705,15 @@
       "preview": "previews/totem_galaxy.png"
     },
     {
+      "id": "totem_mashup",
+      "category": "totem",
+      "name": "mashup",
+      "sha256": "47b7f6cc042d6f1ad44823483cb212d1b8de6987e0778b18380970be878ab120",
+      "size": 2848,
+      "added": "2026-10-10",
+      "preview": "previews/totem_mashup.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
