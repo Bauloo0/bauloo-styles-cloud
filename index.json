@@ -696,6 +696,15 @@
       "preview": "previews/totem_qblastdoge.png"
     },
     {
+      "id": "totem_theos_pack_but_better",
+      "category": "totem",
+      "name": "Theos pack but better",
+      "sha256": "32eb2013c6c52d8270ea6d3ef8678126be95f349c10f9b9f205db95f65c8560a",
+      "size": 1725,
+      "added": "2026-10-10",
+      "preview": "previews/totem_theos_pack_but_better.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
