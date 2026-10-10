@@ -759,6 +759,15 @@
       "preview": "previews/totem_purple_private_edit.png"
     },
     {
+      "id": "totem_monkahhremake",
+      "category": "totem",
+      "name": "monkahhremake",
+      "sha256": "e65f839d076be37a9de5d3c96736ea555d4f90aa668dc83357e2594d3cbe48ad",
+      "size": 905,
+      "added": "2026-10-10",
+      "preview": "previews/totem_monkahhremake.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
