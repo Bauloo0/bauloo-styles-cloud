@@ -903,6 +903,15 @@
       "preview": "previews/totem_doge_private_v2.png"
     },
     {
+      "id": "totem_faithful_32x",
+      "category": "totem",
+      "name": "Faithful 32x",
+      "sha256": "bd5104c63b57494f80e7b996a8b4cc13dffe6f60ee22a04f513ddbcdb24ace80",
+      "size": 775,
+      "added": "2026-10-10",
+      "preview": "previews/totem_faithful_32x.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
