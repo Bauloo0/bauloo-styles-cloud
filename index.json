@@ -948,6 +948,15 @@
       "preview": "previews/totem_kesie_blueberrybutlighter.png"
     },
     {
+      "id": "totem_kesie_lavender",
+      "category": "totem",
+      "name": "Kesie Lavender",
+      "sha256": "fc4e7e989c38efa78990bbecb371e1dd0b4385f6c9a3d8dfce9d1a3771851c56",
+      "size": 1876,
+      "added": "2026-10-10",
+      "preview": "previews/totem_kesie_lavender.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
