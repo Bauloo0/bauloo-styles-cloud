@@ -651,6 +651,15 @@
       "preview": "previews/totem_hyp3r_v2_converted.png"
     },
     {
+      "id": "totem_ice",
+      "category": "totem",
+      "name": "Ice",
+      "sha256": "e06628c91c80b56cb3d0b30f936c1c0a0318f403d26f1a1093c4192e4413a27a",
+      "size": 3438,
+      "added": "2026-10-10",
+      "preview": "previews/totem_ice.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
