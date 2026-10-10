@@ -597,6 +597,15 @@
       "preview": "previews/totem_kesu_main.png"
     },
     {
+      "id": "totem_aria_private",
+      "category": "totem",
+      "name": "aria private",
+      "sha256": "172e296c2451e81229951322264b6bb79c0e61c361216a07bcc6c9a13e8d9784",
+      "size": 2672,
+      "added": "2026-10-10",
+      "preview": "previews/totem_aria_private.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
