@@ -858,6 +858,15 @@
       "preview": "previews/totem_aquaplus.png"
     },
     {
+      "id": "totem_awerial_private",
+      "category": "totem",
+      "name": "Awerial Private",
+      "sha256": "22818569911dc77d0f7ac52b957e7f1c4edd28d4d6fa15221013e5bbb8bd8bc1",
+      "size": 1162,
+      "added": "2026-10-10",
+      "preview": "previews/totem_awerial_private.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
