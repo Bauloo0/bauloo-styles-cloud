@@ -993,6 +993,15 @@
       "preview": "previews/totem_baby_mashup.png"
     },
     {
+      "id": "totem_rwust_pack",
+      "category": "totem",
+      "name": "Rwust pack",
+      "sha256": "12091e3ffe56c47187c3bfd9fb027de8599741f27683e5fbf3dd84053b97f231",
+      "size": 3156,
+      "added": "2026-10-10",
+      "preview": "previews/totem_rwust_pack.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
