@@ -957,6 +957,15 @@
       "preview": "previews/totem_kesie_lavender.png"
     },
     {
+      "id": "totem_memetheif_private",
+      "category": "totem",
+      "name": "MemeTheif private",
+      "sha256": "3e2e7a9de727b0b3a533ee3ef10caa5bb77096de29b0872e0d77e44d2b6a110e",
+      "size": 1496,
+      "added": "2026-10-10",
+      "preview": "previews/totem_memetheif_private.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
