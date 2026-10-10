@@ -588,6 +588,15 @@
       "preview": "previews/totem_auraexp_blu_pack.png"
     },
     {
+      "id": "totem_bloaqua",
+      "category": "totem",
+      "name": "Bloaqua",
+      "sha256": "1e71f751d0ecd783e728e8c9d1c0193a9958f709a6b7e3d236e96e9eb0085a30",
+      "size": 1806,
+      "added": "2026-10-10",
+      "preview": "previews/totem_bloaqua.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
