@@ -777,6 +777,15 @@
       "preview": "previews/totem_shadepack2.png"
     },
     {
+      "id": "totem_v_pink",
+      "category": "totem",
+      "name": "V+Pink",
+      "sha256": "a47beb5d0f5bc2e24da3802bccb468265f4384ec138fa6610270fcc539344d63",
+      "size": 3411,
+      "added": "2026-10-10",
+      "preview": "previews/totem_v_pink.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
