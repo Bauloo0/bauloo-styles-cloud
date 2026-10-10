@@ -597,6 +597,15 @@
       "preview": "previews/totem_bloaqua.png"
     },
     {
+      "id": "totem_defcon_top_pack",
+      "category": "totem",
+      "name": "Defcon top pack",
+      "sha256": "7b7e3ee2ecaa5b46b6a35af04c1ad2b89dc4a17652ab09c6ddfe8025be2fd730",
+      "size": 2875,
+      "added": "2026-10-10",
+      "preview": "previews/totem_defcon_top_pack.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
