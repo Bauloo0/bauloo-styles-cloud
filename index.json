@@ -867,6 +867,15 @@
       "preview": "previews/totem_awerial_private.png"
     },
     {
+      "id": "totem_clear_vision_grey",
+      "category": "totem",
+      "name": "Clear Vision Grey",
+      "sha256": "a2f2f51ce525c6ae38bcf24b1ce1ff279a529567cd0e6acf5f4d571395fe7652",
+      "size": 1575,
+      "added": "2026-10-10",
+      "preview": "previews/totem_clear_vision_grey.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
