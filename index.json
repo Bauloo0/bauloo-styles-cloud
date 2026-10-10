@@ -966,6 +966,15 @@
       "preview": "previews/totem_memetheif_private.png"
     },
     {
+      "id": "totem_lavendervamp",
+      "category": "totem",
+      "name": "LavenderVamp",
+      "sha256": "7e559a611c1025238671daf2e56400f75a074d263185cb397bdbe5245b3b1f5b",
+      "size": 1167,
+      "added": "2026-10-10",
+      "preview": "previews/totem_lavendervamp.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
