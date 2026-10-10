@@ -840,6 +840,15 @@
       "preview": "previews/totem_purp_edit.png"
     },
     {
+      "id": "totem_5lquelly_default_edit",
+      "category": "totem",
+      "name": "5lQuelly default edit",
+      "sha256": "a01e4efcb3029a550cfe466badbda15fd6c76703ef444b1fa1597947d82fadc2",
+      "size": 1151,
+      "added": "2026-10-10",
+      "preview": "previews/totem_5lquelly_default_edit.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
