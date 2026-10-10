@@ -975,6 +975,15 @@
       "preview": "previews/totem_lavendervamp.png"
     },
     {
+      "id": "totem_idosids",
+      "category": "totem",
+      "name": "IdosIDs",
+      "sha256": "bb51061cfb139aa2c4256b13f4a052b9ca5abf63afe6cc3aa41a039ba1fb297e",
+      "size": 2172,
+      "added": "2026-10-10",
+      "preview": "previews/totem_idosids.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
