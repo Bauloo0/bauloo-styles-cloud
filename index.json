@@ -849,6 +849,15 @@
       "preview": "previews/totem_5lquelly_default_edit.png"
     },
     {
+      "id": "totem_aquaplus",
+      "category": "totem",
+      "name": "AquaPlus",
+      "sha256": "e99201a57804799c4cd3b650860638ecdf498a5600cd1b33a3dd02b4425507d6",
+      "size": 2487,
+      "added": "2026-10-10",
+      "preview": "previews/totem_aquaplus.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
