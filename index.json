@@ -786,6 +786,15 @@
       "preview": "previews/totem_v_pink.png"
     },
     {
+      "id": "totem_boykisser_special",
+      "category": "totem",
+      "name": "Boykisser Special",
+      "sha256": "7817a9a1afd383bb757e645504f94342e79be35f4dce6a2711e66a51d6666f32",
+      "size": 177081,
+      "added": "2026-10-10",
+      "preview": "previews/totem_boykisser_special.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
