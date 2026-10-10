@@ -579,6 +579,15 @@
       "preview": "previews/axe_lavendercat.png"
     },
     {
+      "id": "totem_kesu_default_mashup",
+      "category": "totem",
+      "name": "Kesu Default Mashup",
+      "sha256": "614a893da8670ded64c3065240fb43b416a487b545577899e6bba19c2fca422f",
+      "size": 1021,
+      "added": "2026-10-10",
+      "preview": "previews/totem_kesu_default_mashup.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
