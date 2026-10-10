@@ -633,6 +633,15 @@
       "preview": "previews/totem_galaxy.png"
     },
     {
+      "id": "totem_gold_outline",
+      "category": "totem",
+      "name": "Gold Outline",
+      "sha256": "340af7a4a44db51d98cd703a58fb04c177f28fd660c6d1801c8398434a7643c5",
+      "size": 900,
+      "added": "2026-10-10",
+      "preview": "previews/totem_gold_outline.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
