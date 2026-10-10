@@ -741,6 +741,15 @@
       "preview": "previews/totem_gallerywalk.png"
     },
     {
+      "id": "totem_lavander_by_upwqrd",
+      "category": "totem",
+      "name": "Lavander by Upwqrd",
+      "sha256": "f44bec89dc558257a6e2fe89189e7e78e595eb6bdd0b9f55866d82a6fae94bd0",
+      "size": 973,
+      "added": "2026-10-10",
+      "preview": "previews/totem_lavander_by_upwqrd.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
