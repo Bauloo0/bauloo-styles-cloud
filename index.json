@@ -678,6 +678,15 @@
       "preview": "previews/totem_lavander_by_upwqrd.png"
     },
     {
+      "id": "totem_qblast_purple",
+      "category": "totem",
+      "name": "Qblast purple",
+      "sha256": "d73e1aacfdd7f86dca6217680d2a6dfd1d9d9accf57b01fe87a77a6e9b8ede6c",
+      "size": 2921,
+      "added": "2026-10-10",
+      "preview": "previews/totem_qblast_purple.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
