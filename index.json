@@ -939,6 +939,15 @@
       "preview": "previews/totem_kesie_blueberry.png"
     },
     {
+      "id": "totem_kesie_blueberrybutlighter",
+      "category": "totem",
+      "name": "Kesie BlueBerryButLighter",
+      "sha256": "772f928ee70e6365d807fbbd5bac3dc2a70224c04422acc6af525ae108599a7b",
+      "size": 1977,
+      "added": "2026-10-10",
+      "preview": "previews/totem_kesie_blueberrybutlighter.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
