@@ -876,6 +876,15 @@
       "preview": "previews/totem_clear_vision_grey.png"
     },
     {
+      "id": "totem_crey_private",
+      "category": "totem",
+      "name": "Crey private",
+      "sha256": "606d86cdd945dde8d42729d78ac59cd3eb49e96a122ce7593d106fdadaa1cb21",
+      "size": 2320,
+      "added": "2026-10-10",
+      "preview": "previews/totem_crey_private.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
