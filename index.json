@@ -669,6 +669,15 @@
       "preview": "previews/totem_kesu.png"
     },
     {
+      "id": "totem_lavander_by_upwqrd",
+      "category": "totem",
+      "name": "Lavander by Upwqrd",
+      "sha256": "3a6e4146321c92442de532d665b1a780f750199864d5969d18f3b060e136d3a2",
+      "size": 943,
+      "added": "2026-10-10",
+      "preview": "previews/totem_lavander_by_upwqrd.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
