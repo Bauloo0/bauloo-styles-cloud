@@ -633,6 +633,15 @@
       "preview": "previews/totem_vanilla_edit_16x.png"
     },
     {
+      "id": "totem_tostraight_streamer",
+      "category": "totem",
+      "name": "Tostraight Streamer",
+      "sha256": "be519abe0fab6b76f8e822599360af45c7c0e40294280b0c49395fba5ca468d3",
+      "size": 4404,
+      "added": "2026-10-10",
+      "preview": "previews/totem_tostraight_streamer.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
