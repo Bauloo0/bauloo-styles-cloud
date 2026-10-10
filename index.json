@@ -831,6 +831,15 @@
       "preview": "previews/totem_lennon_priv.png"
     },
     {
+      "id": "totem_purp_edit",
+      "category": "totem",
+      "name": "purp edit",
+      "sha256": "46859a20604c433e3a33cda4f48fc4df6d0857d1c3a022f1932d53792762b4f4",
+      "size": 1590,
+      "added": "2026-10-10",
+      "preview": "previews/totem_purp_edit.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
