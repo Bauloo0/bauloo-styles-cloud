@@ -606,6 +606,15 @@
       "preview": "previews/totem_aria_private.png"
     },
     {
+      "id": "totem_vaunta_mashup_ii",
+      "category": "totem",
+      "name": "Vaunta Mashup II",
+      "sha256": "ee34ee6348da2b6417fcfb21e0fb6f452c75dcb411e249a0f95ff05061e73162",
+      "size": 1237,
+      "added": "2026-10-10",
+      "preview": "previews/totem_vaunta_mashup_ii.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
