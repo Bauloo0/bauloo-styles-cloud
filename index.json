@@ -714,6 +714,15 @@
       "preview": "previews/totem_mashup.png"
     },
     {
+      "id": "totem_steams_yellow_edit",
+      "category": "totem",
+      "name": "Steams Yellow Edit",
+      "sha256": "e38fc14c0a7b8cdc652953779578b0c0d6843c480741028a8a4401b2ee55b433",
+      "size": 1452,
+      "added": "2026-10-10",
+      "preview": "previews/totem_steams_yellow_edit.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
