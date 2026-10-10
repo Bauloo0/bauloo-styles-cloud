@@ -930,6 +930,15 @@
       "preview": "previews/totem_hyp3r_v2_converted.png"
     },
     {
+      "id": "totem_kesie_blueberry",
+      "category": "totem",
+      "name": "Kesie BlueBerry",
+      "sha256": "832aca9151f8447cfe31b5c97a86b0cfa4933b26963f9ca89beb84495b28d756",
+      "size": 3716,
+      "added": "2026-10-10",
+      "preview": "previews/totem_kesie_blueberry.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
