@@ -588,6 +588,15 @@
       "preview": "previews/totem_kesu_default_mashup.png"
     },
     {
+      "id": "totem_kesu_main",
+      "category": "totem",
+      "name": "Kesu Main",
+      "sha256": "7382d7f5ed19355c199be87369553e9e53b6d522786c2ba6e27c41e8df22ae1f",
+      "size": 1502,
+      "added": "2026-10-10",
+      "preview": "previews/totem_kesu_main.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
