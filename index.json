@@ -714,6 +714,15 @@
       "preview": "previews/totem_white_totem.png"
     },
     {
+      "id": "totem_killa_s_lightmode",
+      "category": "totem",
+      "name": "Killa's lightmode",
+      "sha256": "5bb9309b5c860d5daf44e446a58ef6911ef1cd2e72a5c48783fd0f315065f77f",
+      "size": 22737,
+      "added": "2026-10-10",
+      "preview": "previews/totem_killa_s_lightmode.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
