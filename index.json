@@ -885,6 +885,15 @@
       "preview": "previews/totem_crey_private.png"
     },
     {
+      "id": "totem_digs_simple",
+      "category": "totem",
+      "name": "Digs Simple",
+      "sha256": "a40fb01c8ec9a55c85d55a1ebf2c5d86707a709a2c1e584e9c6caa1960d50bb7",
+      "size": 608,
+      "added": "2026-10-10",
+      "preview": "previews/totem_digs_simple.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
