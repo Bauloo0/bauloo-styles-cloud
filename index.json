@@ -687,6 +687,15 @@
       "preview": "previews/totem_testmaster11_red_edit.png"
     },
     {
+      "id": "totem_cupcakebox_priv",
+      "category": "totem",
+      "name": "cupcakebox priv",
+      "sha256": "03cf8508dd4d28fc229b6a7b02492c13058defb70667bc05398a41ac6a0b4493",
+      "size": 4238,
+      "added": "2026-10-10",
+      "preview": "previews/totem_cupcakebox_priv.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
