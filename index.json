@@ -678,6 +678,15 @@
       "preview": "previews/totem_testmaster11_green_edit.png"
     },
     {
+      "id": "totem_testmaster11_red_edit",
+      "category": "totem",
+      "name": "Testmaster11 Red Edit",
+      "sha256": "ad0c38276e9c0f5e737e5584e7b9823166059e6bec887810592f443290673444",
+      "size": 1580,
+      "added": "2026-10-10",
+      "preview": "previews/totem_testmaster11_red_edit.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
