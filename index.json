@@ -804,6 +804,15 @@
       "preview": "previews/totem_kesu.png"
     },
     {
+      "id": "totem_rikipink",
+      "category": "totem",
+      "name": "rikipink",
+      "sha256": "352a2435e6ac5882f697f7c2a2297e564405fbe7166bfe993f8949109eedb4f3",
+      "size": 1127,
+      "added": "2026-10-10",
+      "preview": "previews/totem_rikipink.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
