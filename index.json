@@ -579,6 +579,15 @@
       "preview": "previews/axe_lavendercat.png"
     },
     {
+      "id": "totem_auraexp_blu_pack",
+      "category": "totem",
+      "name": "Auraexp blu pack",
+      "sha256": "fa18a6acdeaf0e8808d22e1d669b0ea146e2213f2141a0d70c44f960c79d4048",
+      "size": 682,
+      "added": "2026-10-10",
+      "preview": "previews/totem_auraexp_blu_pack.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
