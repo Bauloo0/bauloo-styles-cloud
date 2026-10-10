@@ -768,6 +768,15 @@
       "preview": "previews/totem_monkahhremake.png"
     },
     {
+      "id": "totem_shadepack2",
+      "category": "totem",
+      "name": "shadepack2",
+      "sha256": "f7f0c236c7a8171e5e779b84862aa91984b1a5891200020c19af1feed3b76db2",
+      "size": 1628,
+      "added": "2026-10-10",
+      "preview": "previews/totem_shadepack2.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
