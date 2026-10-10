@@ -642,6 +642,15 @@
       "preview": "previews/totem_gold_outline.png"
     },
     {
+      "id": "totem_hyp3r_v2_converted",
+      "category": "totem",
+      "name": "Hyp3r V2 converted",
+      "sha256": "d00944fcf19b4f122e323d302201e4e811417ba31e14e72b344a376b68dcf4e6",
+      "size": 1060,
+      "added": "2026-10-10",
+      "preview": "previews/totem_hyp3r_v2_converted.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
