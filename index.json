@@ -696,6 +696,15 @@
       "preview": "previews/totem_cupcakebox_priv.png"
     },
     {
+      "id": "totem_galaxy",
+      "category": "totem",
+      "name": "galaxy",
+      "sha256": "12391ff744722b3d48e12897a94accc82fab1efb172976dd9e9cf377b6084281",
+      "size": 1666,
+      "added": "2026-10-10",
+      "preview": "previews/totem_galaxy.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
