@@ -723,6 +723,15 @@
       "preview": "previews/totem_steams_yellow_edit.png"
     },
     {
+      "id": "totem_banana_essentials",
+      "category": "totem",
+      "name": "Banana Essentials",
+      "sha256": "9b30d4c5e3be1b3170ac7d144bb082003dc828b9030b4eec33a8a8e72e87105b",
+      "size": 3956,
+      "added": "2026-10-10",
+      "preview": "previews/totem_banana_essentials.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
