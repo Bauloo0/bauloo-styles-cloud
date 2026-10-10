@@ -1,32 +1,6 @@
 {
-  "version": "1.5.0+mc26.1.2",
+  "version": "1.5.1+mc26.1.2",
   "url": "https://raw.githubusercontent.com/Bauloo0/bauloo-styles-cloud/main/release/mc/26.1.2/bauloo-styles.jar",
-  "sha256": "877d01bc49e77e7655ed31c82f96fe074737c7f33ae19d36b8d62f20e583fb00",
-  "size": 8632964,
-  "notes": [
-    [
-      "NEW",
-      "Sky styles work without Skyboxify"
-    ],
-    [
-      "NEW",
-      "Time slider in the Sky tab"
-    ],
-    [
-      "NEW",
-      "Cobweb outline and gap size"
-    ],
-    [
-      "NEW",
-      "Stone, Deepslate, Snow and Inventory styles"
-    ],
-    [
-      "NEW",
-      "Pick styles, then APPLY all at once"
-    ],
-    [
-      "NEW",
-      "Share presets with one-time keys"
-    ]
-  ]
+  "sha256": "90767037edffcaf367820787d80195c5bfdf7dca4002b5f8627a6d3bd2bf8cc6",
+  "size": 8640312
 }
