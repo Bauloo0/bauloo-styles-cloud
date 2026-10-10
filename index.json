@@ -813,6 +813,15 @@
       "preview": "previews/totem_rikipink.png"
     },
     {
+      "id": "totem_candycrystals_remasterd",
+      "category": "totem",
+      "name": "CandyCrystals Remasterd",
+      "sha256": "60f0c5cb2cc625ab665ef63811a0823730b38e91fefed57393b217bd045288b5",
+      "size": 1461,
+      "added": "2026-10-10",
+      "preview": "previews/totem_candycrystals_remasterd.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
