@@ -660,6 +660,15 @@
       "preview": "previews/totem_ice.png"
     },
     {
+      "id": "totem_kesu",
+      "category": "totem",
+      "name": "Kesu+",
+      "sha256": "7f41cf6f7bec9d028b269cccb9553082d86466b19732f7c2a72b75b68007989b",
+      "size": 891,
+      "added": "2026-10-10",
+      "preview": "previews/totem_kesu.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
