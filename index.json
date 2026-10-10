@@ -732,6 +732,15 @@
       "preview": "previews/totem_banana_essentials.png"
     },
     {
+      "id": "totem_gallerywalk",
+      "category": "totem",
+      "name": "GalleryWalk",
+      "sha256": "3789ac36dd068cde8cdea55d3018f696545417f9d5728e7fe9d59a351278af46",
+      "size": 2655,
+      "added": "2026-10-10",
+      "preview": "previews/totem_gallerywalk.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
