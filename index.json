@@ -750,6 +750,15 @@
       "preview": "previews/totem_lavander_by_upwqrd.png"
     },
     {
+      "id": "totem_purple_private_edit",
+      "category": "totem",
+      "name": "Purple Private Edit",
+      "sha256": "1b0101ae559e1c81851b86823e6fdedde61366308073d847be3df5a6493d602b",
+      "size": 1582,
+      "added": "2026-10-10",
+      "preview": "previews/totem_purple_private_edit.png"
+    },
+    {
       "id": "anchor_need_me",
       "category": "anchor",
       "name": "need me",
