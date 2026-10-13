@@ -21,6 +21,15 @@
       "preview": "previews/pearl_monkahhremake.png"
     },
     {
+      "id": "fire_kesie_block_overlay",
+      "category": "fire",
+      "name": "Kesie block overlay",
+      "sha256": "231d78868775175f5a79d6f406a10ee6c8b0e0ba229bc313220e76549d5e75ac",
+      "size": 5025,
+      "added": "2026-10-13",
+      "preview": "previews/fire_kesie_block_overlay.png"
+    },
+    {
       "id": "axe_blossom",
       "category": "axe",
       "name": "Blossom",
