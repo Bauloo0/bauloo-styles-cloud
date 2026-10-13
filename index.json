@@ -30,6 +30,15 @@
       "preview": "previews/fire_kesie_block_overlay.png"
     },
     {
+      "id": "fire_aria_private",
+      "category": "fire",
+      "name": "aria private",
+      "sha256": "cdd3e0bd554db23fa81387bf3dd8989dc244c97b988fcc72810bfc9b4620522f",
+      "size": 1761,
+      "added": "2026-10-13",
+      "preview": "previews/fire_aria_private.png"
+    },
+    {
       "id": "axe_blossom",
       "category": "axe",
       "name": "Blossom",
