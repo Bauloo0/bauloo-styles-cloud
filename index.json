@@ -48,6 +48,15 @@
       "preview": "previews/sky_blossom.png"
     },
     {
+      "id": "trident_orchard_x_syn_overlay",
+      "category": "trident",
+      "name": "orchard x syn overlay",
+      "sha256": "fd875cb33a5e4ed6d1403c396bd1bd79d2ae8469d0f54a50dc73cccbc83668a2",
+      "size": 1011,
+      "added": "2026-10-13",
+      "preview": "previews/trident_orchard_x_syn_overlay.png"
+    },
+    {
       "id": "axe_blossom",
       "category": "axe",
       "name": "Blossom",
