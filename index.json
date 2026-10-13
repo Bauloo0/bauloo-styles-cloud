@@ -12,6 +12,15 @@
       "preview": "previews/anchor_candycrystals_remasterd.png"
     },
     {
+      "id": "pearl_monkahhremake",
+      "category": "pearl",
+      "name": "monkahhremake",
+      "sha256": "85f3db485d8e6219946ec2bf139b8588b7502cf13495667688cebaf1d67fba42",
+      "size": 560,
+      "added": "2026-10-13",
+      "preview": "previews/pearl_monkahhremake.png"
+    },
+    {
       "id": "axe_blossom",
       "category": "axe",
       "name": "Blossom",
