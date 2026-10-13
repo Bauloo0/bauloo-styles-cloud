@@ -39,6 +39,15 @@
       "preview": "previews/fire_aria_private.png"
     },
     {
+      "id": "sky_blossom",
+      "category": "sky",
+      "name": "Blossom",
+      "sha256": "af735338f122fae07f0c68d048a39e3fe6e4f98098b384f5e9ca93f49bc6298a",
+      "size": 15500915,
+      "added": "2026-10-13",
+      "preview": "previews/sky_blossom.png"
+    },
+    {
       "id": "axe_blossom",
       "category": "axe",
       "name": "Blossom",
