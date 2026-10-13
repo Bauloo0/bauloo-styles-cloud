@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "anchor_candycrystals_remasterd",
+      "category": "anchor",
+      "name": "CandyCrystals Remasterd",
+      "sha256": "e4a47b2a327b3880b0af3d6b63a4312a1ee03a9b262aefd1843ebd7190471cbb",
+      "size": 27644,
+      "added": "2026-10-13",
+      "preview": "previews/anchor_candycrystals_remasterd.png"
+    },
+    {
       "id": "axe_blossom",
       "category": "axe",
       "name": "Blossom",
