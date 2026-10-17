@@ -3,6 +3,204 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "spear_bone",
+      "category": "spear",
+      "name": "Bone",
+      "sha256": "1b479b80704ebddf7241dd43c37367fa8a5500ccf892d41e02495abfa27930e6",
+      "size": 7475,
+      "added": "2026-10-17",
+      "preview": "previews/spear_bone.png"
+    },
+    {
+      "id": "spear_candy_cane",
+      "category": "spear",
+      "name": "Candy Cane",
+      "sha256": "dcca9153fd54f4e9cf4c60211304de066a9c6878d56f304e5d06c7ca6174fd52",
+      "size": 7760,
+      "added": "2026-10-17",
+      "preview": "previews/spear_candy_cane.png"
+    },
+    {
+      "id": "spear_crimson",
+      "category": "spear",
+      "name": "Crimson",
+      "sha256": "507879b6a26f3932921da918f4e2f7f006ef773fb638801ccf5ce90abb7ab6b9",
+      "size": 7333,
+      "added": "2026-10-17",
+      "preview": "previews/spear_crimson.png"
+    },
+    {
+      "id": "spear_electric",
+      "category": "spear",
+      "name": "Electric",
+      "sha256": "a70ceb7142c626d4b2d664503e6729b55e36a74ffd2670148aedf395456e734d",
+      "size": 21857,
+      "added": "2026-10-17",
+      "preview": "previews/spear_electric.png"
+    },
+    {
+      "id": "spear_ember",
+      "category": "spear",
+      "name": "Ember",
+      "sha256": "257f879a299d60357bec98a818cca7641844ce3fc01782e1e814d0d0ac277e5d",
+      "size": 18233,
+      "added": "2026-10-17",
+      "preview": "previews/spear_ember.png"
+    },
+    {
+      "id": "spear_emerald",
+      "category": "spear",
+      "name": "Emerald",
+      "sha256": "538708a77e9df7ddb2aeecaec9ae7b1846b8d25ef184a18425c53b1b0fcda590",
+      "size": 7694,
+      "added": "2026-10-17",
+      "preview": "previews/spear_emerald.png"
+    },
+    {
+      "id": "spear_frost",
+      "category": "spear",
+      "name": "Frost",
+      "sha256": "9d81a20b5040b03de2b1476234eb1ac5e073adf8c67d3255b2862a8b472a653d",
+      "size": 7837,
+      "added": "2026-10-17",
+      "preview": "previews/spear_frost.png"
+    },
+    {
+      "id": "spear_frostbite",
+      "category": "spear",
+      "name": "Frostbite",
+      "sha256": "0e521e4f489cd14aa696dfcd957ca41855a3c47a08387e6d41043c1249dff35c",
+      "size": 56351,
+      "added": "2026-10-17",
+      "preview": "previews/spear_frostbite.png"
+    },
+    {
+      "id": "spear_galaxy",
+      "category": "spear",
+      "name": "Galaxy",
+      "sha256": "facead7490927398195d74d5966486d94ab2d47e2b3ab15d6859182c932a9bbd",
+      "size": 43733,
+      "added": "2026-10-17",
+      "preview": "previews/spear_galaxy.png"
+    },
+    {
+      "id": "spear_haunted",
+      "category": "spear",
+      "name": "Haunted",
+      "sha256": "e0235d979d46a80dac2aba2f1ba2e1e32374021dcd877bc8fde38f58c553a531",
+      "size": 39794,
+      "added": "2026-10-17",
+      "preview": "previews/spear_haunted.png"
+    },
+    {
+      "id": "spear_heartbeat",
+      "category": "spear",
+      "name": "Heartbeat",
+      "sha256": "a0dcbbf4fc73c2117ec1064d95a335a2edc66a29afe1f581d728b26c340b2021",
+      "size": 71484,
+      "added": "2026-10-17",
+      "preview": "previews/spear_heartbeat.png"
+    },
+    {
+      "id": "spear_magma",
+      "category": "spear",
+      "name": "Magma",
+      "sha256": "f0cf0df5efd335575e49eb8deb39e67e3d4617205b262114f710880988719c14",
+      "size": 8032,
+      "added": "2026-10-17",
+      "preview": "previews/spear_magma.png"
+    },
+    {
+      "id": "spear_neon",
+      "category": "spear",
+      "name": "Neon",
+      "sha256": "84c8ae424fa90eadbf623fd7c64019c07009b2cc317aae77eae683414fe8d21e",
+      "size": 7451,
+      "added": "2026-10-17",
+      "preview": "previews/spear_neon.png"
+    },
+    {
+      "id": "spear_plasma",
+      "category": "spear",
+      "name": "Plasma",
+      "sha256": "92962d399be1fda45c7998d9cf455b5a2ed575bfb321f98efaf470744876ffba",
+      "size": 44559,
+      "added": "2026-10-17",
+      "preview": "previews/spear_plasma.png"
+    },
+    {
+      "id": "spear_pumpkin",
+      "category": "spear",
+      "name": "Pumpkin",
+      "sha256": "ce9f80eac9f8e3a93ec2511c270b0e4fb561162ae33bc52348839ce6b57973be",
+      "size": 16949,
+      "added": "2026-10-17",
+      "preview": "previews/spear_pumpkin.png"
+    },
+    {
+      "id": "spear_rainbow",
+      "category": "spear",
+      "name": "Rainbow",
+      "sha256": "b543669499b8a304076823db5961571779cd25492b4d33e6170e602f6a08a725",
+      "size": 63182,
+      "added": "2026-10-17",
+      "preview": "previews/spear_rainbow.png"
+    },
+    {
+      "id": "spear_royal_gold",
+      "category": "spear",
+      "name": "Royal Gold",
+      "sha256": "d9c07687b7c379a476ac2319301b581505ef59c93d072a8247cefd165a31236f",
+      "size": 7776,
+      "added": "2026-10-17",
+      "preview": "previews/spear_royal_gold.png"
+    },
+    {
+      "id": "spear_sakura",
+      "category": "spear",
+      "name": "Sakura",
+      "sha256": "3069c53326bb08ce21f56b6dbcdf3099c88df83608b74e1f7a435c3da1ab8c98",
+      "size": 7745,
+      "added": "2026-10-17",
+      "preview": "previews/spear_sakura.png"
+    },
+    {
+      "id": "spear_shadow_flame",
+      "category": "spear",
+      "name": "Shadow Flame",
+      "sha256": "93687c03cc9cbc594ed4586779fa6f91406b874d3b6f43d3b6b7cdef65ad6b21",
+      "size": 33777,
+      "added": "2026-10-17",
+      "preview": "previews/spear_shadow_flame.png"
+    },
+    {
+      "id": "spear_toxic",
+      "category": "spear",
+      "name": "Toxic",
+      "sha256": "aba99d85e3a3b2d9ad4247b44bd8633b7a33b68bfdec85a61174064e26db48aa",
+      "size": 34054,
+      "added": "2026-10-17",
+      "preview": "previews/spear_toxic.png"
+    },
+    {
+      "id": "spear_void_aura",
+      "category": "spear",
+      "name": "Void Aura",
+      "sha256": "3758ed4c6037716178f8f2060ea83d785f38fa236e3a7aa327c690295c99ba05",
+      "size": 52197,
+      "added": "2026-10-17",
+      "preview": "previews/spear_void_aura.png"
+    },
+    {
+      "id": "spear_void",
+      "category": "spear",
+      "name": "Void",
+      "sha256": "81ed6661d538f7538401155b95db723b0cc6b1a32e0afcf936119f004cca433a",
+      "size": 7327,
+      "added": "2026-10-17",
+      "preview": "previews/spear_void.png"
+    },
+    {
       "id": "anchor_candycrystals_remasterd",
       "category": "anchor",
       "name": "CandyCrystals Remasterd",
@@ -2163,204 +2361,6 @@
       "size": 8603651,
       "added": "2026-09-15",
       "preview": "previews/sky_red_synthwave.png"
-    },
-    {
-      "id": "spear_bone",
-      "category": "spear",
-      "name": "Bone",
-      "sha256": "1b479b80704ebddf7241dd43c37367fa8a5500ccf892d41e02495abfa27930e6",
-      "size": 7475,
-      "added": "2026-10-17",
-      "preview": "previews/spear_bone.png"
-    },
-    {
-      "id": "spear_candy_cane",
-      "category": "spear",
-      "name": "Candy Cane",
-      "sha256": "dcca9153fd54f4e9cf4c60211304de066a9c6878d56f304e5d06c7ca6174fd52",
-      "size": 7760,
-      "added": "2026-10-17",
-      "preview": "previews/spear_candy_cane.png"
-    },
-    {
-      "id": "spear_crimson",
-      "category": "spear",
-      "name": "Crimson",
-      "sha256": "507879b6a26f3932921da918f4e2f7f006ef773fb638801ccf5ce90abb7ab6b9",
-      "size": 7333,
-      "added": "2026-10-17",
-      "preview": "previews/spear_crimson.png"
-    },
-    {
-      "id": "spear_electric",
-      "category": "spear",
-      "name": "Electric",
-      "sha256": "a70ceb7142c626d4b2d664503e6729b55e36a74ffd2670148aedf395456e734d",
-      "size": 21857,
-      "added": "2026-10-17",
-      "preview": "previews/spear_electric.png"
-    },
-    {
-      "id": "spear_ember",
-      "category": "spear",
-      "name": "Ember",
-      "sha256": "257f879a299d60357bec98a818cca7641844ce3fc01782e1e814d0d0ac277e5d",
-      "size": 18233,
-      "added": "2026-10-17",
-      "preview": "previews/spear_ember.png"
-    },
-    {
-      "id": "spear_emerald",
-      "category": "spear",
-      "name": "Emerald",
-      "sha256": "538708a77e9df7ddb2aeecaec9ae7b1846b8d25ef184a18425c53b1b0fcda590",
-      "size": 7694,
-      "added": "2026-10-17",
-      "preview": "previews/spear_emerald.png"
-    },
-    {
-      "id": "spear_frost",
-      "category": "spear",
-      "name": "Frost",
-      "sha256": "9d81a20b5040b03de2b1476234eb1ac5e073adf8c67d3255b2862a8b472a653d",
-      "size": 7837,
-      "added": "2026-10-17",
-      "preview": "previews/spear_frost.png"
-    },
-    {
-      "id": "spear_frostbite",
-      "category": "spear",
-      "name": "Frostbite",
-      "sha256": "0e521e4f489cd14aa696dfcd957ca41855a3c47a08387e6d41043c1249dff35c",
-      "size": 56351,
-      "added": "2026-10-17",
-      "preview": "previews/spear_frostbite.png"
-    },
-    {
-      "id": "spear_galaxy",
-      "category": "spear",
-      "name": "Galaxy",
-      "sha256": "facead7490927398195d74d5966486d94ab2d47e2b3ab15d6859182c932a9bbd",
-      "size": 43733,
-      "added": "2026-10-17",
-      "preview": "previews/spear_galaxy.png"
-    },
-    {
-      "id": "spear_haunted",
-      "category": "spear",
-      "name": "Haunted",
-      "sha256": "e0235d979d46a80dac2aba2f1ba2e1e32374021dcd877bc8fde38f58c553a531",
-      "size": 39794,
-      "added": "2026-10-17",
-      "preview": "previews/spear_haunted.png"
-    },
-    {
-      "id": "spear_heartbeat",
-      "category": "spear",
-      "name": "Heartbeat",
-      "sha256": "a0dcbbf4fc73c2117ec1064d95a335a2edc66a29afe1f581d728b26c340b2021",
-      "size": 71484,
-      "added": "2026-10-17",
-      "preview": "previews/spear_heartbeat.png"
-    },
-    {
-      "id": "spear_magma",
-      "category": "spear",
-      "name": "Magma",
-      "sha256": "f0cf0df5efd335575e49eb8deb39e67e3d4617205b262114f710880988719c14",
-      "size": 8032,
-      "added": "2026-10-17",
-      "preview": "previews/spear_magma.png"
-    },
-    {
-      "id": "spear_neon",
-      "category": "spear",
-      "name": "Neon",
-      "sha256": "84c8ae424fa90eadbf623fd7c64019c07009b2cc317aae77eae683414fe8d21e",
-      "size": 7451,
-      "added": "2026-10-17",
-      "preview": "previews/spear_neon.png"
-    },
-    {
-      "id": "spear_plasma",
-      "category": "spear",
-      "name": "Plasma",
-      "sha256": "92962d399be1fda45c7998d9cf455b5a2ed575bfb321f98efaf470744876ffba",
-      "size": 44559,
-      "added": "2026-10-17",
-      "preview": "previews/spear_plasma.png"
-    },
-    {
-      "id": "spear_pumpkin",
-      "category": "spear",
-      "name": "Pumpkin",
-      "sha256": "ce9f80eac9f8e3a93ec2511c270b0e4fb561162ae33bc52348839ce6b57973be",
-      "size": 16949,
-      "added": "2026-10-17",
-      "preview": "previews/spear_pumpkin.png"
-    },
-    {
-      "id": "spear_rainbow",
-      "category": "spear",
-      "name": "Rainbow",
-      "sha256": "b543669499b8a304076823db5961571779cd25492b4d33e6170e602f6a08a725",
-      "size": 63182,
-      "added": "2026-10-17",
-      "preview": "previews/spear_rainbow.png"
-    },
-    {
-      "id": "spear_royal_gold",
-      "category": "spear",
-      "name": "Royal Gold",
-      "sha256": "d9c07687b7c379a476ac2319301b581505ef59c93d072a8247cefd165a31236f",
-      "size": 7776,
-      "added": "2026-10-17",
-      "preview": "previews/spear_royal_gold.png"
-    },
-    {
-      "id": "spear_sakura",
-      "category": "spear",
-      "name": "Sakura",
-      "sha256": "3069c53326bb08ce21f56b6dbcdf3099c88df83608b74e1f7a435c3da1ab8c98",
-      "size": 7745,
-      "added": "2026-10-17",
-      "preview": "previews/spear_sakura.png"
-    },
-    {
-      "id": "spear_shadow_flame",
-      "category": "spear",
-      "name": "Shadow Flame",
-      "sha256": "93687c03cc9cbc594ed4586779fa6f91406b874d3b6f43d3b6b7cdef65ad6b21",
-      "size": 33777,
-      "added": "2026-10-17",
-      "preview": "previews/spear_shadow_flame.png"
-    },
-    {
-      "id": "spear_toxic",
-      "category": "spear",
-      "name": "Toxic",
-      "sha256": "aba99d85e3a3b2d9ad4247b44bd8633b7a33b68bfdec85a61174064e26db48aa",
-      "size": 34054,
-      "added": "2026-10-17",
-      "preview": "previews/spear_toxic.png"
-    },
-    {
-      "id": "spear_void_aura",
-      "category": "spear",
-      "name": "Void Aura",
-      "sha256": "3758ed4c6037716178f8f2060ea83d785f38fa236e3a7aa327c690295c99ba05",
-      "size": 52197,
-      "added": "2026-10-17",
-      "preview": "previews/spear_void_aura.png"
-    },
-    {
-      "id": "spear_void",
-      "category": "spear",
-      "name": "Void",
-      "sha256": "81ed6661d538f7538401155b95db723b0cc6b1a32e0afcf936119f004cca433a",
-      "size": 7327,
-      "added": "2026-10-17",
-      "preview": "previews/spear_void.png"
     }
   ],
   "categories": [
