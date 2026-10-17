@@ -1,6 +1,28 @@
 {
-  "version": "1.5.2+mc26.1.1",
+  "version": "1.6.0+mc26.1.1",
   "url": "https://raw.githubusercontent.com/Bauloo0/bauloo-styles-cloud/main/release/mc/26.1.1/bauloo-styles.jar",
-  "sha256": "395f2fd1152d71ecabbd613d1ea68e8fe9eca407d1f094d1b55b347f5f3033e1",
-  "size": 8640283
+  "sha256": "177ad54b6940111db0b0b75de644e07d16db9aa99524cb5e9c711302b656cfc5",
+  "size": 10124311,
+  "notes": [
+    [
+      "NEW",
+      "Glass menu in 7 colours, Halloween included"
+    ],
+    [
+      "NEW",
+      "Extras as tiles, Neon Glow player outline"
+    ],
+    [
+      "FIX",
+      "Capes with Wavey Capes"
+    ],
+    [
+      "GONE",
+      "Auto updater - get new versions from the site"
+    ],
+    [
+      "GONE",
+      "Hit Color, Low Fire, Fog, Grey world"
+    ]
+  ]
 }
