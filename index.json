@@ -201,6 +201,222 @@
       "preview": "previews/spear_void.png"
     },
     {
+      "id": "newmace_bone",
+      "category": "newmace",
+      "name": "Bone",
+      "sha256": "db0db0ab0dba744549938cac6dfeec613f26d360774ec903daba641df097ba09",
+      "size": 1390,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_bone.png"
+    },
+    {
+      "id": "newmace_crimson",
+      "category": "newmace",
+      "name": "Crimson",
+      "sha256": "cbb82ac8efd0ab5b3c63a653876b803b5583c587682ddb367626b0b5b8e111a7",
+      "size": 1384,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_crimson.png"
+    },
+    {
+      "id": "newmace_electric",
+      "category": "newmace",
+      "name": "Electric",
+      "sha256": "fe3d1bd7f7399b423e7b2bb8d762d4359aca302b6534bc3b0e39eca720fa0232",
+      "size": 2416,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_electric.png"
+    },
+    {
+      "id": "newmace_ember",
+      "category": "newmace",
+      "name": "Ember",
+      "sha256": "11472f7351a34826d1f4e98f65f4020d672baa2c325679a89f1026d285466ed9",
+      "size": 2175,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_ember.png"
+    },
+    {
+      "id": "newmace_emerald",
+      "category": "newmace",
+      "name": "Emerald",
+      "sha256": "3aaa038ec114fccc9a8ddecc12234ca157d3668b9c866f6a43a2398a3614f33f",
+      "size": 1377,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_emerald.png"
+    },
+    {
+      "id": "newmace_frost",
+      "category": "newmace",
+      "name": "Frost",
+      "sha256": "0bd201392f0f191c8b667fde699e3ae66b25904bec4fdc99cef926770a11413c",
+      "size": 1377,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_frost.png"
+    },
+    {
+      "id": "newmace_galaxy",
+      "category": "newmace",
+      "name": "Galaxy",
+      "sha256": "ef8c319f2e496460731e231408a53c2a17bbb3e8cd7af321fd0c0179fb56eb2b",
+      "size": 3560,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_galaxy.png"
+    },
+    {
+      "id": "newmace_haunted",
+      "category": "newmace",
+      "name": "Haunted",
+      "sha256": "13255f1cfe598300c3a7d986a379b69a7c54ea7d8d0bcd9f3c130c339d083f67",
+      "size": 3621,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_haunted.png"
+    },
+    {
+      "id": "newmace_heartbeat",
+      "category": "newmace",
+      "name": "Heartbeat",
+      "sha256": "545f0e2efd6f2b692cf0d706f490efa2f584202c87d8cf1469a470776e61bdc9",
+      "size": 5077,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_heartbeat.png"
+    },
+    {
+      "id": "newmace_magma",
+      "category": "newmace",
+      "name": "Magma",
+      "sha256": "3406e1046b40ba5a8530de279c1f6b1afa45a9ab363d3957a8b063dc932f5294",
+      "size": 1405,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_magma.png"
+    },
+    {
+      "id": "newmace_neon",
+      "category": "newmace",
+      "name": "Neon",
+      "sha256": "fc38f952d7ae5d599b63f9ccbcefb9ef3f961faea74515fb4cd540a28b744d17",
+      "size": 1145,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_neon.png"
+    },
+    {
+      "id": "newmace_plasma",
+      "category": "newmace",
+      "name": "Plasma",
+      "sha256": "77ac0957ccff5edc90a42ffa9619471214afdc32da8c35078a38bd8402daeda3",
+      "size": 4582,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_plasma.png"
+    },
+    {
+      "id": "newmace_pumpkin",
+      "category": "newmace",
+      "name": "Pumpkin",
+      "sha256": "e71f9cc55482f3559c09a82d3e0f8d33bdd5a06f4f3e9d80e24ee7cd29762925",
+      "size": 2101,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_pumpkin.png"
+    },
+    {
+      "id": "newmace_rainbow",
+      "category": "newmace",
+      "name": "Rainbow",
+      "sha256": "6912ad2e91e5a77b259e8c20b22d54945b7a95eaeaefdce7ca0fed67c46edebc",
+      "size": 6168,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_rainbow.png"
+    },
+    {
+      "id": "newmace_royal_gold",
+      "category": "newmace",
+      "name": "Royal Gold",
+      "sha256": "102b6a4b58a2f0ed641045d90e86dbac0673c19e2825ad66cb4146d55650f4ce",
+      "size": 1389,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_royal_gold.png"
+    },
+    {
+      "id": "newmace_sakura",
+      "category": "newmace",
+      "name": "Sakura",
+      "sha256": "0be853ae973f7f42ade2edc6ea02acde891ff7cd2ce6ef1a3c8b18d7622774f4",
+      "size": 1370,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_sakura.png"
+    },
+    {
+      "id": "newmace_shadow_flame",
+      "category": "newmace",
+      "name": "Shadow Flame",
+      "sha256": "4842ecd92bd9c2a9fd5c7e2e6dcf9d82e05a2d3dbc983d5314d34a3609196778",
+      "size": 2961,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_shadow_flame.png"
+    },
+    {
+      "id": "newmace_toxic",
+      "category": "newmace",
+      "name": "Toxic",
+      "sha256": "3f4d96ab1574875b607dd30650a07371e15ebfc9ab77c451192974147e7e61b9",
+      "size": 3385,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_toxic.png"
+    },
+    {
+      "id": "newmace_void_aura",
+      "category": "newmace",
+      "name": "Void Aura",
+      "sha256": "a19ada1a7c436dd3d60bb581ee6a60b098b8aebe36db76c2141b9c00926c61be",
+      "size": 3478,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_void_aura.png"
+    },
+    {
+      "id": "newmace_void",
+      "category": "newmace",
+      "name": "Void",
+      "sha256": "6840be0251cd00fe03d3069c912792abeaf8dcc3e326e5a50330cd6848f15fd6",
+      "size": 1384,
+      "added": "2026-10-17",
+      "preview": "previews/newmace_void.png"
+    },
+    {
+      "id": "newshield_ember",
+      "category": "newshield",
+      "name": "Ember",
+      "sha256": "99f1275eddb0dea99822ca97b0cfd0e1dedc025043100cb3e9330f47c45ebce0",
+      "size": 10851,
+      "added": "2026-10-17",
+      "preview": "previews/newshield_ember.png"
+    },
+    {
+      "id": "newshield_heartbeat",
+      "category": "newshield",
+      "name": "Heartbeat",
+      "sha256": "9135439519656115466149bc9cb43c988f3636da52cb35ce2257ff0376cfa572",
+      "size": 12390,
+      "added": "2026-10-17",
+      "preview": "previews/newshield_heartbeat.png"
+    },
+    {
+      "id": "newshield_plasma",
+      "category": "newshield",
+      "name": "Plasma",
+      "sha256": "8f01feec12a45b5a7b76323322332e8f4cac3a16b5efc1850c20a294b5e912e6",
+      "size": 22750,
+      "added": "2026-10-17",
+      "preview": "previews/newshield_plasma.png"
+    },
+    {
+      "id": "newshield_pumpkin",
+      "category": "newshield",
+      "name": "Pumpkin",
+      "sha256": "584e01817f4be75fc5e141eaa65656e2ee402ae8778e72eade6276564c1d14b1",
+      "size": 8472,
+      "added": "2026-10-17",
+      "preview": "previews/newshield_pumpkin.png"
+    },
+    {
       "id": "anchor_candycrystals_remasterd",
       "category": "anchor",
       "name": "CandyCrystals Remasterd",
@@ -2477,6 +2693,54 @@
           0,
           1,
           1
+        ]
+      }
+    },
+    {
+      "id": "newmace",
+      "slot": 6,
+      "name": "Maces (new)",
+      "icon": "minecraft:mace",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/items?/(mace\\.png)$",
+          "to": "assets/minecraft/textures/item/$1"
+        }
+      ],
+      "detect": "items?/mace\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/item/mace.png"
+      }
+    },
+    {
+      "id": "newshield",
+      "slot": 7,
+      "name": "Shields (new)",
+      "icon": "minecraft:shield",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/entity/(shield_base(?:_nopattern)?\\.png)$",
+          "to": "assets/minecraft/textures/entity/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/entity/shield/([a-z0-9_]+\\.png)$",
+          "to": "assets/minecraft/textures/entity/shield/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/gui/sprites/container/slot/(shield\\.png)$",
+          "to": "assets/minecraft/textures/gui/sprites/container/slot/$1"
+        }
+      ],
+      "detect": "entity/shield_base_nopattern\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/entity/shield_base_nopattern.png",
+        "crop": [
+          0.015625,
+          0.015625,
+          0.1875,
+          0.34375
         ]
       }
     }
