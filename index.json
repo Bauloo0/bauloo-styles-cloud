@@ -381,42 +381,6 @@
       "preview": "previews/newmace_void.png"
     },
     {
-      "id": "newshield_ember",
-      "category": "newshield",
-      "name": "Ember",
-      "sha256": "fb61ac3b6597f46f05663b423b3d94c220f58a59d29f78fc076a728e3ac868a2",
-      "size": 3638,
-      "added": "2026-10-17",
-      "preview": "previews/newshield_ember.png"
-    },
-    {
-      "id": "newshield_heartbeat",
-      "category": "newshield",
-      "name": "Heartbeat",
-      "sha256": "0b9c4d84cefd62128cd529ed9c3cb38bcecbd366128e35097d01b97259cb9b75",
-      "size": 3262,
-      "added": "2026-10-17",
-      "preview": "previews/newshield_heartbeat.png"
-    },
-    {
-      "id": "newshield_plasma",
-      "category": "newshield",
-      "name": "Plasma",
-      "sha256": "a43221796350b4b50f0026c02a697fd02ec432320e5e9bf8e26858cd7c6500d9",
-      "size": 3849,
-      "added": "2026-10-17",
-      "preview": "previews/newshield_plasma.png"
-    },
-    {
-      "id": "newshield_pumpkin",
-      "category": "newshield",
-      "name": "Pumpkin",
-      "sha256": "a5ef44767578dfde0b2dae5e48584bfdfac47f0421271e4bbba49d21bcb31e05",
-      "size": 3878,
-      "added": "2026-10-17",
-      "preview": "previews/newshield_pumpkin.png"
-    },
-    {
       "id": "anchor_candycrystals_remasterd",
       "category": "anchor",
       "name": "CandyCrystals Remasterd",
@@ -2711,37 +2675,6 @@
       "preview": {
         "type": "item",
         "texture": "assets/minecraft/textures/item/mace.png"
-      }
-    },
-    {
-      "id": "newshield",
-      "slot": 7,
-      "name": "Shields (new)",
-      "icon": "minecraft:shield",
-      "files": [
-        {
-          "match": "^assets/minecraft/textures/entity/(shield_base(?:_nopattern)?\\.png)$",
-          "to": "assets/minecraft/textures/entity/$1"
-        },
-        {
-          "match": "^assets/minecraft/textures/entity/shield/([a-z0-9_]+\\.png)$",
-          "to": "assets/minecraft/textures/entity/shield/$1"
-        },
-        {
-          "match": "^assets/minecraft/textures/gui/sprites/container/slot/(shield\\.png)$",
-          "to": "assets/minecraft/textures/gui/sprites/container/slot/$1"
-        }
-      ],
-      "detect": "entity/shield_base_nopattern\\.png$",
-      "preview": {
-        "type": "item",
-        "texture": "assets/minecraft/textures/entity/shield_base_nopattern.png",
-        "crop": [
-          0.015625,
-          0.015625,
-          0.1875,
-          0.34375
-        ]
       }
     }
   ]
