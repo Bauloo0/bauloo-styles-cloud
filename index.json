@@ -204,7 +204,7 @@
       "id": "newmace_bone",
       "category": "newmace",
       "name": "Bone",
-      "sha256": "ff94cfac1a732da2900ccb74c77ee3125aad8ca377da9818bc51307425e2385d",
+      "sha256": "54fb28ad30e8d3840222c4a3f132fbfc97807c62c213a4217a1c847f162ee3c3",
       "size": 1390,
       "added": "2026-10-17",
       "preview": "previews/newmace_bone.png"
@@ -213,7 +213,7 @@
       "id": "newmace_crimson",
       "category": "newmace",
       "name": "Crimson",
-      "sha256": "f5a37f183e6bbd82ec61fdf5446d444e61532764c23c37ba78051d964658bf80",
+      "sha256": "8a5c78e4c8d057e661251c6a45a260d4d201518ac5b0e234c487ad9a289f0ad0",
       "size": 1384,
       "added": "2026-10-17",
       "preview": "previews/newmace_crimson.png"
@@ -222,7 +222,7 @@
       "id": "newmace_electric",
       "category": "newmace",
       "name": "Electric",
-      "sha256": "07cbb7b4398e18031417dec957489e7addc2623817f6bb33e286eabf7b8138aa",
+      "sha256": "08407c085d4c25ec7b886071fb06a807174869dfd76d8ba2e0fd2ce90d9492bb",
       "size": 2416,
       "added": "2026-10-17",
       "preview": "previews/newmace_electric.png"
@@ -231,7 +231,7 @@
       "id": "newmace_ember",
       "category": "newmace",
       "name": "Ember",
-      "sha256": "a3c864cdd38b613d03766a41c34b850a731f5ad1759abf8d96ef87ae097f07db",
+      "sha256": "29b4a14d06594c3451fcb47ebbb315b51b29174c356909b5ceafc37c12fe6c78",
       "size": 2175,
       "added": "2026-10-17",
       "preview": "previews/newmace_ember.png"
@@ -240,7 +240,7 @@
       "id": "newmace_emerald",
       "category": "newmace",
       "name": "Emerald",
-      "sha256": "b2bdac7699e967b96072571adafc1ea1df9c97e4e9dd8203eb5304e43573a6f9",
+      "sha256": "1a986c2537ea4d159dd56d6c6d1c421cc958ad186e1b8de45ab7df906d4bb58e",
       "size": 1377,
       "added": "2026-10-17",
       "preview": "previews/newmace_emerald.png"
@@ -249,7 +249,7 @@
       "id": "newmace_frost",
       "category": "newmace",
       "name": "Frost",
-      "sha256": "bcb8ed21c18f169b92217d5fc889cf9331d94fc39784e807fd88b6be6c7fe197",
+      "sha256": "e9b2337d84b8fdb11ae61bb9d07fe0c095f334a4d2487748ae4e3a40f946f83a",
       "size": 1377,
       "added": "2026-10-17",
       "preview": "previews/newmace_frost.png"
@@ -258,7 +258,7 @@
       "id": "newmace_galaxy",
       "category": "newmace",
       "name": "Galaxy",
-      "sha256": "81dd503cb9dd360c3e74e42a5d10dd258441242b7c78cb4c0121722625359444",
+      "sha256": "aa008ddfbd22689aa5cb40a2806366af658b764348ce49e8367a495a419d1ad9",
       "size": 3560,
       "added": "2026-10-17",
       "preview": "previews/newmace_galaxy.png"
@@ -267,7 +267,7 @@
       "id": "newmace_haunted",
       "category": "newmace",
       "name": "Haunted",
-      "sha256": "d243025f691af5d670cd8308c193c0d9cba1b57c7c217ea20cd79d7a30977049",
+      "sha256": "36438d7af4bca0d38979f7571dbfcc1776d354a453d11b5e9e34c0ded29ecc4e",
       "size": 3621,
       "added": "2026-10-17",
       "preview": "previews/newmace_haunted.png"
@@ -276,7 +276,7 @@
       "id": "newmace_heartbeat",
       "category": "newmace",
       "name": "Heartbeat",
-      "sha256": "d43eaed7bf6d0e4e73be10b5d49ada6519a2629e2ed0bf9634809be88c8e2064",
+      "sha256": "8656370579944ab5364284cb1b50b21e49c2a9565e36091e6f716f21f2e176cc",
       "size": 5077,
       "added": "2026-10-17",
       "preview": "previews/newmace_heartbeat.png"
@@ -285,7 +285,7 @@
       "id": "newmace_magma",
       "category": "newmace",
       "name": "Magma",
-      "sha256": "802c3d09aa04e5c73a1e480890dcfc8d442e89272854a2c942ad1387b6d7601a",
+      "sha256": "61f9acfbd096627018ebdf509bc8b210f85fce8fc8333a15686b8bcaa07830d0",
       "size": 1405,
       "added": "2026-10-17",
       "preview": "previews/newmace_magma.png"
@@ -294,7 +294,7 @@
       "id": "newmace_neon",
       "category": "newmace",
       "name": "Neon",
-      "sha256": "298093f8aa4d3496d29fd29e6f76afb8bf134e0c46660cd82a1552dbacec9e9a",
+      "sha256": "7e07a582a9fcbba0e97cb68ffee293db28004d1d6fe3a226e7641e0b1bdbc1c9",
       "size": 1145,
       "added": "2026-10-17",
       "preview": "previews/newmace_neon.png"
@@ -303,7 +303,7 @@
       "id": "newmace_plasma",
       "category": "newmace",
       "name": "Plasma",
-      "sha256": "8d56a834628eb762c95382086a0ffdbdac6ce47e0895ad8d86508d836a09d171",
+      "sha256": "26177856e2de931c0911fff09287bfc199c9b2048fb28ea469693ee5caffe9ac",
       "size": 4582,
       "added": "2026-10-17",
       "preview": "previews/newmace_plasma.png"
@@ -312,7 +312,7 @@
       "id": "newmace_pumpkin",
       "category": "newmace",
       "name": "Pumpkin",
-      "sha256": "2f430ff2a893f4b9b4fa6d807d3a8a5c60f64235a058578f01c31acb24e16247",
+      "sha256": "e777e9d00d174740c1bbb29bc2890aea43e92bec50403d10a89cf833374e9e35",
       "size": 2101,
       "added": "2026-10-17",
       "preview": "previews/newmace_pumpkin.png"
@@ -321,7 +321,7 @@
       "id": "newmace_rainbow",
       "category": "newmace",
       "name": "Rainbow",
-      "sha256": "7a38f6bd0f9d66108c657c8706ffabe5678f98cff20e7fe9d3198a7ff577cee3",
+      "sha256": "d808f0901cf8b775b4583e1a6437eb6b83a852025fad773e457d9c31bcf6e0b4",
       "size": 6168,
       "added": "2026-10-17",
       "preview": "previews/newmace_rainbow.png"
@@ -330,7 +330,7 @@
       "id": "newmace_royal_gold",
       "category": "newmace",
       "name": "Royal Gold",
-      "sha256": "34938f6016d0394c11b6fda00fad3132b8150f1df36f4d0a85f2b206c4a28080",
+      "sha256": "a50c1aad3bf059e29165bd29865984058e4cc051f0896d9ae55495a94cf8da07",
       "size": 1389,
       "added": "2026-10-17",
       "preview": "previews/newmace_royal_gold.png"
@@ -339,7 +339,7 @@
       "id": "newmace_sakura",
       "category": "newmace",
       "name": "Sakura",
-      "sha256": "a3d4c0bb25db52671fa0cfd48652003afef58a6a86a7ba439c914abdd7ba2bc9",
+      "sha256": "2d24a3641b1fd044da7bb164c1af90cc30e286ab3b78a43290f36fa7415637aa",
       "size": 1370,
       "added": "2026-10-17",
       "preview": "previews/newmace_sakura.png"
@@ -348,7 +348,7 @@
       "id": "newmace_shadow_flame",
       "category": "newmace",
       "name": "Shadow Flame",
-      "sha256": "3a0e53de0cd4720e7db1ee6a8cbb8483f7fc8e1aee2813ed893a0e8659af8ef0",
+      "sha256": "30fe1d4467be824a5e386c65a603d4f54d517c9b7fac3d4c525b236b428310d7",
       "size": 2961,
       "added": "2026-10-17",
       "preview": "previews/newmace_shadow_flame.png"
@@ -357,7 +357,7 @@
       "id": "newmace_toxic",
       "category": "newmace",
       "name": "Toxic",
-      "sha256": "ffc6f10d6c83b77e121fd4a0519df2f48dd28c0bf57c1584f8ffae443b25b969",
+      "sha256": "992c726d252a195edae5e52fd73569b5bdb4ce9b71df286749cc30eab85b3437",
       "size": 3385,
       "added": "2026-10-17",
       "preview": "previews/newmace_toxic.png"
@@ -366,7 +366,7 @@
       "id": "newmace_void_aura",
       "category": "newmace",
       "name": "Void Aura",
-      "sha256": "2f717a649190e3a752c91f0e68ee453c7f1fb1822c2179e38c660fe622b7c73d",
+      "sha256": "2f92a93821f621525504ba5a491a11ebc9d84314c6ca904ff80a6c4c681cd0e5",
       "size": 3478,
       "added": "2026-10-17",
       "preview": "previews/newmace_void_aura.png"
@@ -375,10 +375,172 @@
       "id": "newmace_void",
       "category": "newmace",
       "name": "Void",
-      "sha256": "2c42121f8e64d389e1d1d2d45936fea617c7edba831631ec7a9c2db692a752bf",
+      "sha256": "85ab8673de0940322d77d51ca41edb1cef0b18b4461213d99d4c279cfe15f8c3",
       "size": 1384,
       "added": "2026-10-17",
       "preview": "previews/newmace_void.png"
+    },
+    {
+      "id": "newtrident_bone",
+      "category": "newtrident",
+      "name": "Bone",
+      "sha256": "432d9ab09c2cf038b7744899c0b24548fe7c55943be31898917d7a9e60e609af",
+      "size": 1728,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_bone.png"
+    },
+    {
+      "id": "newtrident_crimson",
+      "category": "newtrident",
+      "name": "Crimson",
+      "sha256": "f47e42b97f957bd0b1ae09eba632bc475fc99bb3a95dd568b16e6226f9f9c7a7",
+      "size": 1749,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_crimson.png"
+    },
+    {
+      "id": "newtrident_ember",
+      "category": "newtrident",
+      "name": "Ember",
+      "sha256": "5dd09dbfda53b417c09ade2fadca5576dc5795b3a89422f56cc8f43224090f5d",
+      "size": 1800,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_ember.png"
+    },
+    {
+      "id": "newtrident_emerald",
+      "category": "newtrident",
+      "name": "Emerald",
+      "sha256": "9df6d6ea3572d379b542b50d55bfd9badbac54dd57a5b29668815f920bc68a21",
+      "size": 1783,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_emerald.png"
+    },
+    {
+      "id": "newtrident_frost",
+      "category": "newtrident",
+      "name": "Frost",
+      "sha256": "3ec3a42e64a6b34b72a91e47ee046c660128ab0184019d3cf265dedfe8945cef",
+      "size": 1763,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_frost.png"
+    },
+    {
+      "id": "newtrident_galaxy",
+      "category": "newtrident",
+      "name": "Galaxy",
+      "sha256": "bcc519e824e90d196ecccea9e08712f62c88ca65485f2bb27864e925fd18fae1",
+      "size": 1898,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_galaxy.png"
+    },
+    {
+      "id": "newtrident_haunted",
+      "category": "newtrident",
+      "name": "Haunted",
+      "sha256": "f308595a233adb275ea29a6fed6b463827b73a6e09d1ce1ddad58357528ae51c",
+      "size": 1756,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_haunted.png"
+    },
+    {
+      "id": "newtrident_heartbeat",
+      "category": "newtrident",
+      "name": "Heartbeat",
+      "sha256": "bb3f3897245e93f496e843c9a604fb7bcf9af152c3fa5e5dfd0f9efb46ad0bb2",
+      "size": 1762,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_heartbeat.png"
+    },
+    {
+      "id": "newtrident_magma",
+      "category": "newtrident",
+      "name": "Magma",
+      "sha256": "07db8c9067ad5946087ea4eed6e9d0dc1c9ec352552525c53b1e1874e088e35b",
+      "size": 1823,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_magma.png"
+    },
+    {
+      "id": "newtrident_neon",
+      "category": "newtrident",
+      "name": "Neon",
+      "sha256": "1710a1db08ac05a4dcc780fd626703294764248d7e49a4afa27c55c7b54d4e62",
+      "size": 1622,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_neon.png"
+    },
+    {
+      "id": "newtrident_plasma",
+      "category": "newtrident",
+      "name": "Plasma",
+      "sha256": "c530268f0da43512c5abd8de331275308f495c0d6c6c1ac2e4baf7a7d821c2f3",
+      "size": 1873,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_plasma.png"
+    },
+    {
+      "id": "newtrident_pumpkin",
+      "category": "newtrident",
+      "name": "Pumpkin",
+      "sha256": "65f9788bcda2cefd3ca0b67c13f74c00bcedc62d41258e34c34b373a2a84bee4",
+      "size": 1904,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_pumpkin.png"
+    },
+    {
+      "id": "newtrident_rainbow",
+      "category": "newtrident",
+      "name": "Rainbow",
+      "sha256": "9e7c0800ca663837b56665c37445abcd990a885441b013210de620a4618f05e0",
+      "size": 1890,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_rainbow.png"
+    },
+    {
+      "id": "newtrident_royal_gold",
+      "category": "newtrident",
+      "name": "Royal Gold",
+      "sha256": "6d67db938e6072d772257ca1db31b7ad6b34d8b1ac7b72d626e96d61680bdcd1",
+      "size": 1804,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_royal_gold.png"
+    },
+    {
+      "id": "newtrident_sakura",
+      "category": "newtrident",
+      "name": "Sakura",
+      "sha256": "a768b073cad57bb24258a397539ce3462afd02b064e0919e89ef4934c12d8cda",
+      "size": 1765,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_sakura.png"
+    },
+    {
+      "id": "newtrident_shadow_flame",
+      "category": "newtrident",
+      "name": "Shadow Flame",
+      "sha256": "ce5d7b6acddbff76f34ff6f802ba9179020b15905327ad0a332ab1474e9c74c6",
+      "size": 1836,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_shadow_flame.png"
+    },
+    {
+      "id": "newtrident_toxic",
+      "category": "newtrident",
+      "name": "Toxic",
+      "sha256": "d9f282d46da25ef5d925632003932eec1ac6e62bea466973fe79806ebe9cb18b",
+      "size": 1724,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_toxic.png"
+    },
+    {
+      "id": "newtrident_void",
+      "category": "newtrident",
+      "name": "Void",
+      "sha256": "b7146b67ee196880816dad420d21110dd20f3497ac6c891b5bf9a0854e2f14f2",
+      "size": 1742,
+      "added": "2026-10-17",
+      "preview": "previews/newtrident_void.png"
     },
     {
       "id": "anchor_candycrystals_remasterd",
@@ -2675,6 +2837,27 @@
       "preview": {
         "type": "item",
         "texture": "assets/minecraft/textures/item/mace.png"
+      }
+    },
+    {
+      "id": "newtrident",
+      "slot": 7,
+      "name": "Tridents (new)",
+      "icon": "minecraft:trident",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/items?/(trident\\.png)$",
+          "to": "assets/minecraft/textures/item/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/entity/(trident\\.png)$",
+          "to": "assets/minecraft/textures/entity/$1"
+        }
+      ],
+      "detect": "(items?|entity)/trident\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/item/trident.png"
       }
     }
   ]
