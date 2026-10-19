@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "anchor_grey_remade_by_swetsy",
+      "category": "anchor",
+      "name": "Grey Remade by Swetsy",
+      "sha256": "3b4ebb530af61d8baa854d6958c732424590316d283721bba3f407c7b6049ed9",
+      "size": 20034,
+      "added": "2026-10-19",
+      "preview": "previews/anchor_grey_remade_by_swetsy.png"
+    },
+    {
       "id": "spear_bone",
       "category": "spear",
       "name": "Bone",
