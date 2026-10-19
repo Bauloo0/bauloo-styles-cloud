@@ -12,6 +12,15 @@
       "preview": "previews/anchor_grey_remade_by_swetsy.png"
     },
     {
+      "id": "anchor_o6o_isrxpxnts_private_v2",
+      "category": "anchor",
+      "name": "o6o ISrxpxnts Private v2",
+      "sha256": "0b49010c6d3807b4f3c599ca0827603c8d5841f46ccb8a64349d81a4d9a876d3",
+      "size": 20963,
+      "added": "2026-10-19",
+      "preview": "previews/anchor_o6o_isrxpxnts_private_v2.png"
+    },
+    {
       "id": "spear_bone",
       "category": "spear",
       "name": "Bone",
