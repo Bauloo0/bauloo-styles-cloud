@@ -142,6 +142,16 @@
       "preview": "previews/anchor_swetsys_blue_mashup.png"
     },
     {
+      "id": "anchor_souls_private",
+      "category": "anchor",
+      "name": "Souls Private",
+      "sha256": "a1be5c425b6351633e3d11de6c4afe173ec6e3413b29cdbb1cb1684b2047c9cc",
+      "size": 75573,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/anchor_souls_private.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
