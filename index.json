@@ -52,6 +52,16 @@
       "preview": "previews/crystal_aiimgod_purple_new.png"
     },
     {
+      "id": "crystal_2crick_private",
+      "category": "crystal",
+      "name": "2Crick Private",
+      "sha256": "2af9259406e47a11af2a9f828c1cf8592e80c8d912eb128fc5955720e2450306",
+      "size": 13299,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/crystal_2crick_private.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
