@@ -362,6 +362,16 @@
       "preview": "previews/armor_advan_private.png"
     },
     {
+      "id": "armor_d_l_a_c_e",
+      "category": "armor",
+      "name": "⌡d L a c e",
+      "sha256": "558cb7a3099bb9aa3735542c8aeaa7a6ee6c66b30ad2af7c5d08be2394e52d70",
+      "size": 29690,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/armor_d_l_a_c_e.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
