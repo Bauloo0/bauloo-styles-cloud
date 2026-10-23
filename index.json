@@ -692,6 +692,16 @@
       "preview": "previews/gap_aiimgod_pwivate.png"
     },
     {
+      "id": "gap_909_purple",
+      "category": "gap",
+      "name": "909 Purple",
+      "sha256": "5593856480c6a6751e19d72886cc55fa65cd6ecaa2ba3c0aca7be19594df9821",
+      "size": 738,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/gap_909_purple.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
