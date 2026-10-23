@@ -1112,6 +1112,16 @@
       "preview": "previews/mace_kesie_optimal.png"
     },
     {
+      "id": "cobweb_x32bluewar",
+      "category": "cobweb",
+      "name": "x32bluewar",
+      "sha256": "33d849ce577731430071e4698006249946a6dd1a8c09a4248da5daa008c71c6e",
+      "size": 825,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/cobweb_x32bluewar.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
