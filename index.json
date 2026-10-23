@@ -1092,6 +1092,16 @@
       "preview": "previews/shield_b_ipasha_e_lpack.png"
     },
     {
+      "id": "shield_sigma",
+      "category": "shield",
+      "name": "sigma",
+      "sha256": "0b053a23a6f0b7508bf5f1237675af2543b33165efb22f69e01e7fbdcb8421d7",
+      "size": 4205,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/shield_sigma.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
