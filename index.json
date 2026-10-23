@@ -382,6 +382,16 @@
       "preview": "previews/armor_souls_private.png"
     },
     {
+      "id": "armor_6_xicz_mashup",
+      "category": "armor",
+      "name": "⌡6⌡ xicz mashup",
+      "sha256": "8cf3cac75937531ea8d6ccc5bca8087fe1d1d5891d54e4e56835a63a938e8551",
+      "size": 18276,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/armor_6_xicz_mashup.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
