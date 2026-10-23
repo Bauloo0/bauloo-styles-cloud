@@ -932,6 +932,16 @@
       "preview": "previews/fire_5_mlavendervamp.png"
     },
     {
+      "id": "fire_verox",
+      "category": "fire",
+      "name": "VEROX",
+      "sha256": "1633e477645573dd5e940f20a2cf5a91d17a50d0f2ef48beca9ec4e3ed1b830c",
+      "size": 9671,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/fire_verox.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
