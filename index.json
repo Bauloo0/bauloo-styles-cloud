@@ -1012,6 +1012,16 @@
       "preview": "previews/stone_veroxsibbi.png"
     },
     {
+      "id": "deepslate_dragneel",
+      "category": "deepslate",
+      "name": "Dragneel",
+      "sha256": "4a86228deb90ff1c36cc68fd88927adb0bd2ca3904ee1efb824d9d6ffbd5d695",
+      "size": 35673,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/deepslate_dragneel.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
