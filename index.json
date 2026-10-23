@@ -452,6 +452,16 @@
       "preview": "previews/sword_aiimgod_pro.png"
     },
     {
+      "id": "sword_dragneel",
+      "category": "sword",
+      "name": "Dragneel",
+      "sha256": "132421b8b99d0b340a54ca0fac45014d0807ebcd9e3d14410b01bab0cde53a78",
+      "size": 14017,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/sword_dragneel.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
