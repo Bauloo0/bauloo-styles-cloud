@@ -322,6 +322,16 @@
       "preview": "previews/glowstone_opa_wewox_pwivate.png"
     },
     {
+      "id": "glowstone_default_hd_128x_demo_1_8_2_1",
+      "category": "glowstone",
+      "name": "Default HD 128x Demo 1.8.2.1",
+      "sha256": "e470acc379cf7f8718b8526d6c1658eb0e19dcfdfeebbe51794267bf32ba05bf",
+      "size": 6469,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/glowstone_default_hd_128x_demo_1_8_2_1.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
