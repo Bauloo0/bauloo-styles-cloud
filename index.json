@@ -782,6 +782,16 @@
       "preview": "previews/pearl_black_white_new.png"
     },
     {
+      "id": "pearl_pepe",
+      "category": "pearl",
+      "name": "PEPE",
+      "sha256": "431df4c1a61e52d312125732f582d4738a9b7a47260ddec481ee6447f32dddf6",
+      "size": 826,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_pepe.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
