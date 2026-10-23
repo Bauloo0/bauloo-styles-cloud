@@ -342,6 +342,16 @@
       "preview": "previews/armor_7_lxpz_f_lwhite.png"
     },
     {
+      "id": "armor_doge_private_v2_remade",
+      "category": "armor",
+      "name": "Doge Private V2 REMADE",
+      "sha256": "2855bf72ef5af2514eb303a6c510b876e10b5ad6018207cdc873194f4ea45bef",
+      "size": 53865,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/armor_doge_private_v2_remade.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
