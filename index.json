@@ -252,6 +252,16 @@
       "preview": "previews/obsidian_pepe.png"
     },
     {
+      "id": "obsidian_aiimgod_bauloo_s_x",
+      "category": "obsidian",
+      "name": "AiimGod Bauloo S*x",
+      "sha256": "b2f16c0622cef425319785fa0ddc0769496f2c833e0bd46148e350dc5c8d3cf3",
+      "size": 1131,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/obsidian_aiimgod_bauloo_s_x.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
