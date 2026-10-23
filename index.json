@@ -352,6 +352,16 @@
       "preview": "previews/armor_doge_private_v2_remade.png"
     },
     {
+      "id": "armor_advan_private",
+      "category": "armor",
+      "name": "Advan Private",
+      "sha256": "18da7e72020d8cb72414ac2420eb02b41284023f9526bf2a0a1aa1750b500517",
+      "size": 13614,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/armor_advan_private.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
