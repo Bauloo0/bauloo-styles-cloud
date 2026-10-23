@@ -272,6 +272,16 @@
       "preview": "previews/obsidian_x32bluewar.png"
     },
     {
+      "id": "obsidian_evantii2",
+      "category": "obsidian",
+      "name": "Evantii2",
+      "sha256": "c2843ce791438b4852e465a0eee10a5d088a5f2574f6370899316a43d405bff1",
+      "size": 769,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/obsidian_evantii2.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
