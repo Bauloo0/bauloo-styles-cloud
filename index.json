@@ -962,6 +962,16 @@
       "preview": "previews/fire_verogs_marloww_totem_blue.png"
     },
     {
+      "id": "fire_bauloo_privat",
+      "category": "fire",
+      "name": "bauloo privat",
+      "sha256": "0c1460f21ee5854c2b31f9a582e4f24593151ca5a080df67100aed1c40e14258",
+      "size": 5427,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/fire_bauloo_privat.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
