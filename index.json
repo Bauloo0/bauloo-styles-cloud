@@ -822,6 +822,16 @@
       "preview": "previews/pearl_veroxsibbi.png"
     },
     {
+      "id": "pearl_zurial0g",
+      "category": "pearl",
+      "name": "Zurial0G",
+      "sha256": "46ffa9143b26e5ce7bd58d3d8188ce2affadcb6249b4d4b9587083ef1e77bd9b",
+      "size": 754,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_zurial0g.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
