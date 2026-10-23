@@ -542,6 +542,16 @@
       "preview": "previews/axe_f_lsakura_tweaks.png"
     },
     {
+      "id": "totem_2crick_private",
+      "category": "totem",
+      "name": "2Crick Private",
+      "sha256": "dfb682ea8ddd23961a915f384d18f6e77837096a741fb2928a5a856077b9779a",
+      "size": 3634,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/totem_2crick_private.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
