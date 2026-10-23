@@ -892,6 +892,16 @@
       "preview": "previews/pearl_napicc_pack.png"
     },
     {
+      "id": "pearl_dpastelic_v3_7",
+      "category": "pearl",
+      "name": "⌡dPastelic v3 ⌡7",
+      "sha256": "6e3a993eeb407a72e91839992e4d7a8799598cc14f8784e8b5d708a09f417b66",
+      "size": 3241,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_dpastelic_v3_7.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
