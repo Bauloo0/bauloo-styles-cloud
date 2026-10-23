@@ -462,6 +462,16 @@
       "preview": "previews/sword_dragneel.png"
     },
     {
+      "id": "pickaxe_dpastelic_v3_7",
+      "category": "pickaxe",
+      "name": "⌡dPastelic v3 ⌡7",
+      "sha256": "13c09bbe2b5a741aaa1f12eff977ad36989b66f3bed86b04422da0112b6c9d80",
+      "size": 16190,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pickaxe_dpastelic_v3_7.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
