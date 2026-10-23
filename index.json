@@ -902,6 +902,16 @@
       "preview": "previews/pearl_dpastelic_v3_7.png"
     },
     {
+      "id": "pearl_souls_private",
+      "category": "pearl",
+      "name": "Souls Private",
+      "sha256": "e7ee2731064d72b343a405ce05341383417fde39f718b3129ef145eb392293d5",
+      "size": 3538,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_souls_private.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
