@@ -602,6 +602,16 @@
       "preview": "previews/totem_luan_is_a_random.png"
     },
     {
+      "id": "totem_ver0xgs",
+      "category": "totem",
+      "name": "ver0xgs",
+      "sha256": "85ded6e347dcc6935963d7fd442f26a0cdb57ad555ebc0463f229557d8da276b",
+      "size": 1027,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/totem_ver0xgs.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
