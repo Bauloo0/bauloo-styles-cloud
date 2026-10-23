@@ -712,6 +712,16 @@
       "preview": "previews/gap_flipercarr.png"
     },
     {
+      "id": "gap_pepe",
+      "category": "gap",
+      "name": "PEPE",
+      "sha256": "11d8e81f63512faca75f7af5b4f6f7570b14086561ef3a7625ef963961763b3e",
+      "size": 799,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/gap_pepe.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
