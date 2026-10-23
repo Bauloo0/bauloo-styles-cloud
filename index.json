@@ -392,6 +392,16 @@
       "preview": "previews/armor_6_xicz_mashup.png"
     },
     {
+      "id": "sword_fruit_pack_kopie",
+      "category": "sword",
+      "name": "Fruit Pack - Kopie",
+      "sha256": "c3c4c10a282388afaec4974c2b9ec6f2b5bc8a89060e5ad93a51b9e18c031db8",
+      "size": 434791,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/sword_fruit_pack_kopie.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
