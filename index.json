@@ -642,6 +642,16 @@
       "preview": "previews/totem_luan1sacirinn.png"
     },
     {
+      "id": "totem_aiimgod_purple_new",
+      "category": "totem",
+      "name": "AiimGod Purple New",
+      "sha256": "efcacf66b0f06b0e235ebb89de9ddd46df731a977af8d4abb4c51acb7aef1aab",
+      "size": 1007,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/totem_aiimgod_purple_new.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
