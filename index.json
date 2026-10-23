@@ -242,6 +242,16 @@
       "preview": "previews/obsidian_ituspremade.png"
     },
     {
+      "id": "obsidian_pepe",
+      "category": "obsidian",
+      "name": "PEPE",
+      "sha256": "74c26664fdb8590805e8a9c96044aaaf6fe4a6e0241f65c367b08d93dda3ba1c",
+      "size": 613,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/obsidian_pepe.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
