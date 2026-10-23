@@ -472,6 +472,16 @@
       "preview": "previews/pickaxe_dpastelic_v3_7.png"
     },
     {
+      "id": "pickaxe_alpha_16x",
+      "category": "pickaxe",
+      "name": "alpha 16x",
+      "sha256": "207cd5320cab9d0d0d3710e48be994a8b5fffe1004d7452072381116225e3f0f",
+      "size": 2432,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pickaxe_alpha_16x.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
