@@ -652,6 +652,16 @@
       "preview": "previews/totem_aiimgod_purple_new.png"
     },
     {
+      "id": "totem_napicc_pack",
+      "category": "totem",
+      "name": "Napicc Pack",
+      "sha256": "96ac2fb34123462ab7a59940cc9c57ceac1980f6f42a3413cd460264d1b29780",
+      "size": 1599,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/totem_napicc_pack.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
