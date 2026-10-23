@@ -982,6 +982,16 @@
       "preview": "previews/hotbar_pnk_remake_aiimgod.png"
     },
     {
+      "id": "sky_2crick_private",
+      "category": "sky",
+      "name": "2Crick Private",
+      "sha256": "ec98584ae122bf78b5261780d341c928ad383ad1c12b1d9fb7157f01750b0c6c",
+      "size": 7956136,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/sky_2crick_private.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
