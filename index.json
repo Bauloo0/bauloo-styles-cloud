@@ -152,6 +152,16 @@
       "preview": "previews/anchor_souls_private.png"
     },
     {
+      "id": "anchor_rizzler_classic",
+      "category": "anchor",
+      "name": "Rizzler Classic",
+      "sha256": "ccde0ec04b61b5a49201873020c68870f3d572591458afb5f088d3cd0b9be087",
+      "size": 22770,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/anchor_rizzler_classic.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
