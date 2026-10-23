@@ -122,6 +122,16 @@
       "preview": "previews/crystal_tedde_remade.png"
     },
     {
+      "id": "crystal_usecws_clean_overlay",
+      "category": "crystal",
+      "name": "UseCws Clean Overlay",
+      "sha256": "141f46b0f1cfab4516fffc4a22e3f59b04fbe82b755f32456ccde3801918d446",
+      "size": 2449,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/crystal_usecws_clean_overlay.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
