@@ -202,6 +202,16 @@
       "preview": "previews/obsidian_veroxsibbi.png"
     },
     {
+      "id": "obsidian_bauloo_primed_up",
+      "category": "obsidian",
+      "name": "Bauloo Primed Up",
+      "sha256": "fb1ea3cabaa7c1ae6161002498828b2aa3a23f2b3e557bb72f24bde8f2059e09",
+      "size": 1030,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/obsidian_bauloo_primed_up.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
