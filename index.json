@@ -162,6 +162,16 @@
       "preview": "previews/anchor_rizzler_classic.png"
     },
     {
+      "id": "anchor_blue_ayri",
+      "category": "anchor",
+      "name": "Blue Ayri",
+      "sha256": "5c26f760dca6f4766b7aba996b18a8cf26977fcc19201eeddceb22e73b44afe7",
+      "size": 8839,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/anchor_blue_ayri.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
