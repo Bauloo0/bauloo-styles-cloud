@@ -952,6 +952,16 @@
       "preview": "previews/fire_aiimgod.png"
     },
     {
+      "id": "fire_verogs_marloww_totem_blue",
+      "category": "fire",
+      "name": "Verogs Marloww totem blue",
+      "sha256": "8412276934e673e391f6c7ef0f64ab15beadd7784403fd1a89f8e15cbbe684ce",
+      "size": 5164,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/fire_verogs_marloww_totem_blue.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
