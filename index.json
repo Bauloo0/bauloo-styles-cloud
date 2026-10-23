@@ -172,6 +172,16 @@
       "preview": "previews/anchor_blue_ayri.png"
     },
     {
+      "id": "anchor_flwuffless",
+      "category": "anchor",
+      "name": "flWuffless",
+      "sha256": "d805559aae320c65369d31d99e4763b26ff236b3c51565807bd5834c571c1fc8",
+      "size": 50570,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/anchor_flwuffless.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
