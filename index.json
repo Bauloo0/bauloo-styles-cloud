@@ -832,6 +832,16 @@
       "preview": "previews/pearl_zurial0g.png"
     },
     {
+      "id": "pearl_tightfault_1_19_v1_8",
+      "category": "pearl",
+      "name": "Tightfault-1.19-v1.8",
+      "sha256": "31e24f96f0f8d9fb0016857a543be50942a64a0f83d8fe7f0dde3da01ea47f70",
+      "size": 1011,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_tightfault_1_19_v1_8.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
