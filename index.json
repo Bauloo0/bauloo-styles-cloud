@@ -1102,6 +1102,16 @@
       "preview": "previews/shield_sigma.png"
     },
     {
+      "id": "mace_kesie_optimal",
+      "category": "mace",
+      "name": "Kesie Optimal",
+      "sha256": "79acb7f0f1b620914c50d8e4516bb3bd8943bc073d08baebceb595d4fcf2f140",
+      "size": 1141,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/mace_kesie_optimal.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
