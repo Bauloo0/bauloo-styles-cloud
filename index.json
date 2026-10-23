@@ -82,6 +82,16 @@
       "preview": "previews/crystal_black_blue.png"
     },
     {
+      "id": "crystal_iamverox",
+      "category": "crystal",
+      "name": "IamVerox",
+      "sha256": "5c0b853a3dabd7dba632bda9ece096e492edc57488d9965e9d1bcc159cc994e0",
+      "size": 5445,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/crystal_iamverox.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
