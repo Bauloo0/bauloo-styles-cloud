@@ -1132,6 +1132,16 @@
       "preview": "previews/cobweb_islam_pack.png"
     },
     {
+      "id": "trident_islam_pack",
+      "category": "trident",
+      "name": "islam pack",
+      "sha256": "136ba470650bd24a15e362d79a0ba2616b159551a060ddfb7d47ac676f986829",
+      "size": 1255,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/trident_islam_pack.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
