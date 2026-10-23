@@ -112,6 +112,16 @@
       "preview": "previews/crystal_rizzler_classic.png"
     },
     {
+      "id": "crystal_tedde_remade",
+      "category": "crystal",
+      "name": "Tedde Remade",
+      "sha256": "0792c5e0b019a979adceef29c9d1322932e691389c361ea5092b02a199f26b0f",
+      "size": 3087,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/crystal_tedde_remade.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
