@@ -42,6 +42,16 @@
       "preview": "previews/crystal_14lm_pwiwate.png"
     },
     {
+      "id": "crystal_aiimgod_purple_new",
+      "category": "crystal",
+      "name": "AiimGod Purple New",
+      "sha256": "2cec043e92f826af5099dbf131857d8c9c1b849b37cacf9e495137e88172854f",
+      "size": 4533,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/crystal_aiimgod_purple_new.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
