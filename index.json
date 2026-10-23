@@ -792,6 +792,16 @@
       "preview": "previews/pearl_pepe.png"
     },
     {
+      "id": "pearl_ituspremade",
+      "category": "pearl",
+      "name": "ituspremade",
+      "sha256": "2111cd5ccc06892a0b5b1ad9b58a78503010260e0ec4acb939aca59a7d6e0a20",
+      "size": 640,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_ituspremade.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
