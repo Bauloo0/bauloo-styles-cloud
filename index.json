@@ -1082,6 +1082,16 @@
       "preview": "previews/inventory_124.png"
     },
     {
+      "id": "shield_b_ipasha_e_lpack",
+      "category": "shield",
+      "name": "⌡b⌡IPasha⌡e⌡lPack",
+      "sha256": "b896647e705896aec5ae4df1270f44b3c294697df86416f5561d67e2b5f97acf",
+      "size": 950,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/shield_b_ipasha_e_lpack.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
