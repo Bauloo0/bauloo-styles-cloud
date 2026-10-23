@@ -262,6 +262,16 @@
       "preview": "previews/obsidian_aiimgod_bauloo_s_x.png"
     },
     {
+      "id": "obsidian_x32bluewar",
+      "category": "obsidian",
+      "name": "x32bluewar",
+      "sha256": "a2ac86d516c12eaa460cdab437efb85cbbb20d126dfe0374547e4ae35e53f7f3",
+      "size": 1852,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/obsidian_x32bluewar.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
