@@ -132,6 +132,16 @@
       "preview": "previews/crystal_usecws_clean_overlay.png"
     },
     {
+      "id": "anchor_swetsys_blue_mashup",
+      "category": "anchor",
+      "name": "Swetsys blue mashup",
+      "sha256": "eec9d7312b10863e7f701df159aff77587bf326fd013416576d8bdf696a8a139",
+      "size": 6791,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/anchor_swetsys_blue_mashup.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
