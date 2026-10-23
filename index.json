@@ -482,6 +482,16 @@
       "preview": "previews/pickaxe_alpha_16x.png"
     },
     {
+      "id": "pickaxe_fortnite_pack",
+      "category": "pickaxe",
+      "name": "Fortnite Pack",
+      "sha256": "d26a65f061ff587a31ea0a1173008de8b6ac947483cedcf336bb44e1e9680185",
+      "size": 17478,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pickaxe_fortnite_pack.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
