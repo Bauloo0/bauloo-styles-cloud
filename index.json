@@ -62,6 +62,16 @@
       "preview": "previews/crystal_2crick_private.png"
     },
     {
+      "id": "crystal_198m_blackie",
+      "category": "crystal",
+      "name": "198M Blackie",
+      "sha256": "9cd6fe083613c7aba058a3dd425f3aae405b18c53700e6cf26875106c7ef5c6d",
+      "size": 22126,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/crystal_198m_blackie.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
