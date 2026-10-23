@@ -842,6 +842,16 @@
       "preview": "previews/pearl_tightfault_1_19_v1_8.png"
     },
     {
+      "id": "pearl_pokemon_blue",
+      "category": "pearl",
+      "name": "Pokemon Blue",
+      "sha256": "dcd072fc6cc86e5f085b8ae75f51e99d58d93ad818de9309ea2e3e81ef100ec0",
+      "size": 76890,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_pokemon_blue.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
