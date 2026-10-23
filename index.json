@@ -762,6 +762,16 @@
       "preview": "previews/gap_tostertobi_the_nn.png"
     },
     {
+      "id": "pearl_14lm_pwiwate",
+      "category": "pearl",
+      "name": "14lm Pwiwate",
+      "sha256": "0b8e2664cf292e9a651fc88ee13590b724a5ccb744e94d661991b9cf7870362a",
+      "size": 637,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_14lm_pwiwate.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
