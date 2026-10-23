@@ -422,6 +422,16 @@
       "preview": "previews/sword_6_l_ovanilla_e_l_o.png"
     },
     {
+      "id": "sword_7_5_lein_4_lclient",
+      "category": "sword",
+      "name": "⌡7!#⌡5⌡lEin⌡4⌡lClient",
+      "sha256": "c53e95a02126c93bdb8ff858f58df34ce75b9c776215dae03e5d8c259b04d3a0",
+      "size": 30421,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/sword_7_5_lein_4_lclient.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
