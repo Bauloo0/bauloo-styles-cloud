@@ -722,6 +722,16 @@
       "preview": "previews/gap_pepe.png"
     },
     {
+      "id": "gap_luci_private",
+      "category": "gap",
+      "name": "Luci Private",
+      "sha256": "2344a74a196b092cc1fb03f0e1b9b866e2adf3af8a0e5563c5d37d60ac6000b8",
+      "size": 785,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/gap_luci_private.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
