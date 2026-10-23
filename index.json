@@ -612,6 +612,16 @@
       "preview": "previews/totem_ver0xgs.png"
     },
     {
+      "id": "totem_teletuppes",
+      "category": "totem",
+      "name": "Teletuppes",
+      "sha256": "3c068fc6577a966f74a0d9e188170d96713c6f5556f06f37e89fc4a1d8a6795a",
+      "size": 1110,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/totem_teletuppes.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
