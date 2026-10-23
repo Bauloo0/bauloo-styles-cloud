@@ -1122,6 +1122,16 @@
       "preview": "previews/cobweb_x32bluewar.png"
     },
     {
+      "id": "cobweb_islam_pack",
+      "category": "cobweb",
+      "name": "islam pack",
+      "sha256": "cfea0162b9c0604bcbd2be804e7439422d926057c226c9918bd10e419ddfb291",
+      "size": 542,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/cobweb_islam_pack.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
