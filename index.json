@@ -882,6 +882,16 @@
       "preview": "previews/pearl_helpmesoft_remaik_pack.png"
     },
     {
+      "id": "pearl_napicc_pack",
+      "category": "pearl",
+      "name": "Napicc Pack",
+      "sha256": "525f01e6a278f164a452631392796b0c30b6ba3254741003df7b48d694a52559",
+      "size": 1322,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_napicc_pack.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
