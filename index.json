@@ -412,6 +412,16 @@
       "preview": "previews/sword_f_lsakura_tweaks.png"
     },
     {
+      "id": "sword_6_l_ovanilla_e_l_o",
+      "category": "sword",
+      "name": "⌡6⌡l⌡oVANILLA ⌡e⌡l⌡o+",
+      "sha256": "b2b526c7a233964a1a1bba29e1d5f0a9e79ea70ff55d583d13947cb1d3dcc3c5",
+      "size": 1227,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/sword_6_l_ovanilla_e_l_o.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
