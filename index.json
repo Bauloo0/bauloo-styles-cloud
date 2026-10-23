@@ -72,6 +72,16 @@
       "preview": "previews/crystal_198m_blackie.png"
     },
     {
+      "id": "crystal_black_blue",
+      "category": "crystal",
+      "name": "Black Blue",
+      "sha256": "79e2fb65df705b40ad923213caf83580b251be9287f7abe8bc56e4b3115ec356",
+      "size": 5693,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/crystal_black_blue.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
