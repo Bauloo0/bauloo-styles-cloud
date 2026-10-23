@@ -1032,6 +1032,16 @@
       "preview": "previews/deepslate_veroxsibbi.png"
     },
     {
+      "id": "inventory_l_0black_l_f_lwhite",
+      "category": "inventory",
+      "name": "⌡l⌡0BLACK ⌡l& ⌡f⌡lWHITE",
+      "sha256": "524fa952dc0c59c431192a971220734bb45a67073318bdedb6a2b7d397ed7b39",
+      "size": 71229,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/inventory_l_0black_l_f_lwhite.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
