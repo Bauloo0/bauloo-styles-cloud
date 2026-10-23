@@ -622,6 +622,16 @@
       "preview": "previews/totem_teletuppes.png"
     },
     {
+      "id": "totem_bauloo_privat",
+      "category": "totem",
+      "name": "bauloo privat",
+      "sha256": "60f4f4cb667f6f56efb9e8e34cad7a3c222f276348f1590017c4c02e608c8a77",
+      "size": 1673,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/totem_bauloo_privat.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
