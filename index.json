@@ -92,6 +92,16 @@
       "preview": "previews/crystal_iamverox.png"
     },
     {
+      "id": "crystal_napicc_pack",
+      "category": "crystal",
+      "name": "Napicc Pack",
+      "sha256": "7503036bd64e609c79a87df851908c6fdbc8a2cb186c073ca445399fce8950c6",
+      "size": 6022,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/crystal_napicc_pack.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
