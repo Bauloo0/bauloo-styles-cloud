@@ -492,6 +492,16 @@
       "preview": "previews/pickaxe_fortnite_pack.png"
     },
     {
+      "id": "pickaxe_doge_private_v2_remade",
+      "category": "pickaxe",
+      "name": "Doge Private V2 REMADE",
+      "sha256": "eddffa3bf9e93c839e085a64afa5b5a95f286eb41b6fc82f27e1fcc8acd0fef6",
+      "size": 3572,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pickaxe_doge_private_v2_remade.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
