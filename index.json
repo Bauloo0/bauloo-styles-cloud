@@ -212,6 +212,16 @@
       "preview": "previews/obsidian_bauloo_primed_up.png"
     },
     {
+      "id": "obsidian_fortnite_pack",
+      "category": "obsidian",
+      "name": "Fortnite Pack",
+      "sha256": "4c6208128581d1b80aaa7b478cc25a5405b460f407a429224a4e3f61b5c743bb",
+      "size": 300685,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/obsidian_fortnite_pack.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
