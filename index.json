@@ -682,6 +682,16 @@
       "preview": "previews/gap_d_l_lavendar_cpvp_zip.png"
     },
     {
+      "id": "gap_aiimgod_pwivate",
+      "category": "gap",
+      "name": "AiimGod Pwivate",
+      "sha256": "20b5f73a9ad0d5f122bfb5b7fd83e874e8d46c9cc290edb2398ab743b67aa81e",
+      "size": 1389,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/gap_aiimgod_pwivate.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
