@@ -1062,6 +1062,16 @@
       "preview": "previews/inventory_d_l_a_c_e.png"
     },
     {
+      "id": "inventory_asd",
+      "category": "inventory",
+      "name": "asd",
+      "sha256": "379a70e6e3051acd5e1e2bce924b43e00ef3ed2c9f10b8233a0e13a7172378a5",
+      "size": 2524,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/inventory_asd.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
