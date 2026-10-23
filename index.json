@@ -402,6 +402,16 @@
       "preview": "previews/sword_fruit_pack_kopie.png"
     },
     {
+      "id": "sword_f_lsakura_tweaks",
+      "category": "sword",
+      "name": "⌡F⌡lSakura Tweaks",
+      "sha256": "3fc0eaa500e9708fcdd5ff4af66b70f1ca8aa1e5ac3f47ff02ce254b3cc24f4f",
+      "size": 10514,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/sword_f_lsakura_tweaks.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
