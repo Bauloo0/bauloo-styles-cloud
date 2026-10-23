@@ -432,6 +432,16 @@
       "preview": "previews/sword_7_5_lein_4_lclient.png"
     },
     {
+      "id": "sword_the_best_lifesteal_smp_texture_pack_1_19",
+      "category": "sword",
+      "name": "The BEST Lifesteal SMP Texture pack 1.19",
+      "sha256": "40e62e991f6395e65f0d4e49cb90bacbcd1bf583e9efe8409ba13191308186ac",
+      "size": 2027,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/sword_the_best_lifesteal_smp_texture_pack_1_19.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
