@@ -1002,6 +1002,16 @@
       "preview": "previews/sky_pokemon_blue.png"
     },
     {
+      "id": "stone_veroxsibbi",
+      "category": "stone",
+      "name": "veroxsibbi",
+      "sha256": "926cfe9b35d5be083b942d5a8c1bb98c24b9ef757043e703c62c3c3a5ebda108",
+      "size": 726,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/stone_veroxsibbi.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
