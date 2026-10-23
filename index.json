@@ -742,6 +742,16 @@
       "preview": "previews/gap_gubi_fortnite7.png"
     },
     {
+      "id": "gap_purple_edit",
+      "category": "gap",
+      "name": "Purple Edit",
+      "sha256": "ee102f8a9ac89025010cf4be3f74eda959db0ef39ba8922c42622b75997e4d3d",
+      "size": 777,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/gap_purple_edit.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
