@@ -292,6 +292,16 @@
       "preview": "previews/obsidian_5autorizz.png"
     },
     {
+      "id": "glowstone_doge_private_v2_remade",
+      "category": "glowstone",
+      "name": "Doge Private V2 REMADE",
+      "sha256": "277ec1e93bedb83c1fb33defcb2e2fd2794f2040c9ed8f46cebc83cd1c5f856b",
+      "size": 2250,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/glowstone_doge_private_v2_remade.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
