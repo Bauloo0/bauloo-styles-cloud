@@ -562,6 +562,16 @@
       "preview": "previews/totem_blizypack.png"
     },
     {
+      "id": "totem_aiimgod",
+      "category": "totem",
+      "name": "AiimGod",
+      "sha256": "f3a09184a9e656905c70ce379b80c4dba85f6794e193d86085147d95fd67f2b3",
+      "size": 1111,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/totem_aiimgod.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
