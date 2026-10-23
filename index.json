@@ -862,6 +862,16 @@
       "preview": "previews/pearl_gubi_fortnite7.png"
     },
     {
+      "id": "pearl_kesie_optimal",
+      "category": "pearl",
+      "name": "Kesie Optimal",
+      "sha256": "7d9e8470a0b836ca638075ff19eb1d6de5a2fda65a837e2ee744d2cc89129ce7",
+      "size": 1075,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_kesie_optimal.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
