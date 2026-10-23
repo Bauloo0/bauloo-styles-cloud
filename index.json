@@ -232,6 +232,16 @@
       "preview": "previews/obsidian_gubi_fortnite7.png"
     },
     {
+      "id": "obsidian_ituspremade",
+      "category": "obsidian",
+      "name": "ituspremade",
+      "sha256": "b99462abe9f187595ebaa443d02e441feafd3fc19c9be7c4385bdfdefe03f0be",
+      "size": 518,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/obsidian_ituspremade.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
