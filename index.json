@@ -582,6 +582,16 @@
       "preview": "previews/totem_grey_pack_aiimgod.png"
     },
     {
+      "id": "totem_pink",
+      "category": "totem",
+      "name": "pink",
+      "sha256": "a48df67a08dd232365e1edf0a11b70caae677eeb81c4da2080d399643466eb56",
+      "size": 1111,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/totem_pink.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
