@@ -222,6 +222,16 @@
       "preview": "previews/obsidian_fortnite_pack.png"
     },
     {
+      "id": "obsidian_gubi_fortnite7",
+      "category": "obsidian",
+      "name": "gubi fortnite7",
+      "sha256": "d996cae1e0226e5b6f860727e7ce8e1ca8cd6d9c8ff20e6b70e86f56fef464c0",
+      "size": 584,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/obsidian_gubi_fortnite7.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
