@@ -302,6 +302,16 @@
       "preview": "previews/glowstone_doge_private_v2_remade.png"
     },
     {
+      "id": "glowstone_blue_by_aiimgod",
+      "category": "glowstone",
+      "name": "Blue by AiimGod",
+      "sha256": "6b6bc20ff9d3129e04916fdd19ef0b71c8441006518803ac686744d5ef3ebc1d",
+      "size": 971,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/glowstone_blue_by_aiimgod.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
