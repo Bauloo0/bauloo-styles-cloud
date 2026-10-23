@@ -442,6 +442,16 @@
       "preview": "previews/sword_the_best_lifesteal_smp_texture_pack_1_19.png"
     },
     {
+      "id": "sword_aiimgod_pro",
+      "category": "sword",
+      "name": "AiimGod Pro",
+      "sha256": "5a9f322e2bc215ccfe7258a57b0f4a9f12baee7729327b54dd33052876591965",
+      "size": 4734,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/sword_aiimgod_pro.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
