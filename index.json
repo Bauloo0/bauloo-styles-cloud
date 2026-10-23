@@ -992,6 +992,16 @@
       "preview": "previews/sky_2crick_private.png"
     },
     {
+      "id": "sky_pokemon_blue",
+      "category": "sky",
+      "name": "Pokemon Blue",
+      "sha256": "d7e79fd97865f5946c8dc39f3b60cd6232cac019e2ff97547811a4f447b01b22",
+      "size": 4893862,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/sky_pokemon_blue.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
