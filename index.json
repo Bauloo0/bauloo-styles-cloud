@@ -972,6 +972,16 @@
       "preview": "previews/fire_bauloo_privat.png"
     },
     {
+      "id": "hotbar_pnk_remake_aiimgod",
+      "category": "hotbar",
+      "name": "pnk remake AiimGod",
+      "sha256": "15b5f74fba75ea24f802e639f0145ea7bf12873193ce450f2f5f623fa1f4726f",
+      "size": 21105,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/hotbar_pnk_remake_aiimgod.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
