@@ -1042,6 +1042,16 @@
       "preview": "previews/inventory_l_0black_l_f_lwhite.png"
     },
     {
+      "id": "inventory_dpastelic_v3_7",
+      "category": "inventory",
+      "name": "⌡dPastelic v3 ⌡7",
+      "sha256": "081c3097da8f198720e0f657adb1ad56c60142d77a868ba3a4d826383fbbd553",
+      "size": 560711,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/inventory_dpastelic_v3_7.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
