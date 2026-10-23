@@ -502,6 +502,16 @@
       "preview": "previews/pickaxe_doge_private_v2_remade.png"
     },
     {
+      "id": "pickaxe_f_lsakura_tweaks",
+      "category": "pickaxe",
+      "name": "⌡F⌡lSakura Tweaks",
+      "sha256": "5e36dbae8e9098d7fbc04dbf87d5b0478b0eb8405330e8f10cdfa7940ebda7d9",
+      "size": 11392,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pickaxe_f_lsakura_tweaks.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
