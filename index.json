@@ -192,6 +192,16 @@
       "preview": "previews/anchor_198m_blackie.png"
     },
     {
+      "id": "obsidian_veroxsibbi",
+      "category": "obsidian",
+      "name": "veroxsibbi",
+      "sha256": "6a681be3c0203a4da8bdede7b598c2e9bce8dfdd049b658fa82b128113019e78",
+      "size": 3085,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/obsidian_veroxsibbi.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
