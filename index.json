@@ -772,6 +772,16 @@
       "preview": "previews/pearl_14lm_pwiwate.png"
     },
     {
+      "id": "pearl_black_white_new",
+      "category": "pearl",
+      "name": "Black White New",
+      "sha256": "9e5efa2f2185fa38ef6f3338a5ddf73b1dd7ddf26cafd164f2b2edd593497ebc",
+      "size": 662,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_black_white_new.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
