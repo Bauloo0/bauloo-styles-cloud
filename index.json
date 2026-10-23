@@ -332,6 +332,16 @@
       "preview": "previews/glowstone_default_hd_128x_demo_1_8_2_1.png"
     },
     {
+      "id": "armor_7_lxpz_f_lwhite",
+      "category": "armor",
+      "name": "⌡7⌡lxPz ⌡f⌡lWhite",
+      "sha256": "b2d6874c06b1958b01389e488e81927bb584ca3fcc5b182e42d24487205e1cb3",
+      "size": 11356,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/armor_7_lxpz_f_lwhite.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
