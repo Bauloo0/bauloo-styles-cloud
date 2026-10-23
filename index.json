@@ -552,6 +552,16 @@
       "preview": "previews/totem_2crick_private.png"
     },
     {
+      "id": "totem_blizypack",
+      "category": "totem",
+      "name": "BlizyPack",
+      "sha256": "a7c093b01fdefe399570748886f57897ca0d178e1d3c7bd8174756e99106b138",
+      "size": 3533,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/totem_blizypack.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
