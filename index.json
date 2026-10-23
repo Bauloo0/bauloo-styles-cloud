@@ -182,6 +182,16 @@
       "preview": "previews/anchor_flwuffless.png"
     },
     {
+      "id": "anchor_198m_blackie",
+      "category": "anchor",
+      "name": "198M Blackie",
+      "sha256": "f425e43be5a94220c521f9d9a6fdd292c58c8528d94835769b305d7e9b5085bd",
+      "size": 58257,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/anchor_198m_blackie.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
