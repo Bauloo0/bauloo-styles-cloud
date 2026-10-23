@@ -802,6 +802,16 @@
       "preview": "previews/pearl_ituspremade.png"
     },
     {
+      "id": "pearl_nqouir",
+      "category": "pearl",
+      "name": "Nqouir",
+      "sha256": "80b90c9b7bea6a5578a0a518e67697d2e70a057a45230b9fa5a69dc91aa9dfc4",
+      "size": 1343,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/pearl_nqouir.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
