@@ -312,6 +312,16 @@
       "preview": "previews/glowstone_blue_by_aiimgod.png"
     },
     {
+      "id": "glowstone_opa_wewox_pwivate",
+      "category": "glowstone",
+      "name": "Opa Wewox Pwivate",
+      "sha256": "267e537485daa1f3eae9de1ab37c4a90ef7e0acff1e7dc5df5dc071b6006f14e",
+      "size": 1383,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/glowstone_opa_wewox_pwivate.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
