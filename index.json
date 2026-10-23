@@ -102,6 +102,16 @@
       "preview": "previews/crystal_napicc_pack.png"
     },
     {
+      "id": "crystal_rizzler_classic",
+      "category": "crystal",
+      "name": "Rizzler Classic",
+      "sha256": "9557b42b1a7fd23fe96a4192c7242c39e92d36c51252d53f4a6babf5aa6561a6",
+      "size": 5547,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/crystal_rizzler_classic.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
