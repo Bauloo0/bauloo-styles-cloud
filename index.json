@@ -922,6 +922,16 @@
       "preview": "previews/fire_swetsys_blue_mashup.png"
     },
     {
+      "id": "fire_5_mlavendervamp",
+      "category": "fire",
+      "name": "⌡5⌡mLavenderVamp",
+      "sha256": "27af3b6b32cf5ac5faec8fab291c357f5419c067af0f7289a5e4e34a15e9f37c",
+      "size": 7939,
+      "added": "2026-10-23",
+      "by": "aiimgod",
+      "preview": "previews/fire_5_mlavendervamp.png"
+    },
+    {
       "id": "anchor_grey_remade_by_swetsy",
       "category": "anchor",
       "name": "Grey Remade by Swetsy",
