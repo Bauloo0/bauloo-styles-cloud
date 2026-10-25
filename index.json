@@ -129,6 +129,15 @@
       "preview": "previews/axe_halloween.png"
     },
     {
+      "id": "totem_halloween",
+      "category": "totem",
+      "name": "Halloween",
+      "sha256": "af3dab07dee523029ab96f1376859e4c2d8226683017bdaf25a14a4131ce8a91",
+      "size": 666,
+      "added": "2026-10-25",
+      "preview": "previews/totem_halloween.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
