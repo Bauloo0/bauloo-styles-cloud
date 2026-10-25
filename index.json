@@ -120,6 +120,15 @@
       "preview": "previews/pickaxe_melody_pack.png"
     },
     {
+      "id": "axe_halloween",
+      "category": "axe",
+      "name": "Halloween",
+      "sha256": "5bf0cda8afa283c00d807397c8a40656a1e1ae38353df67e80cfe49e9e449111",
+      "size": 1076,
+      "added": "2026-10-25",
+      "preview": "previews/axe_halloween.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
