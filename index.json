@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "crystal_halloween",
+      "category": "crystal",
+      "name": "Halloween",
+      "sha256": "abdd5a5de6f3efcb1a45f4a53d725a2f1f7e991070e74ed2fa44bfcff88c959b",
+      "size": 7466,
+      "added": "2026-10-25",
+      "preview": "previews/crystal_halloween.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
