@@ -111,6 +111,15 @@
       "preview": "previews/pickaxe_rulers.png"
     },
     {
+      "id": "pickaxe_melody_pack",
+      "category": "pickaxe",
+      "name": "Melody Pack",
+      "sha256": "a04f4475fb9d093083b039d22ed225382b2956cd9319ca50a264681d26788e07",
+      "size": 1472,
+      "added": "2026-10-25",
+      "preview": "previews/pickaxe_melody_pack.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
