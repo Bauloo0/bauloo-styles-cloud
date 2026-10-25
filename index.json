@@ -102,6 +102,15 @@
       "preview": "previews/sword_rulers.png"
     },
     {
+      "id": "pickaxe_rulers",
+      "category": "pickaxe",
+      "name": "Rulers",
+      "sha256": "840ffc0649308b5eaf73fc9b69e540a2031c80252aa820cb65dc5d13123e6750",
+      "size": 3687,
+      "added": "2026-10-25",
+      "preview": "previews/pickaxe_rulers.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
