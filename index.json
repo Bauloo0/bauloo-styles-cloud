@@ -192,6 +192,15 @@
       "preview": "previews/trident_doly_50000.png"
     },
     {
+      "id": "tntcart_mexgrey",
+      "category": "tntcart",
+      "name": "mexgrey",
+      "sha256": "1037a12ecfe0ce698707463f8a255f9b8e9a127d35d55df22f06ad9b7fee0ef3",
+      "size": 4076,
+      "added": "2026-10-25",
+      "preview": "previews/tntcart_mexgrey.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
