@@ -57,6 +57,15 @@
       "preview": "previews/armor_lavander_1_21_11.png"
     },
     {
+      "id": "armor_rulers",
+      "category": "armor",
+      "name": "Rulers",
+      "sha256": "4fdd787445fc956034db9e8f171c49ea313fcbf55f0bf1ddf2dc656bb386b85e",
+      "size": 28897,
+      "added": "2026-10-25",
+      "preview": "previews/armor_rulers.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
