@@ -237,6 +237,15 @@
       "preview": "previews/xpbottle_monsterwhite.png"
     },
     {
+      "id": "xpbottle_o3kar_purple",
+      "category": "xpbottle",
+      "name": "O3kar Purple",
+      "sha256": "e58f04f4f1d57e0ec41c83975a31f873e2c5200569d2c309f539d730b8339e95",
+      "size": 829,
+      "added": "2026-10-25",
+      "preview": "previews/xpbottle_o3kar_purple.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
