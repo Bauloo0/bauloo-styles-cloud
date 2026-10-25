@@ -93,6 +93,15 @@
       "preview": "previews/sword_kesu_main_qblast_pink_recolor.png"
     },
     {
+      "id": "sword_rulers",
+      "category": "sword",
+      "name": "Rulers",
+      "sha256": "c1a241b9a41230b5166bc1ef474dc6883082c3d1c3d1e040cfba2bf89a5cfb3f",
+      "size": 3836,
+      "added": "2026-10-25",
+      "preview": "previews/sword_rulers.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
