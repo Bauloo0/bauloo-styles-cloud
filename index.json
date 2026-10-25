@@ -3952,6 +3952,118 @@
         "type": "item",
         "texture": "assets/minecraft/textures/item/trident.png"
       }
+    },
+    {
+      "id": "tntcart",
+      "slot": 5,
+      "name": "TNT Minecart",
+      "icon": "minecraft:tnt_minecart",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/items?/(?:tnt_minecart|minecart_tnt)\\.png$",
+          "to": "assets/minecraft/textures/item/tnt_minecart.png"
+        },
+        {
+          "match": "^assets/minecraft/textures/entity/(minecart\\.png)$",
+          "to": "assets/minecraft/textures/entity/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/blocks?/tnt_(side|top|bottom)\\.png$",
+          "to": "assets/minecraft/textures/block/tnt_$1.png"
+        }
+      ],
+      "detect": "items?/(tnt_minecart|minecart_tnt)\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/item/tnt_minecart.png"
+      }
+    },
+    {
+      "id": "windcharge",
+      "slot": 6,
+      "name": "Wind Charge",
+      "icon": "minecraft:wind_charge",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/items?/(wind_charge\\.png)$",
+          "to": "assets/minecraft/textures/item/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/entity/projectiles/(wind_charge\\.png)$",
+          "to": "assets/minecraft/textures/entity/projectiles/$1"
+        }
+      ],
+      "detect": "items?/wind_charge\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/item/wind_charge.png"
+      }
+    },
+    {
+      "id": "xpbottle",
+      "slot": 7,
+      "name": "XP Bottle",
+      "icon": "minecraft:experience_bottle",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/items?/(?:experience_bottle|expbottle)\\.png$",
+          "to": "assets/minecraft/textures/item/experience_bottle.png"
+        }
+      ],
+      "detect": "items?/(experience_bottle|expbottle)\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/item/experience_bottle.png"
+      }
+    },
+    {
+      "id": "rails",
+      "slot": 8,
+      "name": "Rails",
+      "icon": "minecraft:rail",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/block/(rail|rail_corner|powered_rail|powered_rail_on|detector_rail|detector_rail_on|activator_rail|activator_rail_on)\\.png$",
+          "to": "assets/minecraft/textures/block/$1.png"
+        },
+        {
+          "match": "^assets/minecraft/textures/blocks/rail_normal\\.png$",
+          "to": "assets/minecraft/textures/block/rail.png"
+        },
+        {
+          "match": "^assets/minecraft/textures/blocks/rail_normal_turned\\.png$",
+          "to": "assets/minecraft/textures/block/rail_corner.png"
+        },
+        {
+          "match": "^assets/minecraft/textures/blocks/rail_golden\\.png$",
+          "to": "assets/minecraft/textures/block/powered_rail.png"
+        },
+        {
+          "match": "^assets/minecraft/textures/blocks/rail_golden_powered\\.png$",
+          "to": "assets/minecraft/textures/block/powered_rail_on.png"
+        },
+        {
+          "match": "^assets/minecraft/textures/blocks/rail_detector\\.png$",
+          "to": "assets/minecraft/textures/block/detector_rail.png"
+        },
+        {
+          "match": "^assets/minecraft/textures/blocks/rail_detector_powered\\.png$",
+          "to": "assets/minecraft/textures/block/detector_rail_on.png"
+        },
+        {
+          "match": "^assets/minecraft/textures/blocks/rail_activator\\.png$",
+          "to": "assets/minecraft/textures/block/activator_rail.png"
+        },
+        {
+          "match": "^assets/minecraft/textures/blocks/rail_activator_powered\\.png$",
+          "to": "assets/minecraft/textures/block/activator_rail_on.png"
+        }
+      ],
+      "detect": "blocks?/(rail|rail_normal)\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/block/rail.png"
+      }
     }
   ],
   "adminCategories": [
