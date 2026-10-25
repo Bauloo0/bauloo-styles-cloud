@@ -48,6 +48,15 @@
       "preview": "previews/armor_halloween.png"
     },
     {
+      "id": "armor_lavander_1_21_11",
+      "category": "armor",
+      "name": "Lavander 1.21.11",
+      "sha256": "da3fa3c7d6bc7d7c0803f5702f3e9d7ec6df8b9b739588d23f279a1d6928680b",
+      "size": 12240,
+      "added": "2026-10-25",
+      "preview": "previews/armor_lavander_1_21_11.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
