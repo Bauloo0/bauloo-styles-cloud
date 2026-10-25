@@ -66,6 +66,15 @@
       "preview": "previews/armor_rulers.png"
     },
     {
+      "id": "armor_monsterwhite",
+      "category": "armor",
+      "name": "MonsterWhite",
+      "sha256": "47a337d829eef8154a45ef10af0c7e27f76019a4870b79639f72894bb7156157",
+      "size": 6865,
+      "added": "2026-10-25",
+      "preview": "previews/armor_monsterwhite.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
