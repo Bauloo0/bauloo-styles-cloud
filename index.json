@@ -345,6 +345,15 @@
       "preview": "previews/shield_o3kar_purple.png"
     },
     {
+      "id": "pearl_equinox",
+      "category": "pearl",
+      "name": "equinox",
+      "sha256": "8fe25e8ff2fd3b7c9cd7bf32cc8b0f3fbf6ed962c3b50411de016380d79d5e85",
+      "size": 18332,
+      "added": "2026-10-25",
+      "preview": "previews/pearl_equinox.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
