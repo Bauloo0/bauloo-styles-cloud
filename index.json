@@ -255,6 +255,15 @@
       "preview": "previews/xpbottle_daquavious_purple.png"
     },
     {
+      "id": "xpbottle_melody_pack",
+      "category": "xpbottle",
+      "name": "Melody Pack",
+      "sha256": "fd77151d1afec86d52e857107d7161d88326e1331b51dfef2a8055c2279e3590",
+      "size": 2394,
+      "added": "2026-10-25",
+      "preview": "previews/xpbottle_melody_pack.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
