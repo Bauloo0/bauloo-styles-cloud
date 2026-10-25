@@ -165,6 +165,15 @@
       "preview": "previews/sky_spongebob_pack.png"
     },
     {
+      "id": "mace_halloween",
+      "category": "mace",
+      "name": "Halloween",
+      "sha256": "60af561041a513534477429ff4c53051c4d2e5747834d2eea39efd9cdbd96dd0",
+      "size": 4608,
+      "added": "2026-10-25",
+      "preview": "previews/mace_halloween.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
