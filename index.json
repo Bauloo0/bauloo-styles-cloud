@@ -282,6 +282,15 @@
       "preview": "previews/rails_equinox.png"
     },
     {
+      "id": "rails_mexgrey",
+      "category": "rails",
+      "name": "mexgrey",
+      "sha256": "947420989802395cf99a610ecb3511461ec1c2f35d1f9b86269dec5157070cac",
+      "size": 6162,
+      "added": "2026-10-25",
+      "preview": "previews/rails_mexgrey.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
