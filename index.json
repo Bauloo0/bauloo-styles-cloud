@@ -156,6 +156,15 @@
       "preview": "previews/sky_rulers.png"
     },
     {
+      "id": "sky_spongebob_pack",
+      "category": "sky",
+      "name": "SpongeBob Pack",
+      "sha256": "fbac031b97f7179e21e1e67eaa996d2aa7246d1d244fda58f37809b520a01ea1",
+      "size": 622768,
+      "added": "2026-10-25",
+      "preview": "previews/sky_spongebob_pack.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
