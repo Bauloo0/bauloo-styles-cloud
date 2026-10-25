@@ -201,6 +201,15 @@
       "preview": "previews/tntcart_mexgrey.png"
     },
     {
+      "id": "xpbottle_duolingorework",
+      "category": "xpbottle",
+      "name": "DuoLingoRework",
+      "sha256": "29f80c10f7455f34db14b918d4043e6328e611c4b9a00f68cc8690898ad777e8",
+      "size": 831,
+      "added": "2026-10-25",
+      "preview": "previews/xpbottle_duolingorework.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
