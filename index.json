@@ -300,6 +300,15 @@
       "preview": "previews/rails_198m_doge.png"
     },
     {
+      "id": "rails_kesie_optimal",
+      "category": "rails",
+      "name": "Kesie Optimal",
+      "sha256": "7f1d559eaea0df1f5010bb809b9a5cf218aa73f0fef1f7ae9bd0e7219cfab3ba",
+      "size": 5385,
+      "added": "2026-10-25",
+      "preview": "previews/rails_kesie_optimal.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
