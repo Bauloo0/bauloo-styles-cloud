@@ -75,6 +75,15 @@
       "preview": "previews/armor_monsterwhite.png"
     },
     {
+      "id": "sword_daquavious_purple",
+      "category": "sword",
+      "name": "daquavious purple",
+      "sha256": "0882029a11c3fde2e16a2d4ce23497c0beaf16f8c477acaccdeb9b5618ae36b1",
+      "size": 2433,
+      "added": "2026-10-25",
+      "preview": "previews/sword_daquavious_purple.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
