@@ -138,6 +138,15 @@
       "preview": "previews/totem_halloween.png"
     },
     {
+      "id": "gap_halloween",
+      "category": "gap",
+      "name": "Halloween",
+      "sha256": "d9fb70bb94ecf7d2878ae8204b134f58834f4a9214a9b3ae8a13b2e3a3280081",
+      "size": 1090,
+      "added": "2026-10-25",
+      "preview": "previews/gap_halloween.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
