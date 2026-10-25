@@ -21,6 +21,15 @@
       "preview": "previews/crystal_o3kar_purple.png"
     },
     {
+      "id": "crystal_swetsy_whiteee",
+      "category": "crystal",
+      "name": "Swetsy whiteee",
+      "sha256": "dc2d0460dc89c7dd8ff38bd5e51c6f8bb03da7502a299a166f09bf0b36fd3460",
+      "size": 13677,
+      "added": "2026-10-25",
+      "preview": "previews/crystal_swetsy_whiteee.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
