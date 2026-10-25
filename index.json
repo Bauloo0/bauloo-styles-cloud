@@ -246,6 +246,15 @@
       "preview": "previews/xpbottle_o3kar_purple.png"
     },
     {
+      "id": "xpbottle_daquavious_purple",
+      "category": "xpbottle",
+      "name": "daquavious purple",
+      "sha256": "4edd644f2e950ebfcf8623151cb58f1e44d8de889ba13f1234b0231bfd844216",
+      "size": 1528,
+      "added": "2026-10-25",
+      "preview": "previews/xpbottle_daquavious_purple.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
