@@ -228,6 +228,15 @@
       "preview": "previews/xpbottle_miku_clear_vision.png"
     },
     {
+      "id": "xpbottle_monsterwhite",
+      "category": "xpbottle",
+      "name": "MonsterWhite",
+      "sha256": "7cee3288c009cb94714ac929728852108254647749e7a79ce05332379756d750",
+      "size": 1274,
+      "added": "2026-10-25",
+      "preview": "previews/xpbottle_monsterwhite.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
