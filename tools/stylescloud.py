@@ -145,7 +145,7 @@ def publish(zip_path, preview_path=None, auto=None):
     if auto:
         category, name = auto[0], auto[1].strip()[:40]
         # the built-in collections plus the ones index.json adds ("categories")
-        cloud = [c.get("id") for c in index.get("categories", []) if isinstance(c, dict)]
+        cloud = [c.get("id") for key in ("categories", "adminCategories") for c in index.get(key, []) if isinstance(c, dict)]
         if category not in CATEGORIES and category not in cloud:
             raise SystemExit(f"Unknown category: {category}")
     else:

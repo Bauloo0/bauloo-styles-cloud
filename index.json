@@ -4285,6 +4285,31 @@
         "type": "item",
         "texture": "assets/minecraft/textures/item/trident.png"
       }
+    }
+  ],
+  "adminCategories": [
+    {
+      "id": "spear",
+      "slot": 5,
+      "name": "Spears",
+      "icon": "minecraft:iron_spear",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/items?/((?:wooden|stone|copper|iron|golden|diamond|netherite)_spear(?:_in_hand)?\\.png)$",
+          "to": "assets/minecraft/textures/item/$1"
+        }
+      ],
+      "detect": "items?/[a-z]+_spear(?:_in_hand)?\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/item/iron_spear_in_hand.png",
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
     },
     {
       "id": "tntcart",
@@ -4396,31 +4421,6 @@
       "preview": {
         "type": "item",
         "texture": "assets/minecraft/textures/block/rail.png"
-      }
-    }
-  ],
-  "adminCategories": [
-    {
-      "id": "spear",
-      "slot": 5,
-      "name": "Spears",
-      "icon": "minecraft:iron_spear",
-      "files": [
-        {
-          "match": "^assets/minecraft/textures/items?/((?:wooden|stone|copper|iron|golden|diamond|netherite)_spear(?:_in_hand)?\\.png)$",
-          "to": "assets/minecraft/textures/item/$1"
-        }
-      ],
-      "detect": "items?/[a-z]+_spear(?:_in_hand)?\\.png$",
-      "preview": {
-        "type": "item",
-        "texture": "assets/minecraft/textures/item/iron_spear_in_hand.png",
-        "crop": [
-          0,
-          0,
-          1,
-          1
-        ]
       }
     }
   ]
