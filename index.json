@@ -30,6 +30,15 @@
       "preview": "previews/crystal_swetsy_whiteee.png"
     },
     {
+      "id": "anchor_light_purple",
+      "category": "anchor",
+      "name": "Light Purple",
+      "sha256": "d21d7ef1f2fd025a14eba05e4af1ffa6a5e0a561359194a641e518350c55d0ac",
+      "size": 7588,
+      "added": "2026-10-25",
+      "preview": "previews/anchor_light_purple.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
