@@ -12,6 +12,15 @@
       "preview": "previews/crystal_halloween.png"
     },
     {
+      "id": "crystal_o3kar_purple",
+      "category": "crystal",
+      "name": "O3kar Purple",
+      "sha256": "b9852e2fd42c5e86732093f3148bee0f12dc424e702829f77b70effa0dff99d9",
+      "size": 3707,
+      "added": "2026-10-25",
+      "preview": "previews/crystal_o3kar_purple.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
