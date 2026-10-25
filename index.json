@@ -273,6 +273,15 @@
       "preview": "previews/xpbottle_mexgrey.png"
     },
     {
+      "id": "rails_equinox",
+      "category": "rails",
+      "name": "equinox",
+      "sha256": "af1dfe0769465f08ff4f24f1176a6793c8265f8022a9d3d920c66edbd6d18e09",
+      "size": 44180,
+      "added": "2026-10-25",
+      "preview": "previews/rails_equinox.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
