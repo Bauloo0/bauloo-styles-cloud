@@ -327,6 +327,15 @@
       "preview": "previews/crystal_dark_crystal.png"
     },
     {
+      "id": "crystal_kesu_edit",
+      "category": "crystal",
+      "name": "Kesu Edit",
+      "sha256": "2904d6485742c1e17b06efdbc94e01c815c3d6c83df281039d6a47fd5ae53782",
+      "size": 5281,
+      "added": "2026-10-25",
+      "preview": "previews/crystal_kesu_edit.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
