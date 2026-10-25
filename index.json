@@ -39,6 +39,15 @@
       "preview": "previews/anchor_light_purple.png"
     },
     {
+      "id": "armor_halloween",
+      "category": "armor",
+      "name": "Halloween",
+      "sha256": "0efcea7183c873ee690a3860f9a6606c2b1d43cb071b531094d8352a1fdb133c",
+      "size": 9330,
+      "added": "2026-10-25",
+      "preview": "previews/armor_halloween.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
