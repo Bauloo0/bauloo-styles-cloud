@@ -318,6 +318,15 @@
       "preview": "previews/crystal_l7_version_of_v_v2.png"
     },
     {
+      "id": "crystal_dark_crystal",
+      "category": "crystal",
+      "name": "Dark crystal",
+      "sha256": "1b9f617abb35247e2ae9214b3103653a4225345079d7697bc4714fa92112aa1a",
+      "size": 3566,
+      "added": "2026-10-25",
+      "preview": "previews/crystal_dark_crystal.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
