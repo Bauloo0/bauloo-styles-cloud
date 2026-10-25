@@ -84,6 +84,15 @@
       "preview": "previews/sword_daquavious_purple.png"
     },
     {
+      "id": "sword_kesu_main_qblast_pink_recolor",
+      "category": "sword",
+      "name": "kesu main qblast pink recolor",
+      "sha256": "e521efff46240dc72f90a9bb8f2f26652c72723481499459e32a09bd4b34762a",
+      "size": 746,
+      "added": "2026-10-25",
+      "preview": "previews/sword_kesu_main_qblast_pink_recolor.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
