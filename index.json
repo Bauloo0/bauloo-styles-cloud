@@ -336,6 +336,15 @@
       "preview": "previews/crystal_kesu_edit.png"
     },
     {
+      "id": "shield_o3kar_purple",
+      "category": "shield",
+      "name": "O3kar Purple",
+      "sha256": "6db5fe608bba504bded9ccc8f74dfe4cac0121e5b4010bdd5baed90b34488106",
+      "size": 1967,
+      "added": "2026-10-25",
+      "preview": "previews/shield_o3kar_purple.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
