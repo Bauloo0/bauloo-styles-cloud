@@ -147,6 +147,15 @@
       "preview": "previews/gap_halloween.png"
     },
     {
+      "id": "sky_rulers",
+      "category": "sky",
+      "name": "Rulers",
+      "sha256": "63eea062f9a6990f4d5a87f35b9022ae2510adb4411b1a48f8667ae5643acda0",
+      "size": 9772861,
+      "added": "2026-10-25",
+      "preview": "previews/sky_rulers.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
