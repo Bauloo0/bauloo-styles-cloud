@@ -309,6 +309,15 @@
       "preview": "previews/rails_kesie_optimal.png"
     },
     {
+      "id": "crystal_l7_version_of_v_v2",
+      "category": "crystal",
+      "name": "L7 Version of V+ V2",
+      "sha256": "3614af4911c3213751adf1a116f5f1f03571960e353deb2620ec7f752c19fa87",
+      "size": 6249,
+      "added": "2026-10-25",
+      "preview": "previews/crystal_l7_version_of_v_v2.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
