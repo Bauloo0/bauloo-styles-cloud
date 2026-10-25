@@ -291,6 +291,15 @@
       "preview": "previews/rails_mexgrey.png"
     },
     {
+      "id": "rails_198m_doge",
+      "category": "rails",
+      "name": "198m doge",
+      "sha256": "5f01f62c6deae76b6ddb9dbc44f6e94e81e265c991209df842cdd9a7f6f1fb1b",
+      "size": 6296,
+      "added": "2026-10-25",
+      "preview": "previews/rails_198m_doge.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
