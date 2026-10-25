@@ -264,6 +264,15 @@
       "preview": "previews/xpbottle_melody_pack.png"
     },
     {
+      "id": "xpbottle_mexgrey",
+      "category": "xpbottle",
+      "name": "mexgrey",
+      "sha256": "f2befe5565e0c1f940d2994400e1c5e1351be78b1365cba47c9a7719cf1219e8",
+      "size": 813,
+      "added": "2026-10-25",
+      "preview": "previews/xpbottle_mexgrey.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
