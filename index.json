@@ -183,6 +183,15 @@
       "preview": "previews/mace_melody_pack.png"
     },
     {
+      "id": "trident_doly_50000",
+      "category": "trident",
+      "name": "Doly 50000",
+      "sha256": "8ddb02e395fa8e6c36ffd3351b3e69134839d3a517fef3b5c478288eaba5c826",
+      "size": 1480,
+      "added": "2026-10-25",
+      "preview": "previews/trident_doly_50000.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
