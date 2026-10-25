@@ -219,6 +219,15 @@
       "preview": "previews/xpbottle_halloween.png"
     },
     {
+      "id": "xpbottle_miku_clear_vision",
+      "category": "xpbottle",
+      "name": "Miku Clear Vision",
+      "sha256": "64530a583d1b92afd23eb080fe538cd56b66f0546208b47b8ec5002186f96461",
+      "size": 1472,
+      "added": "2026-10-25",
+      "preview": "previews/xpbottle_miku_clear_vision.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
