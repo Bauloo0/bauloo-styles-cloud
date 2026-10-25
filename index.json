@@ -210,6 +210,15 @@
       "preview": "previews/xpbottle_duolingorework.png"
     },
     {
+      "id": "xpbottle_halloween",
+      "category": "xpbottle",
+      "name": "Halloween",
+      "sha256": "9067a69137bb1f777e02c0ff693bb62063a3934637e046d4d1d2662fb1db3b90",
+      "size": 672,
+      "added": "2026-10-25",
+      "preview": "previews/xpbottle_halloween.png"
+    },
+    {
       "id": "anchor_blueee",
       "category": "anchor",
       "name": "Blueee",
