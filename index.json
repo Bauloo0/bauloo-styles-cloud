@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "fire_gubi_fortnite7",
+      "category": "fire",
+      "name": "gubi fortnite7",
+      "sha256": "60e5ef9ecb4e6ab5e3f688603122937d4511f1a740d0b62ce4a77e9f3dbc7061",
+      "size": 4389,
+      "added": "2026-10-27",
+      "preview": "previews/fire_gubi_fortnite7.png"
+    },
+    {
       "id": "crystal_gubi_fortnite7_1",
       "category": "crystal",
       "name": "gubi fortnite7 1",
