@@ -12,6 +12,15 @@
       "preview": "previews/fire_gubi_fortnite7.png"
     },
     {
+      "id": "totem_gubi_fortnite7",
+      "category": "totem",
+      "name": "gubi fortnite7",
+      "sha256": "1c5953adf5b46873353fca0d19218a598b1d585c1f2d5615d9119b48ae0e7db2",
+      "size": 1117,
+      "added": "2026-10-27",
+      "preview": "previews/totem_gubi_fortnite7.png"
+    },
+    {
       "id": "crystal_gubi_fortnite7_1",
       "category": "crystal",
       "name": "gubi fortnite7 1",
