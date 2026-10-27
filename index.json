@@ -39,6 +39,15 @@
       "preview": "previews/xpbottle_aquaplus.png"
     },
     {
+      "id": "xpbottle_lavander",
+      "category": "xpbottle",
+      "name": "Lavander",
+      "sha256": "dee9e10f7a57cf4285307e7da22808e29a36a7d029788b85b677e60cf39f5501",
+      "size": 850,
+      "added": "2026-10-27",
+      "preview": "previews/xpbottle_lavander.png"
+    },
+    {
       "id": "crystal_gubi_fortnite7_1",
       "category": "crystal",
       "name": "gubi fortnite7 1",
