@@ -21,6 +21,15 @@
       "preview": "previews/totem_gubi_fortnite7.png"
     },
     {
+      "id": "rails_orchard_x_syn_overlay",
+      "category": "rails",
+      "name": "orchard x syn overlay",
+      "sha256": "c87dc49c7b22a4f732ee1d546cbddbdce9da48d23d6e953a5bf9b9e684867785",
+      "size": 5920,
+      "added": "2026-10-27",
+      "preview": "previews/rails_orchard_x_syn_overlay.png"
+    },
+    {
       "id": "crystal_gubi_fortnite7_1",
       "category": "crystal",
       "name": "gubi fortnite7 1",
