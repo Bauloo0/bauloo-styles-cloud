@@ -138,6 +138,15 @@
       "preview": "previews/windcharge_lava.png"
     },
     {
+      "id": "windcharge_sunset",
+      "category": "windcharge",
+      "name": "Sunset",
+      "sha256": "3be0557c1eb48071069a1d27de9487681068887d8bf5aa8429480f09ba95e097",
+      "size": 1211,
+      "added": "2026-10-28",
+      "preview": "previews/windcharge_sunset.png"
+    },
+    {
       "id": "fire_gubi_fortnite7",
       "category": "fire",
       "name": "gubi fortnite7",
