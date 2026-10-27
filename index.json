@@ -48,6 +48,15 @@
       "preview": "previews/windcharge_aqua.png"
     },
     {
+      "id": "windcharge_blue",
+      "category": "windcharge",
+      "name": "Blue",
+      "sha256": "75b8a3706e31abd2fb9d2f31af1d4a652b8bb50832f1df1133eaad99b0e24b50",
+      "size": 1201,
+      "added": "2026-10-28",
+      "preview": "previews/windcharge_blue.png"
+    },
+    {
       "id": "fire_gubi_fortnite7",
       "category": "fire",
       "name": "gubi fortnite7",
