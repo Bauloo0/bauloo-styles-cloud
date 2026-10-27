@@ -48,6 +48,15 @@
       "preview": "previews/xpbottle_lavander.png"
     },
     {
+      "id": "xpbottle_blck",
+      "category": "xpbottle",
+      "name": "Blck",
+      "sha256": "4a4c126af5501d379f671ddca480f2b8d12f43ad204a1c7f3c86ec397182e0ed",
+      "size": 1487,
+      "added": "2026-10-27",
+      "preview": "previews/xpbottle_blck.png"
+    },
+    {
       "id": "crystal_gubi_fortnite7_1",
       "category": "crystal",
       "name": "gubi fortnite7 1",
