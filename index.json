@@ -120,6 +120,15 @@
       "preview": "previews/windcharge_ice.png"
     },
     {
+      "id": "windcharge_toxic",
+      "category": "windcharge",
+      "name": "Toxic",
+      "sha256": "8616b20577feed04afc1e5daf8708f0783dc69cccf7bbb6a8b9ec9fa9c883146",
+      "size": 1206,
+      "added": "2026-10-28",
+      "preview": "previews/windcharge_toxic.png"
+    },
+    {
       "id": "fire_gubi_fortnite7",
       "category": "fire",
       "name": "gubi fortnite7",
