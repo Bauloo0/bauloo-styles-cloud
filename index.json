@@ -165,6 +165,15 @@
       "preview": "previews/windcharge_galaxy.png"
     },
     {
+      "id": "windcharge_rainbow",
+      "category": "windcharge",
+      "name": "Rainbow",
+      "sha256": "37a6300d99ac97aeffb682c97b42bc6f0f5e32bd4e656f1b8595db1d3de8e35e",
+      "size": 1855,
+      "added": "2026-10-28",
+      "preview": "previews/windcharge_rainbow.png"
+    },
+    {
       "id": "fire_gubi_fortnite7",
       "category": "fire",
       "name": "gubi fortnite7",
