@@ -57,6 +57,15 @@
       "preview": "previews/windcharge_blue.png"
     },
     {
+      "id": "windcharge_purple",
+      "category": "windcharge",
+      "name": "Purple",
+      "sha256": "ea883961685dfcbd23dc41fd6e7f0dee609e5ccb2a470b8f0ba8f543293ed482",
+      "size": 1207,
+      "added": "2026-10-28",
+      "preview": "previews/windcharge_purple.png"
+    },
+    {
       "id": "fire_gubi_fortnite7",
       "category": "fire",
       "name": "gubi fortnite7",
