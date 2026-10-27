@@ -75,6 +75,15 @@
       "preview": "previews/windcharge_pink.png"
     },
     {
+      "id": "windcharge_black",
+      "category": "windcharge",
+      "name": "Black",
+      "sha256": "061291a946b21f431a4dfd46a7859a4999790e8d92e5ecb036e1c8ebfed26e87",
+      "size": 1189,
+      "added": "2026-10-28",
+      "preview": "previews/windcharge_black.png"
+    },
+    {
       "id": "fire_gubi_fortnite7",
       "category": "fire",
       "name": "gubi fortnite7",
