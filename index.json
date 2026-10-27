@@ -4436,7 +4436,8 @@
       "preview": {
         "type": "item",
         "texture": "assets/minecraft/textures/item/wind_charge.png"
-      }
+      },
+      "vip": true
     },
     {
       "id": "xpbottle",
