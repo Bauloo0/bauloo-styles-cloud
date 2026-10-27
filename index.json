@@ -21,6 +21,15 @@
       "preview": "previews/windcharge_orange.png"
     },
     {
+      "id": "windcharge_gold",
+      "category": "windcharge",
+      "name": "Gold",
+      "sha256": "e4283631bff4ef0d3fe5b308a689e749c893e0c8c1391b5b53125bbbfb2c5452",
+      "size": 1205,
+      "added": "2026-10-28",
+      "preview": "previews/windcharge_gold.png"
+    },
+    {
       "id": "fire_gubi_fortnite7",
       "category": "fire",
       "name": "gubi fortnite7",
