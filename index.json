@@ -129,6 +129,15 @@
       "preview": "previews/windcharge_toxic.png"
     },
     {
+      "id": "windcharge_lava",
+      "category": "windcharge",
+      "name": "Lava",
+      "sha256": "b170ef97aedfbbe13f37e8c1372e495b81bb0e47eccbaa7429d5c2086b338b13",
+      "size": 1203,
+      "added": "2026-10-28",
+      "preview": "previews/windcharge_lava.png"
+    },
+    {
       "id": "fire_gubi_fortnite7",
       "category": "fire",
       "name": "gubi fortnite7",
