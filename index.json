@@ -30,6 +30,15 @@
       "preview": "previews/rails_orchard_x_syn_overlay.png"
     },
     {
+      "id": "xpbottle_aquaplus",
+      "category": "xpbottle",
+      "name": "AquaPlus",
+      "sha256": "cba5eb4813becf6478b32946386b32ce07587518b327fe12321834c346b4c47d",
+      "size": 2132,
+      "added": "2026-10-27",
+      "preview": "previews/xpbottle_aquaplus.png"
+    },
+    {
       "id": "crystal_gubi_fortnite7_1",
       "category": "crystal",
       "name": "gubi fortnite7 1",
