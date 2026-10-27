@@ -183,6 +183,15 @@
       "preview": "previews/windcharge_candy.png"
     },
     {
+      "id": "windcharge_neon",
+      "category": "windcharge",
+      "name": "Neon",
+      "sha256": "6e9b13aec01ab8bddddd82126c616b4d399229fee3dfc7aa6e2306fd5743589a",
+      "size": 1194,
+      "added": "2026-10-28",
+      "preview": "previews/windcharge_neon.png"
+    },
+    {
       "id": "fire_gubi_fortnite7",
       "category": "fire",
       "name": "gubi fortnite7",
