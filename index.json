@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "windcharge_red",
+      "category": "windcharge",
+      "name": "Red",
+      "sha256": "1f68e941f52443042154fb871d28e01151d2d92406c92a6b4fb9a5303657c0ae",
+      "size": 1205,
+      "added": "2026-10-28",
+      "preview": "previews/windcharge_red.png"
+    },
+    {
       "id": "fire_gubi_fortnite7",
       "category": "fire",
       "name": "gubi fortnite7",
