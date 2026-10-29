@@ -12,6 +12,15 @@
       "preview": "previews/font_blossom.png"
     },
     {
+      "id": "rails_16x16_legacy_edit",
+      "category": "rails",
+      "name": "16x16 LEGACY EDIT",
+      "sha256": "2f93c6a0c54da0015da187fbac3d1da8bfd8bf5ca27944197e906ca903b43d5e",
+      "size": 5543,
+      "added": "2026-10-29",
+      "preview": "previews/rails_16x16_legacy_edit.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
