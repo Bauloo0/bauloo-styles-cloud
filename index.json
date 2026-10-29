@@ -210,6 +210,15 @@
       "preview": "previews/xpbottle_resourcepacks.png"
     },
     {
+      "id": "inventory_all_black",
+      "category": "inventory",
+      "name": "All Black",
+      "sha256": "f94f986d620f6e76548a7476ae3a79d58b20c45de1d8fc8acbbf3fe3a871471d",
+      "size": 1739,
+      "added": "2026-10-29",
+      "preview": "previews/inventory_all_black.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
