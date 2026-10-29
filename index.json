@@ -21,6 +21,15 @@
       "preview": "previews/rails_16x16_legacy_edit.png"
     },
     {
+      "id": "rails_monochromepvp",
+      "category": "rails",
+      "name": "monochromepvp",
+      "sha256": "62c39531e07722cc9977460a44513d30635a5059d53754b7909d8a0e777f7e24",
+      "size": 4924,
+      "added": "2026-10-29",
+      "preview": "previews/rails_monochromepvp.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
