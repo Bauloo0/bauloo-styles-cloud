@@ -93,6 +93,15 @@
       "preview": "previews/tntcart_orchard_x_syn_overlay.png"
     },
     {
+      "id": "tntcart_jasper",
+      "category": "tntcart",
+      "name": "JASPER",
+      "sha256": "5de0c6e95a00e692f04030c2b86373a843619afba61e645472961c8b8b83925d",
+      "size": 3941,
+      "added": "2026-10-29",
+      "preview": "previews/tntcart_jasper.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
