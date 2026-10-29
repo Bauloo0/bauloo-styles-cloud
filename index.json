@@ -39,6 +39,15 @@
       "preview": "previews/font_zdigsimpleedit.png"
     },
     {
+      "id": "font_capy_exe",
+      "category": "font",
+      "name": "Capy.exe",
+      "sha256": "460cf49d08fb88fb796cd38084002905f3e8d009c8d2666fc37e406c441249d5",
+      "size": 3154,
+      "added": "2026-10-29",
+      "preview": "previews/font_capy_exe.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
