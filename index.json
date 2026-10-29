@@ -138,6 +138,15 @@
       "preview": "previews/tntcart_dylan_mashup_v22.png"
     },
     {
+      "id": "elytra_v_pink",
+      "category": "elytra",
+      "name": "V+Pink",
+      "sha256": "77b8dc07b92b1850984bc96556c2092aba1c4ef47a9ae8a40a79cf5275a58575",
+      "size": 1690,
+      "added": "2026-10-29",
+      "preview": "previews/elytra_v_pink.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
