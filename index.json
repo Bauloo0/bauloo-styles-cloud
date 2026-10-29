@@ -84,6 +84,15 @@
       "preview": "previews/tntcart_helios_private_cupcakebox.png"
     },
     {
+      "id": "tntcart_orchard_x_syn_overlay",
+      "category": "tntcart",
+      "name": "orchard x syn overlay",
+      "sha256": "37550ea36c2f736de9639c3a126a67505f1410d76f6cc42035c9e6d5f7de27b8",
+      "size": 4900,
+      "added": "2026-10-29",
+      "preview": "previews/tntcart_orchard_x_syn_overlay.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
