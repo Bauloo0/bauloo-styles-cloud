@@ -120,6 +120,15 @@
       "preview": "previews/tntcart_doge_privatev2_edit.png"
     },
     {
+      "id": "tntcart_crystalanchor_private",
+      "category": "tntcart",
+      "name": "Crystalanchor Private",
+      "sha256": "e742d9eef989a34bd21757b68eccc48b75a95aa91c46ba392158027130a630bc",
+      "size": 3096,
+      "added": "2026-10-29",
+      "preview": "previews/tntcart_crystalanchor_private.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
