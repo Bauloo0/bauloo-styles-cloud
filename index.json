@@ -156,6 +156,15 @@
       "preview": "previews/elytra_kesie_optimal.png"
     },
     {
+      "id": "elytra_daquavious",
+      "category": "elytra",
+      "name": "Daquavious",
+      "sha256": "a580f465ba14fcc4cc4f9f9cc88e486e6b3bb998be0950d50feb73d63ef6fc54",
+      "size": 1369,
+      "added": "2026-10-29",
+      "preview": "previews/elytra_daquavious.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
