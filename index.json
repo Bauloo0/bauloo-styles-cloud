@@ -201,6 +201,15 @@
       "preview": "previews/xpbottle_c_lt_6_la_e_li_2_lw_9_lo_5_ln_b_l100_s.png"
     },
     {
+      "id": "xpbottle_resourcepacks",
+      "category": "xpbottle",
+      "name": "resourcepacks",
+      "sha256": "81ff7c13ff6f4055f5fa84f953c22d7da07a59383bca93c4ae991e890cc9c8af",
+      "size": 796,
+      "added": "2026-10-29",
+      "preview": "previews/xpbottle_resourcepacks.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
