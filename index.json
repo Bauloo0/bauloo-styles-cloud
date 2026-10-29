@@ -129,6 +129,15 @@
       "preview": "previews/tntcart_crystalanchor_private.png"
     },
     {
+      "id": "tntcart_dylan_mashup_v22",
+      "category": "tntcart",
+      "name": "DYLAN Mashup v22",
+      "sha256": "545620fb81479663f645af7c6bf96f1c44df1caee0142eb120819f352595a439",
+      "size": 13075,
+      "added": "2026-10-29",
+      "preview": "previews/tntcart_dylan_mashup_v22.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
