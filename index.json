@@ -4583,7 +4583,7 @@
     },
     {
       "id": "tntcart",
-      "slot": 5,
+      "slot": 9,
       "name": "TNT Minecart",
       "icon": "minecraft:tnt_minecart",
       "files": [
@@ -4692,6 +4692,29 @@
       "preview": {
         "type": "item",
         "texture": "assets/minecraft/textures/block/rail.png"
+      }
+    },
+    {
+      "id": "font",
+      "slot": 11,
+      "name": "Font",
+      "icon": "minecraft:name_tag",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/font/(ascii|accented|nonlatin_european|ascii_sga)\\.png$",
+          "to": "assets/minecraft/textures/font/$1.png"
+        }
+      ],
+      "detect": "textures/font/ascii\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/font/ascii.png",
+        "crop": [
+          0,
+          0.25,
+          1,
+          0.25
+        ]
       }
     }
   ]
