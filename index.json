@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "font_blossom",
+      "category": "font",
+      "name": "Blossom",
+      "sha256": "44fcf331ceee74d67ee7b40082169cfb0687dc93bf177c573c7df33e5f777d00",
+      "size": 11263,
+      "added": "2026-10-29",
+      "preview": "previews/font_blossom.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
