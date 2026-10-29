@@ -165,6 +165,15 @@
       "preview": "previews/elytra_daquavious.png"
     },
     {
+      "id": "elytra_emily_edit",
+      "category": "elytra",
+      "name": "Emily edit",
+      "sha256": "896def84309c9a6fdfcd96c4326f553cc5ef3f7aba4c22053486cf0c2f1eefc5",
+      "size": 4297,
+      "added": "2026-10-29",
+      "preview": "previews/elytra_emily_edit.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
