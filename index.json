@@ -48,6 +48,15 @@
       "preview": "previews/font_capy_exe.png"
     },
     {
+      "id": "font_drac0q_overlay_v7",
+      "category": "font",
+      "name": "DRAC0Q OVERLAY v7",
+      "sha256": "c55205113fbca832b0e3c834fc60b96988185467081c64954b5591076f3bc00e",
+      "size": 11470,
+      "added": "2026-10-29",
+      "preview": "previews/font_drac0q_overlay_v7.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
