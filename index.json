@@ -75,6 +75,15 @@
       "preview": "previews/tntcart_nebula.png"
     },
     {
+      "id": "tntcart_helios_private_cupcakebox",
+      "category": "tntcart",
+      "name": "helios private cupcakebox",
+      "sha256": "08ea04c24767ff3b0a7b6d8b55ebe9d11c5f331b40e57dc59c156f01b6a372f8",
+      "size": 8616,
+      "added": "2026-10-29",
+      "preview": "previews/tntcart_helios_private_cupcakebox.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
