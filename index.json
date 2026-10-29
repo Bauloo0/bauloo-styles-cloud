@@ -111,6 +111,15 @@
       "preview": "previews/tntcart_pink_scence.png"
     },
     {
+      "id": "tntcart_doge_privatev2_edit",
+      "category": "tntcart",
+      "name": "Doge PrivateV2 edit",
+      "sha256": "03da13e32d8f21aed0829b01295dc620b05d8df30a2a4d9636915a26b5fa4fe6",
+      "size": 10965,
+      "added": "2026-10-29",
+      "preview": "previews/tntcart_doge_privatev2_edit.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
