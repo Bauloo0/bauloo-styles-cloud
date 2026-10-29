@@ -66,6 +66,15 @@
       "preview": "previews/font_colden_e100.png"
     },
     {
+      "id": "tntcart_nebula",
+      "category": "tntcart",
+      "name": "Nebula",
+      "sha256": "0f06a08d2830b6555b6b0323f19f3716cb7f9b84912a38f17fd0c2d4775bcaae",
+      "size": 13914,
+      "added": "2026-10-29",
+      "preview": "previews/tntcart_nebula.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
