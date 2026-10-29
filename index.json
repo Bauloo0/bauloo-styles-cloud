@@ -30,6 +30,15 @@
       "preview": "previews/rails_monochromepvp.png"
     },
     {
+      "id": "font_zdigsimpleedit",
+      "category": "font",
+      "name": "zdigsimpleedit",
+      "sha256": "d12a379abc7d2acf2a3c1340b391b0ead3a2ce8752da1be21a5894031d7b0d6e",
+      "size": 1508,
+      "added": "2026-10-29",
+      "preview": "previews/font_zdigsimpleedit.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
