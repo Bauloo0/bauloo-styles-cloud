@@ -57,6 +57,15 @@
       "preview": "previews/font_drac0q_overlay_v7.png"
     },
     {
+      "id": "font_colden_e100",
+      "category": "font",
+      "name": "colden-e100",
+      "sha256": "f8abe1150f9b35e90e3a3cc92df77230d62f060aacce52dd9a5a19332303a39a",
+      "size": 7921,
+      "added": "2026-10-29",
+      "preview": "previews/font_colden_e100.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
