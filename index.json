@@ -147,6 +147,15 @@
       "preview": "previews/elytra_v_pink.png"
     },
     {
+      "id": "elytra_kesie_optimal",
+      "category": "elytra",
+      "name": "Kesie Optimal",
+      "sha256": "a87f5e32522cef8c92e89c5fac9386136e03221450213b211f9eed8762c549b5",
+      "size": 2239,
+      "added": "2026-10-29",
+      "preview": "previews/elytra_kesie_optimal.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
