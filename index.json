@@ -4779,6 +4779,37 @@
           0.25
         ]
       }
+    },
+    {
+      "id": "elytra",
+      "slot": 10,
+      "name": "Elytra",
+      "icon": "minecraft:elytra",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/entity/equipment/wings/(elytra\\.png)$",
+          "to": "assets/minecraft/textures/entity/equipment/wings/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/entity/(elytra\\.png)$",
+          "to": "assets/minecraft/textures/entity/equipment/wings/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/items?/((broken_)?elytra\\.png)$",
+          "to": "assets/minecraft/textures/item/$1"
+        }
+      ],
+      "detect": "entity/(equipment/wings/)?elytra\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/entity/equipment/wings/elytra.png",
+        "crop": [
+          0.515625,
+          0.0,
+          0.203125,
+          0.6875
+        ]
+      }
     }
   ]
 }
