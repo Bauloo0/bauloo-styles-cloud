@@ -183,6 +183,15 @@
       "preview": "previews/xpbottle_theos_pack_but_better.png"
     },
     {
+      "id": "xpbottle_5lquelly_default_edit",
+      "category": "xpbottle",
+      "name": "5lQuelly default edit",
+      "sha256": "edab8fcc44e63514b85740f75ee6e5c399735d89538bfc0313d3e4644b25b1ee",
+      "size": 2216,
+      "added": "2026-10-29",
+      "preview": "previews/xpbottle_5lquelly_default_edit.png"
+    },
+    {
       "id": "windcharge_red",
       "category": "windcharge",
       "name": "Red",
