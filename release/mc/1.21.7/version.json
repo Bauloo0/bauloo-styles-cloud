@@ -1,32 +1,6 @@
 {
-  "version": "1.6.1+mc1.21.7",
+  "version": "1.6.2+mc1.21.7",
   "url": "https://raw.githubusercontent.com/Bauloo0/bauloo-styles-cloud/main/release/mc/1.21.7/bauloo-styles.jar",
-  "sha256": "781f9d44430e4a7b5904ab00df48b70491869a5495fccbbf9605347b66c47a75",
-  "size": 7036257,
-  "notes": [
-    [
-      "NEW",
-      "9 kill effects: UFO, Black Hole, Meteor and more"
-    ],
-    [
-      "NEW",
-      "Mace Effects, Sky Effects and Totem Pop"
-    ],
-    [
-      "NEW",
-      "Ask Bauloo AI right in the menu"
-    ],
-    [
-      "NEW",
-      "Styles over server packs"
-    ],
-    [
-      "FIX",
-      "Styles not turning on with Dawn"
-    ],
-    [
-      "FIX",
-      "Style packs showing in other pack menus"
-    ]
-  ]
+  "sha256": "61166d0e83e514efacc45181522f92dcfb10241df2cb693d99c3c437e4e71fec",
+  "size": 7060256
 }
