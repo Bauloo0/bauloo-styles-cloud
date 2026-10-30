@@ -1,28 +1,32 @@
 {
-  "version": "1.6.0+mc1.21.7",
+  "version": "1.6.1+mc1.21.7",
   "url": "https://raw.githubusercontent.com/Bauloo0/bauloo-styles-cloud/main/release/mc/1.21.7/bauloo-styles.jar",
-  "sha256": "a97b9f4d9cbc302601ed255458220f24c2d4ea4bd1b3ba1dd01027325110c4c9",
-  "size": 10123582,
+  "sha256": "781f9d44430e4a7b5904ab00df48b70491869a5495fccbbf9605347b66c47a75",
+  "size": 7036257,
   "notes": [
     [
       "NEW",
-      "Glass menu in 7 colours, Halloween included"
+      "9 kill effects: UFO, Black Hole, Meteor and more"
     ],
     [
       "NEW",
-      "Extras as tiles, Neon Glow player outline"
+      "Mace Effects, Sky Effects and Totem Pop"
+    ],
+    [
+      "NEW",
+      "Ask Bauloo AI right in the menu"
+    ],
+    [
+      "NEW",
+      "Styles over server packs"
     ],
     [
       "FIX",
-      "Capes with Wavey Capes"
+      "Styles not turning on with Dawn"
     ],
     [
-      "GONE",
-      "Auto updater - get new versions from the site"
-    ],
-    [
-      "GONE",
-      "Hit Color, Low Fire, Fog, Grey world"
+      "FIX",
+      "Style packs showing in other pack menus"
     ]
   ]
 }
