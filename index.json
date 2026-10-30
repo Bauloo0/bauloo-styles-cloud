@@ -4771,9 +4771,7 @@
         "type": "item",
         "texture": "assets/minecraft/textures/item/trident.png"
       }
-    }
-  ],
-  "adminCategories": [
+    },
     {
       "id": "spear",
       "slot": 5,
@@ -4798,31 +4796,6 @@
       }
     },
     {
-      "id": "tntcart",
-      "slot": 9,
-      "name": "TNT Minecart",
-      "icon": "minecraft:tnt_minecart",
-      "files": [
-        {
-          "match": "^assets/minecraft/textures/items?/(?:tnt_minecart|minecart_tnt)\\.png$",
-          "to": "assets/minecraft/textures/item/tnt_minecart.png"
-        },
-        {
-          "match": "^assets/minecraft/textures/entity/(minecart\\.png)$",
-          "to": "assets/minecraft/textures/entity/$1"
-        },
-        {
-          "match": "^assets/minecraft/textures/blocks?/tnt_(side|top|bottom)\\.png$",
-          "to": "assets/minecraft/textures/block/tnt_$1.png"
-        }
-      ],
-      "detect": "items?/(tnt_minecart|minecart_tnt)\\.png$",
-      "preview": {
-        "type": "item",
-        "texture": "assets/minecraft/textures/item/tnt_minecart.png"
-      }
-    },
-    {
       "id": "windcharge",
       "slot": 6,
       "name": "Wind Charge",
@@ -4841,8 +4814,7 @@
       "preview": {
         "type": "item",
         "texture": "assets/minecraft/textures/item/wind_charge.png"
-      },
-      "vip": true
+      }
     },
     {
       "id": "xpbottle",
@@ -4911,26 +4883,28 @@
       }
     },
     {
-      "id": "font",
-      "slot": 11,
-      "name": "Font",
-      "icon": "minecraft:name_tag",
+      "id": "tntcart",
+      "slot": 9,
+      "name": "TNT Minecart",
+      "icon": "minecraft:tnt_minecart",
       "files": [
         {
-          "match": "^assets/minecraft/textures/font/(ascii|accented|nonlatin_european|ascii_sga)\\.png$",
-          "to": "assets/minecraft/textures/font/$1.png"
+          "match": "^assets/minecraft/textures/items?/(?:tnt_minecart|minecart_tnt)\\.png$",
+          "to": "assets/minecraft/textures/item/tnt_minecart.png"
+        },
+        {
+          "match": "^assets/minecraft/textures/entity/(minecart\\.png)$",
+          "to": "assets/minecraft/textures/entity/$1"
+        },
+        {
+          "match": "^assets/minecraft/textures/blocks?/tnt_(side|top|bottom)\\.png$",
+          "to": "assets/minecraft/textures/block/tnt_$1.png"
         }
       ],
-      "detect": "textures/font/ascii\\.png$",
+      "detect": "items?/(tnt_minecart|minecart_tnt)\\.png$",
       "preview": {
         "type": "item",
-        "texture": "assets/minecraft/textures/font/ascii.png",
-        "crop": [
-          0,
-          0.25,
-          1,
-          0.25
-        ]
+        "texture": "assets/minecraft/textures/item/tnt_minecart.png"
       }
     },
     {
@@ -4963,6 +4937,30 @@
           0.6875
         ]
       }
+    },
+    {
+      "id": "font",
+      "slot": 11,
+      "name": "Font",
+      "icon": "minecraft:name_tag",
+      "files": [
+        {
+          "match": "^assets/minecraft/textures/font/(ascii|accented|nonlatin_european|ascii_sga)\\.png$",
+          "to": "assets/minecraft/textures/font/$1.png"
+        }
+      ],
+      "detect": "textures/font/ascii\\.png$",
+      "preview": {
+        "type": "item",
+        "texture": "assets/minecraft/textures/font/ascii.png",
+        "crop": [
+          0,
+          0.25,
+          1,
+          0.25
+        ]
+      }
     }
-  ]
+  ],
+  "adminCategories": []
 }
