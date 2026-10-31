@@ -201,6 +201,15 @@
       "preview": "previews/armor_purpslight.png"
     },
     {
+      "id": "armor_jackify_private",
+      "category": "armor",
+      "name": "Jackify Private",
+      "sha256": "4d2388869637d1371efb580a0e47e8bcf0f156f3569db5a5889142f0d0ead095",
+      "size": 63657,
+      "added": "2026-10-31",
+      "preview": "previews/armor_jackify_private.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
