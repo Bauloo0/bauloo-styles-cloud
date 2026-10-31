@@ -255,6 +255,15 @@
       "preview": "previews/xpbottle_steams_yellow_edit.png"
     },
     {
+      "id": "xpbottle_purplfault_private",
+      "category": "xpbottle",
+      "name": "purplfault private",
+      "sha256": "32b47c080b1d809a9b77d32827a9371846781f048adea316dfbfb1c02d9d08a7",
+      "size": 729,
+      "added": "2026-10-31",
+      "preview": "previews/xpbottle_purplfault_private.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
