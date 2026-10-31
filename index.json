@@ -138,6 +138,15 @@
       "preview": "previews/obsidian_purplfault_private.png"
     },
     {
+      "id": "obsidian_1",
+      "category": "obsidian",
+      "name": "1",
+      "sha256": "16c359662a6546888efc743fddfb12f05d409f93c07a9f641ce6fdcf37a1f029",
+      "size": 73167,
+      "added": "2026-10-31",
+      "preview": "previews/obsidian_1.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
