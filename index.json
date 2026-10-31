@@ -165,6 +165,15 @@
       "preview": "previews/glowstone_shade_black.png"
     },
     {
+      "id": "glowstone_shade_blue",
+      "category": "glowstone",
+      "name": "Shade Blue",
+      "sha256": "0b9ea7d1255d623451f26b036e3f8b995f2b30742712a79aa3facebdac9feec3",
+      "size": 745,
+      "added": "2026-10-31",
+      "preview": "previews/glowstone_shade_blue.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
