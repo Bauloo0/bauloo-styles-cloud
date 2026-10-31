@@ -156,6 +156,15 @@
       "preview": "previews/obsidian_lavander_1_21_11.png"
     },
     {
+      "id": "glowstone_shade_black",
+      "category": "glowstone",
+      "name": "Shade Black",
+      "sha256": "cf0c486cfeb57a2b530bbffe568eb03e6913d51743c38beaa34dac5ea00f5652",
+      "size": 745,
+      "added": "2026-10-31",
+      "preview": "previews/glowstone_shade_black.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
