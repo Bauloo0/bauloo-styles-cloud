@@ -147,6 +147,15 @@
       "preview": "previews/obsidian_1.png"
     },
     {
+      "id": "obsidian_lavander_1_21_11",
+      "category": "obsidian",
+      "name": "Lavander 1.21.11",
+      "sha256": "cf13923e2feedb54034427f146310e0cacd155b4bf525e4ce044193b91cafe20",
+      "size": 1451,
+      "added": "2026-10-31",
+      "preview": "previews/obsidian_lavander_1_21_11.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
