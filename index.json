@@ -75,6 +75,15 @@
       "preview": "previews/anchor_kyfes.png"
     },
     {
+      "id": "anchor_steams_yellow_edit",
+      "category": "anchor",
+      "name": "Steams Yellow Edit",
+      "sha256": "265c5c0e58503d76c1b8f9f93a230c7fb49c83a88ae383831d39716cd4307105",
+      "size": 7010,
+      "added": "2026-10-31",
+      "preview": "previews/anchor_steams_yellow_edit.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
