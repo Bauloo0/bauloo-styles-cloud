@@ -84,6 +84,15 @@
       "preview": "previews/anchor_steams_yellow_edit.png"
     },
     {
+      "id": "anchor_kesie_bulb",
+      "category": "anchor",
+      "name": "Kesie Bulb",
+      "sha256": "6bc9aecf2a8e41c881f503be6726d02a2543824eaf7c3d8d7641e89c7fd45e83",
+      "size": 9211,
+      "added": "2026-10-31",
+      "preview": "previews/anchor_kesie_bulb.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
