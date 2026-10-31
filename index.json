@@ -237,6 +237,15 @@
       "preview": "previews/fire_lavendercat.png"
     },
     {
+      "id": "fire_kingroxxy_s_pink_dlvaunta_recolour",
+      "category": "fire",
+      "name": "kingroxxy's pink dlvaunta recolour",
+      "sha256": "5c3d3af566705f7c393a4d3466460068b2b280ccf2ba33bd743658b3857c7cbb",
+      "size": 1249,
+      "added": "2026-10-31",
+      "preview": "previews/fire_kingroxxy_s_pink_dlvaunta_recolour.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
