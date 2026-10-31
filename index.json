@@ -39,6 +39,15 @@
       "preview": "previews/crystal_purple_private_edit.png"
     },
     {
+      "id": "crystal_ggravpriavte",
+      "category": "crystal",
+      "name": "GGravPriavte",
+      "sha256": "d2c4d277d6d391665ca2a2556c5a95596bbbe84ceac66fedc95517f62cc59884",
+      "size": 4131,
+      "added": "2026-10-31",
+      "preview": "previews/crystal_ggravpriavte.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
