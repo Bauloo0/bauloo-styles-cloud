@@ -12,6 +12,15 @@
       "preview": "previews/crystal_lennon_priv.png"
     },
     {
+      "id": "crystal_o6o_isrxpxnts_private_v2",
+      "category": "crystal",
+      "name": "o6o ISrxpxnts Private v2",
+      "sha256": "74e3484d5ec7bc51a7b897aa027f85c19aa5ed84f553de6f3547a7c0817e4f6a",
+      "size": 1336,
+      "added": "2026-10-31",
+      "preview": "previews/crystal_o6o_isrxpxnts_private_v2.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
