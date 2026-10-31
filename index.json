@@ -228,6 +228,15 @@
       "preview": "previews/sword_kesu_main.png"
     },
     {
+      "id": "fire_lavendercat",
+      "category": "fire",
+      "name": "lavendercat",
+      "sha256": "0800e17b40509b5cc2490858aba1d1d3065e6bbfd3a3bdf28b53b1bf05987008",
+      "size": 6366,
+      "added": "2026-10-31",
+      "preview": "previews/fire_lavendercat.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
