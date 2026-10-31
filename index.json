@@ -210,6 +210,15 @@
       "preview": "previews/armor_jackify_private.png"
     },
     {
+      "id": "sword_spectral",
+      "category": "sword",
+      "name": "Spectral",
+      "sha256": "afb458fa2857c2900860f099895ab6e06598e530d4a9fd82263e3b987ddca1d9",
+      "size": 2407,
+      "added": "2026-10-31",
+      "preview": "previews/sword_spectral.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
