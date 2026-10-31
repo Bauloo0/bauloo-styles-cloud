@@ -3,6 +3,15 @@
   "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
   "styles": [
     {
+      "id": "crystal_lennon_priv",
+      "category": "crystal",
+      "name": "lennon priv",
+      "sha256": "cb03d6c32bac6cd9ffb757bfdbba5b195e90f52923aa1591e226a40a5428f240",
+      "size": 20031,
+      "added": "2026-10-31",
+      "preview": "previews/crystal_lennon_priv.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
