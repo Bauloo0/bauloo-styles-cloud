@@ -246,6 +246,15 @@
       "preview": "previews/fire_kingroxxy_s_pink_dlvaunta_recolour.png"
     },
     {
+      "id": "xpbottle_steams_yellow_edit",
+      "category": "xpbottle",
+      "name": "Steams Yellow Edit",
+      "sha256": "b441880994c0a71677ed2c253b9b942ae3db60ca807bf788f6c77b2b8d68db53",
+      "size": 711,
+      "added": "2026-10-31",
+      "preview": "previews/xpbottle_steams_yellow_edit.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
