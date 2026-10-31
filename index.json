@@ -48,6 +48,15 @@
       "preview": "previews/crystal_ggravpriavte.png"
     },
     {
+      "id": "crystal_killa_s_lightmode",
+      "category": "crystal",
+      "name": "killa's lightmode",
+      "sha256": "c35e70422281985643f30cb38734224dba6d455da6af376998bbe8fae7201598",
+      "size": 3820,
+      "added": "2026-10-31",
+      "preview": "previews/crystal_killa_s_lightmode.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
