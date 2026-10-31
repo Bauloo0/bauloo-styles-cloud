@@ -30,6 +30,15 @@
       "preview": "previews/crystal_golfeh_blue.png"
     },
     {
+      "id": "crystal_purple_private_edit",
+      "category": "crystal",
+      "name": "Purple Private Edit",
+      "sha256": "4d38476a1300755d219a012df71fbcd8631ecf6b8f4d1316cdfe446855eab161",
+      "size": 4655,
+      "added": "2026-10-31",
+      "preview": "previews/crystal_purple_private_edit.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
