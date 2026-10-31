@@ -102,6 +102,15 @@
       "preview": "previews/obsidian_blck.png"
     },
     {
+      "id": "obsidian_zinc",
+      "category": "obsidian",
+      "name": "Zinc",
+      "sha256": "a0cc8a3d96fc7e8c785d80cef33184936c18598da61f3798074daaee962f3f17",
+      "size": 704,
+      "added": "2026-10-31",
+      "preview": "previews/obsidian_zinc.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
