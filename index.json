@@ -93,6 +93,15 @@
       "preview": "previews/anchor_kesie_bulb.png"
     },
     {
+      "id": "obsidian_blck",
+      "category": "obsidian",
+      "name": "Blck",
+      "sha256": "76f0617b5ad2233b0106b2fc4909fdc4c66d2a7b44bc592ead96e419ab48ce94",
+      "size": 2182,
+      "added": "2026-10-31",
+      "preview": "previews/obsidian_blck.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
