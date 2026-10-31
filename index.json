@@ -120,6 +120,15 @@
       "preview": "previews/obsidian_purple_private_edit.png"
     },
     {
+      "id": "obsidian_kyfes",
+      "category": "obsidian",
+      "name": "Kyfes",
+      "sha256": "d3676553dacf581f0ab9588aac8f72554311857ddaaf433c18fa4fe8d7553fa2",
+      "size": 4577,
+      "added": "2026-10-31",
+      "preview": "previews/obsidian_kyfes.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
