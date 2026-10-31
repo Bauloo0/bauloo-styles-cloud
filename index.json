@@ -111,6 +111,15 @@
       "preview": "previews/obsidian_zinc.png"
     },
     {
+      "id": "obsidian_purple_private_edit",
+      "category": "obsidian",
+      "name": "Purple Private Edit",
+      "sha256": "28b9ec1b931672f4459aa6e942625cc9cb40f39fccf2ab68094f3eab7372ab7f",
+      "size": 836,
+      "added": "2026-10-31",
+      "preview": "previews/obsidian_purple_private_edit.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
