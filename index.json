@@ -192,6 +192,15 @@
       "preview": "previews/armor_purpite_private.png"
     },
     {
+      "id": "armor_purpslight",
+      "category": "armor",
+      "name": "PurpsLight",
+      "sha256": "f32641ec3eaf5a9d8b1d0b0cffd259b3bd1841f4395c9603a566da2d2664b76f",
+      "size": 22989,
+      "added": "2026-10-31",
+      "preview": "previews/armor_purpslight.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
