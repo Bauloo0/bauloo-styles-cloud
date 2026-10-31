@@ -57,6 +57,15 @@
       "preview": "previews/crystal_killa_s_lightmode.png"
     },
     {
+      "id": "crystal_blck",
+      "category": "crystal",
+      "name": "Blck",
+      "sha256": "58a43c39a773a4ccb1eed0006a378f5f456adf71f314f29e9127f2405df62777",
+      "size": 3247,
+      "added": "2026-10-31",
+      "preview": "previews/crystal_blck.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
