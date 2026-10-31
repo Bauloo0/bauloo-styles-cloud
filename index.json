@@ -129,6 +129,15 @@
       "preview": "previews/obsidian_kyfes.png"
     },
     {
+      "id": "obsidian_purplfault_private",
+      "category": "obsidian",
+      "name": "purplfault private",
+      "sha256": "0d0ad45fe9a1d0c3b06480bf1f2cd11a6e3eb1f2df98f621c9750ca990c8f39a",
+      "size": 546,
+      "added": "2026-10-31",
+      "preview": "previews/obsidian_purplfault_private.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
