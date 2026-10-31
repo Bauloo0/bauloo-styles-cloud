@@ -219,6 +219,15 @@
       "preview": "previews/sword_spectral.png"
     },
     {
+      "id": "sword_kesu_main",
+      "category": "sword",
+      "name": "Kesu Main",
+      "sha256": "61b84daa48c13df27dba57f262fa1e672edbbe0c9152a330cab633e21b19bbf6",
+      "size": 747,
+      "added": "2026-10-31",
+      "preview": "previews/sword_kesu_main.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
