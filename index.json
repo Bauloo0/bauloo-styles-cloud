@@ -183,6 +183,15 @@
       "preview": "previews/glowstone_kesie_blueberrybutlighter.png"
     },
     {
+      "id": "armor_purpite_private",
+      "category": "armor",
+      "name": "Purpite Private",
+      "sha256": "004e0f0620dbc9e765cc3c30c5dfa5bbc989070c37db2716781b3189e1f08561",
+      "size": 22353,
+      "added": "2026-10-31",
+      "preview": "previews/armor_purpite_private.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
