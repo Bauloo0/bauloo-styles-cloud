@@ -21,6 +21,15 @@
       "preview": "previews/crystal_o6o_isrxpxnts_private_v2.png"
     },
     {
+      "id": "crystal_golfeh_blue",
+      "category": "crystal",
+      "name": "Golfeh Blue",
+      "sha256": "54db9f34dcff1f6dd288930538794de2805ac93abcaefa803c6a97c738dfd8f9",
+      "size": 3099,
+      "added": "2026-10-31",
+      "preview": "previews/crystal_golfeh_blue.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
