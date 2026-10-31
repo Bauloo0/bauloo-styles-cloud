@@ -66,6 +66,15 @@
       "preview": "previews/crystal_blck.png"
     },
     {
+      "id": "anchor_kyfes",
+      "category": "anchor",
+      "name": "Kyfes",
+      "sha256": "0a9987638a3a90638885efa0aaf40e12be8d166dc23eeba81914e5cdc76e555e",
+      "size": 17776,
+      "added": "2026-10-31",
+      "preview": "previews/anchor_kyfes.png"
+    },
+    {
       "id": "font_blossom",
       "category": "font",
       "name": "Blossom",
